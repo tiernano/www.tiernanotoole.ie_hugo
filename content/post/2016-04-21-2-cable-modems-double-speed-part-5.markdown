@@ -9,9 +9,11 @@ tags:
 - HowTo
 - HomeLab
 - Double_Internet
-title: (Mad) Max Speed - The Road Warrior (Internet connection) (double speed internet
-  Part 5)
+title: (Mad) Max Speed - The Road Warrior (Internet connection) (double speed internet Part 5)
+slug: 2-cable-modems-double-speed-part-5
+
 ---
+ 
 
 [NOTE] This part 5 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
 

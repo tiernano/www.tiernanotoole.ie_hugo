@@ -6,7 +6,10 @@ tags:
 - Code
 - Blogging
 title: Installing Jekyll on Bash On Ubuntu on Windows
+slug: installing-jekyll-on-bash-on-ubuntu-on-windows
+
 ---
+ 
 
 At the 2016 Build conference, Microsoft announced that [Bash on Ubuntu on Windows][1] was coming. Well, it [came out last week][2], and I installed it as soon as I could! My next challenge was to get [Jekyll][3] to run and install on it, so I can build and preview this site on my [Surface Book][4].
 

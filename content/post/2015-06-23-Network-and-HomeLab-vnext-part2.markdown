@@ -6,7 +6,10 @@ tags:
 - Hardware
 - HomeLab
 title: Network and HomeLab V.Next (Part 2)
+slug: Network-and-HomeLab-vnext-part2
+
 ---
+ 
 
 So, in my last post i talked about the requirements for the home lab, and in this post, im going to talk about a few more updates i have made in the last few weeks.
 

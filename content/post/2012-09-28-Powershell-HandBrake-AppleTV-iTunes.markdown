@@ -5,7 +5,10 @@ tags:
 - Guide
 - Media Center
 title: PowerShell + HandBrake + AppleTV + iTunes = Automatic TV... Ish...
+slug: Powershell-HandBrake-AppleTV-iTunes
+
 ---
+ 
 
 I have an [AppleTV][1] in the house (3, actually) and i am very happy with its ease of use, size and cost... You cant really argue with the small price! 
 

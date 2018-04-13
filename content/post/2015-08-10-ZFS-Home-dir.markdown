@@ -4,7 +4,10 @@ tags:
 - Hardware
 - Storage
 title: ZFS Home storage pool
+slug: ZFS-Home-dir
+
 ---
+ 
 
 Over the weekend, my [BTRFS][1] pool for my /home directory on Linux failed... Not sure what happened, but it made me
 do something i wanted to do for a while: Build a [ZFS][2] pool for my home dir.

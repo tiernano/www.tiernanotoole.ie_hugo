@@ -4,7 +4,10 @@ tags:
 - Raspberry_Pi
 - VoIP
 title: Mobile Phone as a Service
+slug: mobile_phone_as_a_service
+
 ---
+ 
 
 After my [post][1] about the Raspberry Pi acting as a VoIP server, and being able to add a 3G Dongle and allowing it to act as a Mobile Phone gateway, it got me thinking... Why not have something that allows you to rent a mobile phone number in a country, send and recieve text messages, phone calls, etc, all from anywhere in the world? Thats where [Mobile Phone as a Service][2] comes in... 
 

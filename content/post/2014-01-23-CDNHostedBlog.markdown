@@ -6,7 +6,10 @@ tags:
 - Jekyll
 - Cloud
 title: CDN Hosted Blog
+slug: CDNHostedBlog
+
 ---
+ 
 
 Well, if you can read this, this site is now hosted fully on [AWS][1] with both [S3][2] and [CloudFront][3]. More details eventually...
 

@@ -5,7 +5,10 @@ tags:
 - Projects
 - Media Center
 title: Handbrake Cluster
+slug: Handbrake-Cluster
+
 ---
+ 
 
 [UPDATED] someone asked in the comments if there was an binary build for this file. there is now! [http://handbrakecluster.codeplex.com][8] now hosts the code and binaries, and will soon have help files and documentation.
 

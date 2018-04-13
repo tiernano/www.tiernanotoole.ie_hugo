@@ -3,7 +3,10 @@ date: 2012-09-27T00:00:00Z
 tags:
 - VoIP
 title: More VoIP Stuff
+slug: More-VoIP-Stuff
+
 ---
+ 
 
 As part of my ongoing plan to upgrade the house to VoIP, and as a follow up to my first [VoIP stuff][1] post, here are some more things i have found...
 

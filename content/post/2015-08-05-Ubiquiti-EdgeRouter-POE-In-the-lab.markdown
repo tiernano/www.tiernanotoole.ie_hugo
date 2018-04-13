@@ -6,7 +6,10 @@ tags:
 - Hardware
 - HomeLab
 title: Ubiquiti EdgeRouter PoE in the lab
+slug: Ubiquiti-EdgeRouter-POE-In-the-lab
+
 ---
+ 
 
 Today, my [Ubiquiti EdgeRouter POE][1] arrived in the house. I got it hooked up to both UPC connections (as secondary connections) and all seems to be working grand. Some notes i wanted to put up here:
 

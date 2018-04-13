@@ -4,7 +4,10 @@ tags:
 - Networking
 - Linux
 title: WANProxy and Squid with Upstream Servers
+slug: wanproxy_and_squid_with_upstream_servers
+
 ---
+ 
 
 In my [previous post on WANProxy][1], i did not really go into detail about what it actually was. The direct quote from their site is *[WANProxy][2] is a free, portable TCP proxy which makes TCP connections send less data, which improves TCP performance and throughput over lossy links, slow links and long links. This is just what you need to improve performance over satellite, wireless and WAN links.* This is something that has interested me for a while, so i have been looking into it, and so far so good... In my last post i mentioned i was proxying [Squid][3] traffic, in todays post, i still am, but with some tweaks.
 

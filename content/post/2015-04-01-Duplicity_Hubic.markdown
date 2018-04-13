@@ -5,7 +5,10 @@ tags:
 - Backup
 - Code
 title: Hubic and Duplicity
+slug: Duplicity_Hubic
+
 ---
+ 
 
 I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...
 

@@ -8,7 +8,10 @@ tags:
 - HowTo
 - Windows
 title: Useful Web and Desktop Apps 2016 edition
+slug: useful-web-and-desktop-apps-2016-edition
+
 ---
+ 
 
 I have decided to do a post on some of my favourite tools to use for development, administration, etc. It’s kind of like [Hanselman's Ultimate Tools list][1], but not as popular and about 2 years newer... Anyway, the [list is available here][4], and will be updated over time, much like my [Daily Carry][2] and [Computers][3] pages. If you are interested, you add links though [GitHub][5] by editing the [toolslist.yml data file][6].
 

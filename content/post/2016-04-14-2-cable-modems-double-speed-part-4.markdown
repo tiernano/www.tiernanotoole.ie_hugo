@@ -10,7 +10,10 @@ tags:
 - HomeLab
 - Double_Internet
 title: 2 Cable Modems = Double Speed? Part 4
+slug: 2-cable-modems-double-speed-part-4
+
 ---
+ 
 
 [NOTE] This part 4 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double%Internet/).
 

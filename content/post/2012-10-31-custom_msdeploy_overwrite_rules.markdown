@@ -3,7 +3,10 @@ date: 2012-10-31T09:45:54Z
 tags:
 - Programming
 title: Custom MSDeploy OverWrite Rules
+slug: custom_msdeploy_overwrite_rules
+
 ---
+ 
 
 I have a project which we are trying to automate the deployment system. The plan is to automatically deploy the project to a staging server anytime the build succeeds from SVN. 
 

@@ -4,7 +4,10 @@ tags:
 - Networking
 - VMWare
 title: Quick tip for internet facing ESXi servers
+slug: quick-tip-for-internet-facing-esxi
+
 ---
+ 
 
 Quick tip for all you with internet facing [VMWare ESXi][1] Hosts. I
 have just got my hands on a box on the [Hetzner][2] network (more on

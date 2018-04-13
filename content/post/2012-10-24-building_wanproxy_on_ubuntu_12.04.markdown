@@ -4,7 +4,10 @@ tags:
 - Linux
 - Networking
 title: Building WANProxy on Ubuntu 12.04
+slug: building_wanproxy_on_ubuntu_12.04
+
 ---
+ 
 
 [Updated 2016/04/09] I had to use this today to build on Debian 8.3 for 2 different boxes. So, making minor changes (url to git proxy, and where you build from) to make sure this works now.
 

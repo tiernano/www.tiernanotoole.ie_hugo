@@ -5,7 +5,7 @@ tags:
 - Windows
 - Storage
 title: Understanding Storage Spaces in Windows 8 and Windows Server 2012
-slug:Understanding-Windows8-Storage-Spaces
+slug: Understanding-Windows8-Storage-Spaces
 ---
 
 So, Windows Server 2012 and Windows 8 have both RTMed in the last couple of weeks and will be available to the public in the next month or so (September for Server, October for Client). If you are an MSDN Subscriber, you already have Client, and will (hopefully) get server in the next couple of weeks... Fingers crossed... Anyway, one of the interesting features i am waiting for is [Storage Spaces][2]. Tim Anderson's Gadget Writing blog has some information on [how Storage Spaces works][1]. handy notes on what to do and what not to do. 

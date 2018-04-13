@@ -5,7 +5,10 @@ tags:
 - Windows
 - Development
 title: Bash on Ubuntu on Windows
+slug: bash-on-ubuntu-on-windows
+
 ---
+ 
 
 Microsoft [Build 2016][1] is on this week, and there were a lot of interesting developments yesterday, but the one that interested me the most is [Bash on Ubuntu on Windows][2]. [Dustin from Ubuntu][3] has a more details, and Scott Hanselman has posted [a technical video][4] about this. This is very interesting, and I CANT WAIT TO GET MY HANDS ON IT! But, I do have some questions, which I thought I would put down in blog format:
 

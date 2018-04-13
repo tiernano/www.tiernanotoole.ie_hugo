@@ -5,7 +5,10 @@ tags:
 - Networking
 - Mikrotik
 title: MicroTik RouterOS VPN Setup
+slug: MicroTik-RouterOS-VPN-Setup
+
 ---
+ 
 
 I have been running a [MikroTik RouterBoard][1] in the house for a couple of months now (the [RB750G][2]) and I am very much loving the thing. But one thing you may need to do is setup VPN connections... Here are some tips on how to create a VPN Server and Client on your RouterBoard.
 

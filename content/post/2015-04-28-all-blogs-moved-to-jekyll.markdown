@@ -4,7 +4,10 @@ tags:
 - Announcements
 - Blogging
 title: All blogs moved to Jekyll
+slug: all-blogs-moved-to-jekyll
+
 ---
+ 
 
 Well, its finally happened. All my blogs, [Tiernan's Comms Closet][1], [GeekPhotographer][2] and the [Podcast][3] have been
 moved to [Jekyll][4]. I wrote up [a long and complicated][5] post explaining how I did it... Now, i dont have to worry

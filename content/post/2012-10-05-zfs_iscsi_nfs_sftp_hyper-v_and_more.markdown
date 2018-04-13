@@ -6,7 +6,10 @@ tags:
 - Projects
 - Hyper-V
 title: ZFS iSCSI NFS SFTP Hyper-V and more
+slug: zfs_iscsi_nfs_sftp_hyper-v_and_more
+
 ---
+ 
 
 As part of my new task to make my files safer and backups faster, and, well, cheap, I am looking into [ZFS][5] for my storage needs. My needs are as follows:
 

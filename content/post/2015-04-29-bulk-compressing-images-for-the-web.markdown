@@ -4,7 +4,10 @@ tags:
 - Web
 - Linux
 title: Bulk compressing images for the Web
+slug: bulk-compressing-images-for-the-web
+
 ---
+ 
 
 Now that all my sites are running [Jekyll][1] I am trying to get them optimized for **SPEED** which meant
 looking at all the stuff that takes time to download... There are more tweaks (and possibly posts) coming down

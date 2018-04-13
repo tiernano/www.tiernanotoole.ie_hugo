@@ -6,7 +6,10 @@ tags:
 - Development
 - Git
 title: Git Push DNS
+slug: git-push-dns
+
 ---
+ 
 
 There are now a lot of services that have "git push" options available... you can build websites with
 [Azure][1] and [Github][2], books using [ShareLaTeX][3] and now, DNS using [LuaDNS][4]. I have one zone

@@ -5,7 +5,10 @@ tags:
 - RouterOS
 - Mikrotik
 title: VLANs, Wifi and Mikrotik
+slug: vlans-wifi-and-mikrotik
+
 ---
+ 
 
 About a month ago, while i was recovering from surgery, i attended a Webinar on
 [Cisco Meraki][1] devices. After the webinar, i was contacted by Maraki and given a [MR18][2] with a 3 year license, to play with and evaluate. So, i set it up in the house and all was good.

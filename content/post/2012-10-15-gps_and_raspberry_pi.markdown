@@ -5,7 +5,10 @@ tags:
 - Raspberry_Pi
 - GPS
 title: GPS and Raspberry Pi
+slug: gps_and_raspberry_pi
+
 ---
+ 
 
 Need to add GPS to your Raspberry Pi? [How do i attach a GPS to a Raspberry][1] answers your question!
 

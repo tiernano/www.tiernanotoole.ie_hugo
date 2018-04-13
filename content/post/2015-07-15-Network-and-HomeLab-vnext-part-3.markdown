@@ -6,7 +6,10 @@ tags:
 - Hardware
 - HomeLab
 title: Network and HomeLab V.Next (Part 3)
+slug: Network-and-HomeLab-vnext-part-3
+
 ---
+ 
 
 So, this part of my article set will be talking specifically about the router and wireless network. At the moment, my router is way overkill:
 

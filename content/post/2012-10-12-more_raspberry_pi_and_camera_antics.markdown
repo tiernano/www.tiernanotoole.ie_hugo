@@ -6,7 +6,10 @@ tags:
 - Hardware
 - Raspberry_Pi
 title: more raspberry pi and camera antics
+slug: more_raspberry_pi_and_camera_antics
+
 ---
+ 
 
 A while back I [posted][2] about the [Raspberry Pi][3], and in the post was a link to a Photographer who was [embeding a Raspberry Pi into a Canon 5D MKII battery grip][4]. Well, its been a while, and i have been thinking about the Pi and Cameras, so I went looking around... Here is what i found.
 
