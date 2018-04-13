@@ -10,6 +10,7 @@ tags:
 - HomeLab
 - Double_Internet
 title: double speed Internet Part 9 - Going Back
+slug: double-speed-internet-part-9-going-back
 ---
 
 [NOTE] This part 9 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/)

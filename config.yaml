@@ -2,3 +2,8 @@ baseURL: https://www.tiernanotoole.ie
 disablePathToLower: true
 languageCode: en-us
 title: Tiernan's Comms Closet
+
+uglyurls: true
+
+permalinks:
+  post: /:year/:month/:day/:slug

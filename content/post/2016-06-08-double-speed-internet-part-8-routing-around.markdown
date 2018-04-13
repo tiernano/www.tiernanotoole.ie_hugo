@@ -10,6 +10,7 @@ tags:
 - HomeLab
 - Double_Internet
 title: double speed Internet Part 8 - Routing Around
+slug: double-speed-internet-part-8-routing-around
 ---
 
 [NOTE] This part 8 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).

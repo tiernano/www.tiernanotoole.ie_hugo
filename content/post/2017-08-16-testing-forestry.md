@@ -7,6 +7,9 @@ tags:
 - Website
 - Tools
 title: Testing Forestry
+slug: testing-forestry
+aliases: 
+    - "2017/08/16/testing-forestry.html"
 ---
 
 So, as you probably know, this site is built with [Jekyll](https://jekyllrb.com/). Jekyll is a Static Site Generator, basically taking an input of a load of text files (see the source repo for this site on [Github here](https://github.com/tiernano/www.tiernanotoole.ie/)) and generating a load more HTML (the static HTML is hosted on [Github here](https://github.com/tiernano/www.tiernanotoole.ie-static), which auto publishes to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/web/)).

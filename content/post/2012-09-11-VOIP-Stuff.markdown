@@ -3,6 +3,7 @@ date: 2012-09-11T00:00:00Z
 tags:
 - VoIP
 title: VOIP Stuff
+slug: VOIP-Stuff
 ---
 
 I have been very interested in VOIP stuff for the last while now, and finally started looking at implementing it in the house. Here are some links which may be useful. I will do a full post soon.

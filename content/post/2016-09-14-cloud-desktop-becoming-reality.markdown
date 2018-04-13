@@ -6,6 +6,7 @@ tags:
 - Workstation
 - Hardware
 title: Cloud Desktop becoming a reality
+slug: cloud-desktop-becoming-reality.
 ---
 
 I have talked about the theory of the "Cloud desktop" twice on my older blog ([Rackspace's Hosted Virtual Desktop][1] and [More on the desktop in the cloud][2]) way back since 2011. Since then, a few things have changed:

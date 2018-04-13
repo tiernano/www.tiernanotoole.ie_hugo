@@ -7,6 +7,7 @@ tags:
 - Networking
 - IPv6
 title: IPv6 + MikroTik + Linux + Windows
+slug: ipv6_%2B_mikrotik_%2B_linux_%2B_windows
 ---
 
 I have been wanting to setup an [IPv6][1] network for a while now, but never had the hardware or network to support it. My broadband Modem, a Cisco EPC3925, was pretty useless... But with the advent of [Bridging on the Cisco EPC3925][2] it now works!

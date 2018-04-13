@@ -5,6 +5,7 @@ tags:
 - Networking
 - HomeLab
 title: Meraki and Ubiquiti networks gear Update
+slug: meraki-gear-update
 ---
 
 In [part 6][1] of my [Double Internet Series][2] I mentioned i was running a [Meraki][3] [MX64][4] in the network, and said i would write up about it. I am taking this oppertunity to also write up about the [Ubiquiti networks][6] gear in the house also.
