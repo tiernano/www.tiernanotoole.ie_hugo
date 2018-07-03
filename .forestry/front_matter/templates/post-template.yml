@@ -38,5 +38,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/home.md
 - content/testing.md
 - content/daily-carry.md
