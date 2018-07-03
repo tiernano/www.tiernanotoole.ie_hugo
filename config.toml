@@ -5,7 +5,8 @@ enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 10
 theme = "zen"
-title = "Tiernan's Comms Closet "
+title = "Tiernan's Comms Closet"
+cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]
 section = ["HTML", "RSS"]
@@ -19,5 +20,4 @@ fit = "auto"
 id = "21904595"
 [params.sidebar]
 order = ["search", "recent", "categories", "taglist"]
-cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
 
