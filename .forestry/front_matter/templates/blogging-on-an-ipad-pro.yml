@@ -1,0 +1,39 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: list
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: published
+  label: Published
+  type: boolean
+  hidden: false
+  default: ''
+- name: aliases
+  label: Aliases
+  type: list
+  hidden: false
+  default: ''
+- name: publishdate
+  label: Publishdate
+  type: datetime
+  hidden: false
+  default: ''
