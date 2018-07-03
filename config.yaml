@@ -3,7 +3,10 @@ disablePathToLower: true
 languageCode: en-us
 title: Tiernan's Comms Closet
 
-uglyurls: true
+taxonomies:
+  tag: "tags"
+  category: "categories"
 
 permalinks:
   post: /:year/:month/:day/:slug
+

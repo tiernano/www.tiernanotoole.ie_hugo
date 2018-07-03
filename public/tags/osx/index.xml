@@ -13,10 +13,10 @@
     
     <item>
       <title>enabling VNC from SSH on OSX</title>
-      <link>https://www.tiernanotoole.ie/post/2012-11-29-enabling_vnc_from_ssh_on_osx/</link>
+      <link>https://www.tiernanotoole.ie/2012/11/29/enabling_vnc_from_ssh_on_osx/</link>
       <pubDate>Thu, 29 Nov 2012 16:16:49 +0000</pubDate>
       
-      <guid>https://www.tiernanotoole.ie/post/2012-11-29-enabling_vnc_from_ssh_on_osx/</guid>
+      <guid>https://www.tiernanotoole.ie/2012/11/29/enabling_vnc_from_ssh_on_osx/</guid>
       <description>I have a Late 2008 MacBook Pro in the house, and SSH is enabled on it. I usually leave it on when in work. Anyway, SSH is enabled, but VNC access is not&amp;hellip; I found the following command on Ryan&amp;rsquo;s Tech Notes allowing you to enable it though SSH:
 {% gist 4170122 %}
 ** NOTE ** Change mypasswd to your own password!!!

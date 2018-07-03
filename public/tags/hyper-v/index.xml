@@ -13,10 +13,10 @@
     
     <item>
       <title>ZFS iSCSI NFS SFTP Hyper-V and more</title>
-      <link>https://www.tiernanotoole.ie/post/2012-10-05-zfs_iscsi_nfs_sftp_hyper-v_and_more/</link>
+      <link>https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more/</link>
       <pubDate>Fri, 05 Oct 2012 09:38:13 +0000</pubDate>
       
-      <guid>https://www.tiernanotoole.ie/post/2012-10-05-zfs_iscsi_nfs_sftp_hyper-v_and_more/</guid>
+      <guid>https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more/</guid>
       <description>As part of my new task to make my files safer and backups faster, and, well, cheap, I am looking into ZFS for my storage needs. My needs are as follows:
  Allow me to store lots of different types of data (Photos, Videos, Music, VMs) in different formats (RAW and JPG photos, MP4, AVI and DivX Videos, with DVD and BluRay rips also a posibility, MP3 music and VHD files from HyperV, inclduing ISOs and Snapshots).</description>
     </item>

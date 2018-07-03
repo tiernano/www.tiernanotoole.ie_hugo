@@ -13,10 +13,10 @@
     
     <item>
       <title>Edge Router, Sophos UTM, DMZ and LAN Networks</title>
-      <link>https://www.tiernanotoole.ie/post/2015-09-30-EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls/</link>
+      <link>https://www.tiernanotoole.ie/2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls/</link>
       <pubDate>Wed, 30 Sep 2015 20:00:00 +0000</pubDate>
       
-      <guid>https://www.tiernanotoole.ie/post/2015-09-30-EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls/</guid>
+      <guid>https://www.tiernanotoole.ie/2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls/</guid>
       <description>I have been using an EdgeRouer POE as my main router for most of the network (some of the network still uses PFSense as a router, but thats being removed soon) for the last few weeks, and i am quite happy with it. I also have a second router, a Sophos UTM VM between my first LAN (essentially a DMZ) and my client LAN (there will be more &amp;ldquo;LANs&amp;rdquo; over there soon).</description>
     </item>
     
