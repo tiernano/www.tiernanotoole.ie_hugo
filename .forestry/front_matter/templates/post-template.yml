@@ -37,3 +37,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- content/daily-carry.md
