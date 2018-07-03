@@ -5,5 +5,3 @@ fields:
 - type: text
   name: test
   label: test
-pages:
-- content/testing.md

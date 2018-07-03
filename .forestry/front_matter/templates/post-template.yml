@@ -38,4 +38,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/testing.md
 - content/daily-carry.md
