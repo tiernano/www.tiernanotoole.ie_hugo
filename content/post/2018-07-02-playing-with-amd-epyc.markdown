@@ -29,11 +29,11 @@ I then ran fdisk -l to see what disks i had to play with. on my machine sda and 
 
 So, my first test is the usual test: building the Linux Kernel. I know that this is something that the lads at [ServeTheHome](http://www.servethehome.com) do a lot but its something i wanted to try my self... So, first i installed git and build essential, then bison, flex and ncurses-dev, then i cloned Linus' git repo at git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git. First things first: this machine has a twin 10gb link, a shead load of cores and some very fast storage. How long did it take to clone? it download 1.02 GiB at 35.32MiB/s (about 30 seconds and aboiut 280Mbit/s) and all in, took 2 min 55 seconds to clone. I then ran 'time make -j 49' to see how long it would take... hmmm... no config file... make menuconfig and just hit save... defaults are grand... time make -j 49 again... and more errors... after a bit of googling, i find the page from Ubutnu [showing what i need to do to build the kernel](https://wiki.ubuntu.com/KernelTeam/GitKernelBuild). i follow that... download a LOT more stuff using their instrustions, and finally, we get to build... Time: 6 min 12 seconds... this is a FULL default build of the kernel...
 
-![Top on Epyc building Kernel](top-kernel-build-epyc.PNG)
+![](/v1530618253/top_kernel_build_epy_hdb0R.jpg)
 
 Same build on a VM on GodboxV2 (which was given 32GB RAM and 16 thread, so a full Xeon E5-4620) took 8min 27s to clone (8.18MiB/s. or about 64Mbit/s) and 36 min... yea, that is 3x less cores, 2x less memory, slower storage (This is on Spinny Disk, not SSD), slower network and it is also a VM VS bare metal, still, to be essentially 6 times slower? interesting... I might, at some stage, boot the machine off a live Linux USB and run some more tests, but not tonight...
 
-![Top on GodBoxV2 building Kernel](top-kernel-build-godboxv2.PNG)
+![](/v1530618253/top-kernel-build-godboxv2.png)
 
 So, all this is becasue i was holding out for the main event... Photo processing... I wanted to do somethign "real life", which for me would be development and photo processing... the kernel build gives an idea of a large project build built, the image processsing gives an idea of multimedia work...
 
@@ -41,10 +41,10 @@ so, i devised a test: Export a bunch of photos (mix of photos taken on my 5Ds, 5
 
 In total, there was 1546 photos exported, and the total file size was 15Gb. First obstical was to get them uploaded to the Packet machine, which took a while (my upload speed is currently 40Mbit/s)... Once up, i downloaded a copy of dotnet core 2.0 SDK, cloned the repo with the project, built and ran... and man, its fast! 4 min 43 seconds. And it used all the cores.
 
-![Top on Epyc when running Image Test](image-resizer-epyc.PNG)
+![](/v1530618252/image-resizer-epyc.png)
 
 Running the same code on GodBoxV2 on the bare metal (no VM this time), i got XX min of a run... Now, GodBoxV2 has other things running in the back ground, but not that much... I also noticed that, on average, photos were being processed in 3-5 seconds on Epyc, but nearly 13-15, and sometimes 20 and 25 seconds on GodBoxV2. I also noticed that on Epyc, the dotnet process took nearly 45GB of RAM... to run... On GodBoxV2, it took over 70!
 
-![Task Man on Windows when runing Image Test](image-resizer-godboxv2.PNG)
+![](/v1530618252/image_resizer_godbox_f5de0.jpg)
 
 So, there you have it. Some starting tests with these processors. I am well impressed with these processors, and would have no issue getting one for the next GodBox... And with names like Epyc and Threadripper, why not?!
