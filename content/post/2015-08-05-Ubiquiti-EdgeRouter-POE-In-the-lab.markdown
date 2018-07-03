@@ -1,5 +1,5 @@
 ---
-date: 2015-08-05T21:00:00Z
+date: 2015-08-05 21:00:00 +0000
 tags:
 - Networking
 - Ubiquiti
@@ -12,9 +12,6 @@ aliases:
 - 2015/8/5/ubiquiti-edgerouter-poe-in-the-lab.html
 
 ---
- 
- 
-
 Today, my [Ubiquiti EdgeRouter POE][1] arrived in the house. I got it hooked up to both UPC connections (as secondary connections) and all seems to be working grand. Some notes i wanted to put up here:
 
 * out of the box, the install was quite simple. set my Ethernet connection to a static ip in the 192.168.1.x/24 range,
@@ -27,7 +24,7 @@ you can manually download the tar and upload it, which i did.
 
 Finally, speed test result below:
 
-![Speed Test Result](https://www.tiernanotoole.ie/post_images/2015/08/05/20150805.ubiquiti.speedtest.compressed-resized.jpg)
+![Speed Test Result](20150805.ubiquiti.speedtest.compressed-resized.jpg)
 
 More [Ubiquiti][2] stuff arriving tomorrow... will post more stuff then.
 
