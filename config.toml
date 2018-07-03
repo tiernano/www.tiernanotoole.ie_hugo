@@ -19,3 +19,5 @@ fit = "auto"
 id = "21904595"
 [params.sidebar]
 order = ["search", "recent", "categories", "taglist"]
+cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
+
