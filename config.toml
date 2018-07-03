@@ -1,0 +1,210 @@
+#########################################################
+## HOW TO EDIT THIS FILE
+##
+## Comments beginning with two hashes (##) explain the
+## configuration option.
+##
+## Comments with only one (#) are
+## commented options that can be uncommented and changed.
+##
+## If configuration options scare you, most things can be
+## left exactly as they are. Be sure to change the
+## following, if nothing else:
+## - title
+## - baseurl
+## - tagline
+## - description
+##
+## This file may seem long, but it is mostly comments
+## explaining each of the options. Many options will also
+## include URLs to more detailed documentation.
+#########################################################
+
+languageCode = "en-us"
+title = "Tiernan's Comms Closet "
+baseurl = "https://www.tiernanotoole.ie/"
+theme = "BluestNight"
+
+## Allow the use of GitHub-style code fences
+PygmentsCodeFences = true
+
+## Apply classes to styled elements instead
+## Necessary to use the built-in code styles that
+## automatically change to fit the theme colors
+PygmentsUseClasses = true
+
+## Number of posts to show before paginating
+paginate = 10
+
+## Enable robots.txt file generation. Highly recommended.
+enableRobotsTXT = true
+
+[params]
+    ## Tagline of your site. Displays in the header,
+    ## just below the title
+    tagline = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
+
+    ## Description of your site - for use in SEO
+    description = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
+
+    ## 'authorbox' enables/disables the authorbox sitewide (can be disabled per page).
+    ## 'author' is the name of the default author of all pages (can change per page).
+    ## See also: https://bluestnight.shadow53.com/docs/pages/authorbox/
+    #authorbox = false
+    #author = "Some Guy"
+
+    ## Enable next/previous page buttons sitewide
+    ## See also: https://bluestnight.shadow53.com/docs/pages/next-prev-page/
+    post_navigation = true
+
+    ## Enable comments provided by Muut/Hashover sitewide (can be disabled per page)
+    ## See also: https://bluestnight.shadow53.com/docs/pages/comments/
+    #hashover = true
+    #muut = "shadow53"
+
+    ## Set a site thumbnail/logo that appears next to the site title
+    ## Optionally make the corners of the logo rounded by a given amount
+    ## See also: https://bluestnight.shadow53.com/docs/site/appearance/#header-thumbnail
+    #thumbnail = "images/thumbnail.png"
+    #thumbnail_radius = "0%"
+
+    ## Disable the use of minified JavaScript and CSS
+    ## Useful only for debugging purposes
+    #no_minimize = true
+
+## Use a privacy policy provided by Iubenda
+## See also: https://bluestnight.shadow53.com/docs/site/policies/#iubenda-integration
+[params.iubenda]
+    ## ID number of your policy. See above link for how to find it
+    id = "21904595"
+    ## Show only the legalese text of the privacy policy
+    #legal_only = false
+
+## Use Iubenda Pro features - Requires an Iubenda Pro account
+## Enabling these features without a pro account leads to broken things
+## See also: https://bluestnight.shadow53.com/docs/site/policies/#configuration-for-iubenda-pro-accounts
+#[params.iubenda.pro]
+    #enable_pro = true
+    #site_id = "890450"
+    #enable_cookie_policy = true
+    #disable_footer_link = true
+    #prior_consent = true
+
+## Set a custom background image for the site
+## See also: https://bluestnight.shadow53.com/docs/site/appearance/#custom-background
+#[params.background]
+    ## Background image to use on all screen sizes
+    ## except those with a smaller image defined
+    #src = "/images/background.png"
+
+    ## Background image to use on all medium (< 1024px) and smaller screens
+    #medium_src = "/images/background_medium.png"
+
+    ## Background image to use on all small (< 640px) and smaller screens
+    #small_src = "/images/background_small.png"
+
+    ## Set to "contain" to expand image so it is as large as possible while
+    ## still fully visible - some background color may also be visible
+    ## Set to "cover" to expand image so that it covers all of the background
+    ## area - some parts of the image may get cut off due to the screen dimensions
+    ## Set to anything else (like "auto") to not stretch the image at all
+    fit = "auto"
+
+    ## Set to true to tile the image vertically and horizontally across the page
+    ## Has no effect if 'fit' is set to "contain" or "cover"
+    #tile = false
+
+## Use Matomo analytics on the site
+## See also: https://bluestnight.shadow53.com/docs/site/analytics/
+#[params.matomo]
+    ## Enable Matomo analytics
+    #enable = true
+
+    ## The root URL of your hosted Matomo instance
+    ## Can contain subdirectories like https://example.com/matomo/
+    #host = "https://matomo.example.com"
+
+    ## Enable to track users who have JavaScript disabled
+    #track_nojs = true
+
+    ## Add a link to the footer for users to opt out of tracking
+    ## If ajax is disabled below, redirects users to another page
+    ## You can instead manually add the opt-out <iframe> to another
+    ## page of use the Ajax solution
+    #enable_optout = true
+
+    ## Use the AjaxOptOut plugin to allow users to opt out without leaving
+    ## your site. Requires some extra setup (see above link)
+    #enable_ajax = true
+
+## Change the color scheme of the site
+## The commented out values are the defaults used
+## See also: https://bluestnight.shadow53.com/docs/site/appearance/#custom-colors
+#[params.color]
+    #page_background = "#000000"
+    #main_background = "#050505"
+    #alt_background = "#252525"
+    #main_text = "#e2e2e2"
+    #alt_text = "#e2e2e2"
+    #accent = "#2c8cef"
+    #accent_text = "#e2e2e2"
+
+## Set custom font styles
+## Values can be one of the following: "serif", "sans-serif", "slab-serif"
+## See also: https://bluestnight.shadow53.com/docs/site/appearance/#font-customization
+#[params.fonts]
+    #header_style = "sans-serif"
+    #body_style = "sans-serif"
+    #print_header_style = "sans-serif"
+    #print_body_style = "serif"
+
+## Add social media icons to the footer of the website
+## For author-specific social icons that appear in the authorbox,
+## see https://bluestnight.shadow53.com/docs/shortcodes/members/#social-links
+## See also: https://bluestnight.shadow53.com/docs/site/social-icons/
+#[params.social]
+    #gitlab = "BluestNight/BluestNight"
+
+## Enable/disable sidebar widgets
+[params.sidebar]
+    ## Specify the order you want sidebar widgets to appear in.
+    ## Omitted widgets are not displayed. You can also specify names
+    ## for your own custom sidebar widgets (see below)
+    order = [
+        ## Enable a Patreon widget that links to your Patreon page
+        ## See also: https://bluestnight.shadow53.com/docs/sidebar/patreon-banner/
+        #"patreon",
+        ## Enable a search field
+        ## See also: https://bluestnight.shadow53.com/docs/sidebar/search/
+        "search",
+        ## Enable a recent articles list
+        ## See also: https://bluestnight.shadow53.com/docs/sidebar/recent-posts/
+        "recent",
+        ## Enable a list of upcoming events
+        ## See also: https://bluestnight.shadow53.com/docs/sidebar/events/
+        #"events",
+        ## Enable a list of page categories
+        ## Will cause errors if no categories are defined
+        "categories",
+        ## Enable a "cloud" of page tags ordered by most common
+        ## Will cause errors if no tags are defined    
+        "taglist"
+    ]
+    ## Some sidebar widgets require extra configuration, like the Patreon one.
+    ## If you use the Patreon widget, replace the quoted "username" with your
+    ## Patreon username.
+    #[params.sidebar.patreon]
+        #username = "username"
+
+## Define output formats for different kinds of pages
+[outputs]
+    ## CSS is required in order for BluestNight to generate your stylesheet
+    ## RSS is required to allow users to subscribe to a feed of updates
+    ## JSON is required for search functionality
+    home = ["HTML", "CSS", "RSS", "JSON"]
+
+    ## RSS is required here for section RSS feeds
+    section = ["HTML", "RSS"]
+
+    ## RSS is required here for tag/category RSS feeds
+    taxonomy = ["HTML", "RSS"]
