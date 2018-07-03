@@ -5,8 +5,12 @@ tags:
 - Tips
 title: GIT tips and tricks
 slug: git_tips_and_tricks
+aliases:
+- 2012/12/5/git_tips_and_tricks.html
+- 2012/12/5/git_tips_and_tricks.html
 
 ---
+ 
  
 
 I use [GIT][1] a lot for different things, including [this blog][2]. so, here are a few tips and tricks i have found useful over the while...

@@ -7,8 +7,12 @@ tags:
 - Development
 title: Using git and Route53 together
 slug: using-git-and-route53
+aliases:
+- 2015/5/7/using-git-and-route53.html
+- 2015/5/7/using-git-and-route53.html
 
 ---
+ 
  
 
 so, earlier on today, i was talking about using [Git with a DNS service called LuaDNS][1] to update your DNS records. Well, thing is, i have 30+ domains registered, and of them about 25 are hosted on [Amazon's Route53][2]. So, moving ALL of them seems, well at the moment, excessive... So, i went digging...

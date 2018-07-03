@@ -6,8 +6,12 @@ tags:
 - Networking
 title: RouterOS Using Host names in Firewall Rules
 slug: routeros_using_host_names_in_firewall_rules
+aliases:
+- 2012/10/12/routeros_using_host_names_in_firewall_rules.html
+- 2012/10/12/routeros_using_host_names_in_firewall_rules.html
 
 ---
+ 
  
 
 As a follow up to yesterday's post on [RouterOS Blocking Machine access to all but one IP][1] I tought i would show how to add extra IPs to that list, without having a shedload of firewall filters.

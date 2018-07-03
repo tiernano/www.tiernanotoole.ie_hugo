@@ -6,8 +6,12 @@ tags:
 - Mikrotik
 title: VLANs, Wifi and Mikrotik
 slug: vlans-wifi-and-mikrotik
+aliases:
+- 2015/5/10/vlans-wifi-and-mikrotik.html
+- 2015/5/10/vlans-wifi-and-mikrotik.html
 
 ---
+ 
  
 
 About a month ago, while i was recovering from surgery, i attended a Webinar on

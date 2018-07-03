@@ -6,8 +6,12 @@ tags:
 - Projects
 title: Raspberry Pi as a Mobile WiFi HotSpot (part 1)
 slug: raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1
+aliases:
+- 2013/1/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
+- 2013/1/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
 
 ---
+ 
  
 
 I have been using an iPhone 4 as a wifi hotspot for a while now. It does not have a "phone" SIM in it, with calls and texts enabled, instead it has a 3G Data SIM from a dongle... It works OK, but there are a few issues i have with it...

@@ -6,8 +6,12 @@ tags:
 - Media Center
 title: Handbrake Cluster
 slug: Handbrake-Cluster
+aliases:
+- 2012/10/3/Handbrake-Cluster.html
+- 2012/10/3/handbrake-cluster.html
 
 ---
+ 
  
 
 [UPDATED] someone asked in the comments if there was an binary build for this file. there is now! [http://handbrakecluster.codeplex.com][8] now hosts the code and binaries, and will soon have help files and documentation.

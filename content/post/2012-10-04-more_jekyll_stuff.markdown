@@ -5,8 +5,12 @@ tags:
 - Tips
 title: More Jekyll Stuff
 slug: more_jekyll_stuff
+aliases:
+- 2012/10/4/more_jekyll_stuff.html
+- 2012/10/4/more_jekyll_stuff.html
 
 ---
+ 
  
 
 Couple of bits and pieces on Jekyll stuff today... I am tweaking the outline of the site, so i am surfing around finding stuff... here is what i have found

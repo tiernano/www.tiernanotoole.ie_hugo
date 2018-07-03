@@ -7,8 +7,12 @@ tags:
 - HomeLab
 title: Network and HomeLab V.Next (Part 3)
 slug: Network-and-HomeLab-vnext-part-3
+aliases:
+- 2015/7/15/Network-and-HomeLab-vnext-part-3.html
+- 2015/7/15/network-and-homelab-vnext-part-3.html
 
 ---
+ 
  
 
 So, this part of my article set will be talking specifically about the router and wireless network. At the moment, my router is way overkill:

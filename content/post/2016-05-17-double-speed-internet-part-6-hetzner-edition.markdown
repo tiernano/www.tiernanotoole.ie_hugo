@@ -11,7 +11,12 @@ tags:
 - Double_Internet
 title: double speed Internet Part 6 - Hetzner Edition
 slug: double-speed-internet-part-6-hetzner-edition
+aliases:
+- 2016/5/17/double-speed-internet-part-6-hetzner-edition.html
+- 2016/5/17/double-speed-internet-part-6-hetzner-edition.html
+
 ---
+ 
 
 [NOTE] This part 6 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
 

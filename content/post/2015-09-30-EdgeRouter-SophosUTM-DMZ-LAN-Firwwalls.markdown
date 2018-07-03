@@ -8,8 +8,12 @@ tags:
 - Ubiquiti
 title: Edge Router, Sophos UTM, DMZ and LAN Networks
 slug: EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls
+aliases:
+- 2015/9/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls.html
+- 2015/9/30/edgerouter-sophosutm-dmz-lan-firwwalls.html
 
 ---
+ 
  
 
 I have been using an [EdgeRouer POE][2] as my main router for most of the network (some of the network still uses [PFSense][1] as a router, but thats being removed soon) for the last few weeks, and i am quite happy with it. I also have a second router, a [Sophos UTM][3] VM between my first LAN (essentially a DMZ) and my client LAN (there will be more "LANs" over there soon). The Client LAN is NATed between the DMZ and the LAN, which means anything on the LAN i want to access from the DMZ has to be port forwarded... Ideally, not much from the LAN should be accessible though the DMZ, but in my initial setup, stuff like [Plex][4], etc, is...

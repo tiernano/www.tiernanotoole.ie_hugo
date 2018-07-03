@@ -5,8 +5,12 @@ tags:
 - Linux
 title: Boot Raspberry Pi with SSH Enabled, Enable Wifi on Boot, and more
 slug: boot_raspberry_pi_with_ssh_enabled
+aliases:
+- 2012/10/18/boot_raspberry_pi_with_ssh_enabled.html
+- 2012/10/18/boot_raspberry_pi_with_ssh_enabled.html
 
 ---
+ 
  
 
 Some interesting links for the Raspberry Pi today:

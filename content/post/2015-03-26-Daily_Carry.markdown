@@ -4,8 +4,12 @@ tags:
 - Gadgets
 title: Daily Carry, March 2015 Edition
 slug: Daily_Carry
+aliases:
+- 2015/3/26/Daily_Carry.html
+- 2015/3/26/daily_carry.html
 
 ---
+ 
  
 
 A couple of years back, i did a post about my [Daily Carry for college][1]... Well, I have finished (ish) college, but i still cary a lot of weird and wonderful stuff... So, this is the update... 

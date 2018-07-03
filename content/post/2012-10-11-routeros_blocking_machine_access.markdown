@@ -6,8 +6,12 @@ tags:
 - Firewall
 title: RouterOS Blocking Machine access to all but one IP
 slug: routeros_blocking_machine_access
+aliases:
+- 2012/10/11/routeros_blocking_machine_access.html
+- 2012/10/11/routeros_blocking_machine_access.html
 
 ---
+ 
  
 
 So, i have a machine on my network, which should be only connecting to the internet though a VPN. I needed to tell my RouterOS box to block all access, except to this said IP address... The following *should* do the trick... YMMV

@@ -6,8 +6,12 @@ tags:
 - Code
 title: Hubic and Duplicity
 slug: Duplicity_Hubic
+aliases:
+- 2015/4/1/Duplicity_Hubic.html
+- 2015/4/1/duplicity_hubic.html
 
 ---
+ 
  
 
 I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...

@@ -7,8 +7,12 @@ tags:
 - P2P
 title: Symform - P2P Backup
 slug: symform_-_p2p_backup
+aliases:
+- 2012/11/30/symform_-_p2p_backup.html
+- 2012/11/30/symform_-_p2p_backup.html
 
 ---
+ 
  
 
 I have previously [posted about CrashPlan][1] as my Backup System. I also, a long time ago, talked about [Backing up SQL, MySQL and other stuff][2] on my other blog. Well, CrashPlan is all good, but there are 2 "niggly" bits with it...

@@ -5,8 +5,12 @@ tags:
 - Gadgets
 title: College Bag Contents
 slug: college_bag_contents
+aliases:
+- 2013/1/27/college_bag_contents.html
+- 2013/1/27/college_bag_contents.html
 
 ---
+ 
  
 
 Tomorrow, Monday the 28th January, 2013, will be the start of my final real Semester in College. I have been studying part time for the last 3 and a bit years, and tomorrow marks the begining of the end... Its the final REAL semester, meaning at the end of this i will have exams, but i wont be "finished" as such... I have a final semester from September to December where i hand up my final year project, which i plan on documenting here soon. 

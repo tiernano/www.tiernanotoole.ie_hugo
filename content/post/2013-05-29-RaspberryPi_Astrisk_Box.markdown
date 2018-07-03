@@ -5,8 +5,12 @@ tags:
 - Raspberry_Pi
 title: Raspberry Pi as an Asterisk Box
 slug: RaspberryPi_Astrisk_Box
+aliases:
+- 2013/5/29/RaspberryPi_Astrisk_Box.html
+- 2013/5/29/raspberrypi_astrisk_box.html
 
 ---
+ 
  
 
 The [Raspberry Pi][2] is a pretty amazing peice of kit for its price and size. And now, you can make it even more amazing by using it as a VoIP server for your house! 

@@ -6,8 +6,12 @@ tags:
 - Storage
 title: Crashplan Backups
 slug: CrashPlan-Backups
+aliases:
+- 2012/9/27/CrashPlan-Backups.html
+- 2012/9/27/crashplan-backups.html
 
 ---
+ 
  
 
 I have been running [CrashPlan][1] for a while now, and, other than some minor issues (backup speed to their central location is the big one), everything has been going grand. I use it to backup about 600GB of photos and videos, 500GB+ of VMs, documents, source code and a fair whack of other stuff... In total, about 2TB of data.

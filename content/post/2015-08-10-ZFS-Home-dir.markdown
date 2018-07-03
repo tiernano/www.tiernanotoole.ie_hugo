@@ -5,8 +5,12 @@ tags:
 - Storage
 title: ZFS Home storage pool
 slug: ZFS-Home-dir
+aliases:
+- 2015/8/10/ZFS-Home-dir.html
+- 2015/8/10/zfs-home-dir.html
 
 ---
+ 
  
 
 Over the weekend, my [BTRFS][1] pool for my /home directory on Linux failed... Not sure what happened, but it made me

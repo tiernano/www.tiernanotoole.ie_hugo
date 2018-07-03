@@ -7,8 +7,12 @@ tags:
 - Git
 title: Git Push DNS
 slug: git-push-dns
+aliases:
+- 2015/5/7/git-push-dns.html
+- 2015/5/7/git-push-dns.html
 
 ---
+ 
  
 
 There are now a lot of services that have "git push" options available... you can build websites with

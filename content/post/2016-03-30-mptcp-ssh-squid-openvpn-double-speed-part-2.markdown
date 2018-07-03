@@ -10,8 +10,12 @@ tags:
 - Double_Internet
 title: MPTCP, SSH, Squid, OpenVPN (and 2 Cable modems) = Double Speed? Not quite... Part 2
 slug: mptcp-ssh-squid-openvpn-double-speed-part-2
+aliases:
+- 2016/3/30/mptcp-ssh-squid-openvpn-double-speed-part-2.html
+- 2016/3/30/mptcp-ssh-squid-openvpn-double-speed-part-2.html
 
 ---
+ 
  
 
 [NOTE] This part 2 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
