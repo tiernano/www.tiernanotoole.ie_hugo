@@ -4,7 +4,7 @@ baseurl = "https://tiernano.github.io/www.tiernanotoole.ie_hugo_static/"
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 10
-theme = "BluestNight"
+theme = "zen"
 title = "Tiernan's Comms Closet "
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]
