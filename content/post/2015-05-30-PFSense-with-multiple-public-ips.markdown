@@ -8,13 +8,16 @@ tags:
 - PFSense
 title: PFSense with Multiple Public IPs
 slug: PFSense-with-multiple-public-ips
+disqus_url: https://tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
+disqus_identifier: https://tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
 aliases:
 - 2015/05/30/PFSense-with-multiple-public-ips.html
 - 2015/05/30/pfsense-with-multiple-public-ips.html
-disqus_identifier: https://tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
-disqus_url: https://tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
 
 ---
+ 
+ 
+ 
  
  
  

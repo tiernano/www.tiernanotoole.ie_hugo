@@ -4,13 +4,16 @@ tags:
 - VoIP
 title: More VoIP Stuff
 slug: More-VoIP-Stuff
+disqus_url: https://tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
+disqus_identifier: https://tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 aliases:
 - 2012/09/27/More-VoIP-Stuff.html
 - 2012/09/27/more-voip-stuff.html
-disqus_identifier: https://tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
-disqus_url: https://tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 
 ---
+ 
+ 
+ 
  
  
  

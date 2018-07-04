@@ -6,13 +6,16 @@ tags:
 - Tips
 title: enabling VNC from SSH on OSX
 slug: enabling_vnc_from_ssh_on_osx
+disqus_url: https://tiernanotoole.ie/2012/11/29/enabling_vnc_from_ssh_on_osx.html
+disqus_identifier: https://tiernanotoole.ie/2012/11/29/enabling_vnc_from_ssh_on_osx.html
 aliases:
 - 2012/11/29/enabling_vnc_from_ssh_on_osx.html
 - 2012/11/29/enabling_vnc_from_ssh_on_osx.html
-disqus_identifier: https://tiernanotoole.ie/2012/11/29/enabling_vnc_from_ssh_on_osx.html
-disqus_url: https://tiernanotoole.ie/2012/11/29/enabling_vnc_from_ssh_on_osx.html
 
 ---
+ 
+ 
+ 
  
  
 

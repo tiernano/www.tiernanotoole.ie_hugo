@@ -6,13 +6,16 @@ tags:
 - GPS
 title: GPS and Raspberry Pi
 slug: gps_and_raspberry_pi
+disqus_url: https://tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
 aliases:
 - 2012/10/15/gps_and_raspberry_pi.html
 - 2012/10/15/gps_and_raspberry_pi.html
-disqus_identifier: https://tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
-disqus_url: https://tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
 
 ---
+ 
+ 
+ 
  
  
  

@@ -5,13 +5,16 @@ tags:
 - Code
 title: Hubic, OpenStack Swift and Curl
 slug: HubiC_SWIFT_CURL
+disqus_url: https://tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
+disqus_identifier: https://tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
 aliases:
 - 2015/03/31/HubiC_SWIFT_CURL.html
 - 2015/03/31/hubic_swift_curl.html
-disqus_identifier: https://tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
-disqus_url: https://tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
 
 ---
+ 
+ 
+ 
  
  
  

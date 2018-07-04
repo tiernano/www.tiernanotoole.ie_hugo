@@ -6,13 +6,16 @@ tags:
 - Projects
 title: Raspberry Pi as a Mobile WiFi HotSpot (part 1)
 slug: raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1
+disqus_url: https://tiernanotoole.ie/2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
+disqus_identifier: https://tiernanotoole.ie/2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
 aliases:
 - 2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
 - 2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
-disqus_identifier: https://tiernanotoole.ie/2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
-disqus_url: https://tiernanotoole.ie/2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
 
 ---
+ 
+ 
+ 
  
  
  

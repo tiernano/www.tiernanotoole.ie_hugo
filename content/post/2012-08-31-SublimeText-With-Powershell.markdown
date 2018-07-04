@@ -4,13 +4,16 @@ tags:
 - Powershell
 title: Sublime Text 2 with Powershell
 slug: SublimeText-With-Powershell
+disqus_url: https://tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
+disqus_identifier: https://tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
 aliases:
 - 2012/08/31/SublimeText-With-Powershell.html
 - 2012/08/31/sublimetext-with-powershell.html
-disqus_identifier: https://tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
-disqus_url: https://tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
 
 ---
+ 
+ 
+ 
  
  
  

@@ -6,13 +6,16 @@ tags:
 - Development
 title: Building Jekyll sites with Docker on Windows
 slug: building-jekyll-sites-with-docker-on-windows
+disqus_url: https://tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
+disqus_identifier: https://tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
 aliases:
 - 2016/11/02/building-jekyll-sites-with-docker-on-windows.html
 - 2016/11/02/building-jekyll-sites-with-docker-on-windows.html
-disqus_identifier: https://tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
-disqus_url: https://tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
 
 ---
+ 
+ 
+ 
  
  
  

@@ -7,13 +7,16 @@ tags:
 - HomeLab
 title: Ubiquiti EdgeRouter PoE in the lab
 slug: Ubiquiti-EdgeRouter-POE-In-the-lab
+disqus_url: https://tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
+disqus_identifier: https://tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
 aliases:
 - 2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
 - 2015/08/05/ubiquiti-edgerouter-poe-in-the-lab.html
-disqus_identifier: https://tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
-disqus_url: https://tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
 
 ---
+ 
+ 
+ 
  
  
 Today, my [Ubiquiti EdgeRouter POE][1] arrived in the house. I got it hooked up to both UPC connections (as secondary connections) and all seems to be working grand. Some notes i wanted to put up here:

@@ -5,13 +5,16 @@ tags:
 - Storage
 title: ZFS Home storage pool
 slug: ZFS-Home-dir
+disqus_url: https://tiernanotoole.ie/2015/08/10/ZFS-Home-dir.html
+disqus_identifier: https://tiernanotoole.ie/2015/08/10/ZFS-Home-dir.html
 aliases:
 - 2015/08/10/ZFS-Home-dir.html
 - 2015/08/10/zfs-home-dir.html
-disqus_identifier: https://tiernanotoole.ie/2015/08/10/ZFS-Home-dir.html
-disqus_url: https://tiernanotoole.ie/2015/08/10/ZFS-Home-dir.html
 
 ---
+ 
+ 
+ 
  
  
  

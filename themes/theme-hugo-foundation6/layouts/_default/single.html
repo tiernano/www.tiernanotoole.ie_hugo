@@ -40,4 +40,6 @@
     {{ partial "disqus.html" . }}
   {{ end }}
 
+<br>
+<a href="{{ .Permalink }}" class="hide-child link primary-color">“{{ .Title }}”</a> was last updated: {{ .Lastmod.Format "January 2, 2006" }}{{ with .GitInfo }}: <a  href="{{$.Site.Params.ghrepo}}/commit/{{ .Hash }}">{{ .Subject }} ({{ .AbbreviatedHash }})</a>{{end }}. Found an issue? <a href="{{.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}">Improve this page</a>
 {{ end }}

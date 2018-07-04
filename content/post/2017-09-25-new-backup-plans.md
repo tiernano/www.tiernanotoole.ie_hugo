@@ -9,13 +9,16 @@ tags:
 - BackBlaze
 title: New Backup Plans
 slug: new-backup-plans
+disqus_url: https://tiernanotoole.ie/2017/09/25/new-backup-plans.html
+disqus_identifier: https://tiernanotoole.ie/2017/09/25/new-backup-plans.html
 aliases:
 - 2017/09/25/new-backup-plans.html
 - 2017/09/25/new-backup-plans.html
-disqus_identifier: https://tiernanotoole.ie/2017/09/25/new-backup-plans.html
-disqus_url: https://tiernanotoole.ie/2017/09/25/new-backup-plans.html
 
 ---
+ 
+ 
+ 
  
  
 

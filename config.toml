@@ -10,6 +10,10 @@ enableGitInfo = true
 #googleAnalytics = "UA-123-45"
 disqusShortname = "tiernanotooleie"
 Copyright = "2018 Tiernan OToole"
+uglyUrls = true
+
+[permalinks]
+post = "/:year/:month/:day/:slug/"
 
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]
@@ -23,6 +27,8 @@ feedlinks = true
 cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
 leftsidebar = true
 custom_navbar = true
+ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo"
+
 
 [[menu.sidebar]]
   name = "Link 1"

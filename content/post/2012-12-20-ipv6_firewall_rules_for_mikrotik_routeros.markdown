@@ -6,13 +6,16 @@ tags:
 - IPv6
 title: IPv6 Firewall rules for MikroTik RouterOS
 slug: ipv6_firewall_rules_for_mikrotik_routeros
+disqus_url: https://tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
+disqus_identifier: https://tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 aliases:
 - 2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 - 2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
-disqus_identifier: https://tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
-disqus_url: https://tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 
 ---
+ 
+ 
+ 
  
  
  

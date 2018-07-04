@@ -5,13 +5,16 @@ tags:
 - Tips
 title: More Jekyll Stuff
 slug: more_jekyll_stuff
+disqus_url: https://tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
 aliases:
 - 2012/10/04/more_jekyll_stuff.html
 - 2012/10/04/more_jekyll_stuff.html
-disqus_identifier: https://tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
-disqus_url: https://tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
 
 ---
+ 
+ 
+ 
  
  
  

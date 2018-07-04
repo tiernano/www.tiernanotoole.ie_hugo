@@ -7,13 +7,16 @@ tags:
 - HomeLab
 title: Network and HomeLab V.Next (Part 2)
 slug: Network-and-HomeLab-vnext-part2
+disqus_url: https://tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
+disqus_identifier: https://tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
 aliases:
 - 2015/06/23/Network-and-HomeLab-vnext-part2.html
 - 2015/06/23/network-and-homelab-vnext-part2.html
-disqus_identifier: https://tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
-disqus_url: https://tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
 
 ---
+ 
+ 
+ 
  
  
  

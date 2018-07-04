@@ -5,13 +5,16 @@ tags:
 - GodBoxV2
 title: Windows Server 2012 R2 returning to The GodBoxV2
 slug: WindwsServer2012r2-Returing-To-The-GodBoxV2
+disqus_url: https://tiernanotoole.ie/2015/08/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
+disqus_identifier: https://tiernanotoole.ie/2015/08/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
 aliases:
 - 2015/08/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
 - 2015/08/23/windwsserver2012r2-returing-to-the-godboxv2.html
-disqus_identifier: https://tiernanotoole.ie/2015/08/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
-disqus_url: https://tiernanotoole.ie/2015/08/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
 
 ---
+ 
+ 
+ 
  
  
  

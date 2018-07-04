@@ -7,13 +7,16 @@ tags:
 - IPv6
 title: AS204994, Own IP Space and Anycast
 slug: as204994-own-ip-space-and-anycast
+disqus_url: https://tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
+disqus_identifier: https://tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
 aliases:
 - 2018/04/01/as204994-own-ip-space-and-anycast.html
 - 2018/04/01/as204994-own-ip-space-and-anycast.html
-disqus_identifier: https://tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
-disqus_url: https://tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
 
 ---
+ 
+ 
+ 
  
 So, if you are reading this page, it is being delivered with the magic of Anycast... Well, technically, it was before, since i used [Cloudflare](http://cloudflare.com), and it still is because of Cloudflare, but also because of my own ASN ([As204994](http://as204994.net)), some servers in different locations, and some magic, which i will explain a bit of in this post.
 
