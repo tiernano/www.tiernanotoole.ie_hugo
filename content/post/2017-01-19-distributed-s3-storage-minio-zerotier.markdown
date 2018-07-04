@@ -22,7 +22,8 @@ So, something i have been looking into in recient times has been [Distributed St
 * download the minio server (single executable file) on a minimum of 4 machines. 
 * on each machine, run a command like the following:
 
-<script src="https://gist.github.com/tiernano/a6617921976eef0c1c79b3175bd76bf7.js"></script>
+{{< gist tiernano a6617921976eef0c1c79b3175bd76bf7 >}}
+
 
 replacing accesskey and secretkey with keys (check minio documentation to get these) and foldertoexport with, well, the folder you want to export!
 

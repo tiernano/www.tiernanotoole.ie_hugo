@@ -23,7 +23,8 @@ aliases:
 
 In the [last post][1] I mentioned I am now using [Hetzner][2] for hosting a dedicated box. Thats still live, and going well. I have a /29 IP range (6 usable) and also 2 other IPs. So far, so good... But because i was using a Socks Server, I was not fully able to use the /29 ips... I use something like as follows:
 
-<script src="https://gist.github.com/tiernano/68894593dd44acb4820617aef2889fd6.js"></script>
+{{< gist tiernano 68894593dd44acb4820617aef2889fd6>}}
+
 
 essentially, for each public IP i have that i want to map to an internal IP, i have a POST and PRE ROUTING rule, plus the required forward rules... But, if socks are used, then that goes out the Window, since TCP traffic will look like its coming from the socks server... So, i killed the socks server, removed the IPTables rule, and then realized that while outgoing traffic was being balanced somewhat (2 default rules on the internal box pointing at the OpenVPN IPs from the Hetzner box) incoming was a problem. Hetzner knew how to get to my internal network, but only though one ip... enter Quagga and Zebra...
 

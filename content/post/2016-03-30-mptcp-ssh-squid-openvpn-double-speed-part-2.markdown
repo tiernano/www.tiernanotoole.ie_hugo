@@ -39,17 +39,17 @@ When i was using MPTCP, I had a copy of [Squid](http://www.squid-cache.org) on b
 
 [MLVPN](http://zehome.github.io/MLVPN) is a pretty interesting project that caught my eye. The idea is quite simple: you configure the local box and server, as mentioned in [their example guide](http://mlvpn.readthedocs.org/en/latest/linux_example.html) and run the MLVPN program on the server, then the client. It creates 2 VPN tunnels between the 2 boxes, and bonds them... In my case, i was given an IP of 10.42.42.1 on my box in house and 10.42.42.2 on the server. Any traffic over that tunnel is bonded... Problem is, it seems to be quite processor intensive: my Digital Ocean box was showing one cpu core (out of 2) maxing out at around 80% and my Proliant in house maxing around the 70% mark... all while transferring data at around 100mbit/s. I tried iperf and got the following:
 
-![mlvpn speed test](20160330-mlvpn-speed-test.PNG)
+{{< cloudinary src="20160330-mlvpn-speed-test.PNG">}}
 
 getting 50mbit/s upload is good, in reality, since in theory my max speed would be 72, without overhead. but 116mb/s down is less than a third the max speed of a single connection. So, I tried just uploads and downloads...
 
 Upload Only (from local machine to server)
 
-![mlvpn upload only test](20160330-mlvpn-speed-test-upload-only.PNG)
+{{< cloudinary src="20160330-mlvpn-speed-test-upload-only.PNG">}}
 
 Download Only (from server to local machine)
 
-![mlvpn download only test](20160330-mlvpn-speed-test-download-only.PNG)
+{{< cloudinary src="20160330-mlvpn-speed-test-download-only.PNG">}}
 
 As you can see, the download speed has increased a little, to 176Mbit/s, but the upload speed is now at over 60MBit/s!
 

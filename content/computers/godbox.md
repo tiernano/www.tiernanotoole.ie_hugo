@@ -20,9 +20,9 @@ The GodBox is my main Hyper-V server and backup workstation. Its specs are as fo
 
 Some old photos of the machine are seen here:
 
-{{<cloudiary src="/v1530620911/godboxv1-cpuinfo.png">}}
+{{<cloudinary src="/v1530620911/godboxv1-cpuinfo.png">}}
     
-{{<cloudiary src="/v1530620868/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg">}}
+{{<cloudinary src="/v1530620868/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg">}}
 
 [1]: http://ark.intel.com/products/40200/Intel-Xeon-Processor-E5520-8M-Cache-2_26-GHz-5_86-GTs-Intel-QPI
 [2]: https://en.wikipedia.org/wiki/Western_Digital_Raptor

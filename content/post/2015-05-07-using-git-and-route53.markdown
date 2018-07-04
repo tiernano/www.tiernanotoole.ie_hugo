@@ -28,7 +28,7 @@ essentially, it runs cli53 (you may need to change your path) and then creates .
 
 then, using their code below, you can re-import them to Route53:
 
-{{< gist tiernano 7249547 >}}
+{{< gist madsheep 7249547 >}}
 
 i have exported all mine, added them to git and done some testing... All seems to be in order... once i do some tweaks, i can get that CI piece working and it should be all magic...
 

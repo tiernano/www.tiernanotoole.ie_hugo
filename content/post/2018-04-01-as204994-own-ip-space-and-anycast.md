@@ -22,6 +22,6 @@ Those 3 servers now share an IPv6 address on the loopback port. When you (well, 
 
 So, how do you figure out what server responded? Simple. Open your Dev tools on your browser, go to network tab, refresh, and see the response headers for anything on this domain. You should see something like below.
 
-![](/v1530702268/responding-server.png)
+{{<cloudinary src="/v1530702268/responding-server.png">}}
 
 Over the next while, i will be updating tiernanotoole.net with more details on how this works, and more stuff will end up on AS204994.net too. If anyone notices any weird and wonderful issues, shout. If you have more questions, shout.
