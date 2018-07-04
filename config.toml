@@ -1,6 +1,6 @@
 PygmentsUseClasses = false
 PygmentsStyle = "colorful"
-baseurl = "https://tiernano.github.io"
+baseurl = "https://tiernano.github.io/www.tiernanotoole.ie_hugo_static/"
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 10
