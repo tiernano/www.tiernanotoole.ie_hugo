@@ -27,7 +27,7 @@ feedlinks = true
 cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
 leftsidebar = true
 custom_navbar = true
-ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo"
+ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo/"
 
 
 [[menu.sidebar]]
