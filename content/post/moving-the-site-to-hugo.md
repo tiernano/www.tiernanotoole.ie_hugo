@@ -1,9 +1,8 @@
 +++
 aliases = []
 date = "2018-07-04T17:10:16+00:00"
-draft = true
 publishdate = "2018-07-04T17:00:00+00:00"
-published = false
+published = true
 slug = "moving-the-site-to-hugo"
 tags = []
 title = "Moving the site to Hugo"
