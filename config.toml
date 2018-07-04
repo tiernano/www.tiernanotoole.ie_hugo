@@ -47,7 +47,7 @@ ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo/"
 about = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
 
 # How many posts to show on the sidebar (Default: 5)
-#num_recent_posts = 5
+num_recent_posts = 10
 order = ["search", "recent", "categories", "taglist"]
 
 [params.widgets]
