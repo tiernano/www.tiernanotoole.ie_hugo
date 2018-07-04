@@ -120,7 +120,7 @@
               {{ with .Site.Params.tagline }}<br/><span id="site-tagline">{{ . }}</span>{{ end }}
             </div>
           </header>
-        </a>
+        </a>        
         {{ if (.Site.Menus.main) -}}
         <label for="menu-toggle-box"><div id="menu-toggle" class="main-nav no-select"><span><span class="fa fa-bars"></span> MENU</span></div></label>
         <input type="checkbox" id="menu-toggle-box" class="hide"/>
@@ -131,7 +131,7 @@
         </nav>
         {{ end -}}
       </div>
-      <div id="main-container" class="row" role="main" itemprop="mainContentOfPage">
+      <div id="main-container" class="row" role="main" itemprop="mainContentOfPage">        
         {{ with $.Site.Params.alert }}
           <div class="alert small-full">
             <p>{{ . | markdownify }}</p>

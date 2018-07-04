@@ -18,11 +18,27 @@ description = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer,
 tagline = "morning..."
 feedlinks = true
 cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
+leftsidebar = true
+
+[params.sidebar]
+order = ["search", "recent", "categories", "taglist"]
+
+[params.widgets]
+tags = true
+search = false
+recent_articles = true
 
 [params.iubenda]
 fit = "auto"
 id = "21904595"
 
-[params.sidebar]
-order = ["search", "recent", "categories", "taglist"]
+[params.social]
+    github = "tiernano"
+    reddit = "tiernanotoole"
+    spotify = "tiernano"
+    twitter = "tiernano"
+
+
+
+
 
