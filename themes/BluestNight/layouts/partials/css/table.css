@@ -1,54 +1,59 @@
 /* Normal tables */
+/* https://github.com/lonekorean/gist-syntax-themes */
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono|Open+Sans');
 
-table {
-  font-size: 90%;
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  overflow-wrap: break-word;
-  overflow-x: auto;
-  border: none !important;
+body {
+  margin: 20px;
+  font: 16px 'Open Sans', sans-serif;
 }
 
-table, table thead th, table tbody td {
-  border: 1px solid {{ .Get "body_text" }};
-  border-collapse: collapse;
-  overflow-wrap: break-word;
-  white-space: normal;
+body .gist .gist-file {
+  margin-bottom: 0;
+  border: 1px dashed #adb5bd;
+  border-radius: 0;
 }
 
-table thead th {
-  background-color: {{ .Get "accent" }};
-  color: {{ .Get "header_text" }};
+body .gist .gist-data {
+  border-bottom: none;
+  border-radius: 0;
+  background-color: #f1f3f5;
 }
 
-table thead th a, table thead th a:hover {
-  color: {{ .Get "header_text" }};
-  text-decoration: underline;
+body .gist .blob-wrapper {
+  border-radius: 0;
 }
 
-table thead, table tbody {
-  width: 100%;
-  max-width: 100%;
-  overflow-wrap: inherit;
+body .gist .highlight {
+  background-color: transparent;
+  font-family: 'Droid Sans Mono', monospace;
+  font-size: 14px;
 }
 
-table tbody tr {
-  color: {{ .Get "body_text" }};
-  background-color: {{ .Get "main_bg" }};
-  width: 100%;
-  max-width: 100%;
+body .gist .highlight td {
+  padding: 5px 15px !important;
+  line-height: 1;
+  font-family: inherit;
+  font-size: inherit;
 }
 
-table tbody tr:nth-child(even) {
-  background-color: {{ .Get "alt_bg" }};
-  color: {{ .Get "alt_body_text" }};
+body .gist tr:first-child td {
+  padding-top: 15px !important;
 }
 
-table tbody tr:nth-child(even) .button:not(:hover):not(:focus):not(:active) {
-  background-color: {{ .Get "main_bg" }};
-  color: {{ .Get "body_text" }};
+body .gist tr:last-child td {
+  padding-bottom: 15px !important;
 }
+
+body .gist .blob-num {
+  color: #ced4da;
+  background-color: #495057;
+  pointer-events: none;
+}
+
+body .gist .gist-meta {
+  display: none;
+}
+
 
 /* Responsive tables */
 
