@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/06/14/Network-and-homelab-v
 disqus_url: https://www.tiernanotoole.ie/2015/06/14/Network-and-homelab-vnext-part-1.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-So, its that time again... [HomeLab][2] upgrade time... Or at least the planning for it. I am in the process of rebuilding my home lab, which involves pull all old servers out of the rack and replacing them with new ones... It also means rewriting the network, possibly upgrading some existing gear and hopefully getting the whole lot done on a budget of some sort...
+ So, its that time again... [HomeLab][2] upgrade time... Or at least the planning for it. I am in the process of rebuilding my home lab, which involves pull all old servers out of the rack and replacing them with new ones... It also means rewriting the network, possibly upgrading some existing gear and hopefully getting the whole lot done on a budget of some sort...
 
 So, why? Well, biggest reason for all this is currently heat and power usage. We use about 4-6x more electricity than the average house here in Ireland, which means our electricity bill is fairly high. It also means that the lab, which is also my office/bedroom, gets quite warm and uncomfortable during the summer month. There is an Air-Con unit in the room, and, well, that's costing the most on electricity!   
 

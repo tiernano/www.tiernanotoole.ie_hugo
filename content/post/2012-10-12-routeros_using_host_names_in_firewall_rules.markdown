@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/12/routeros_using_host_n
 disqus_url: https://www.tiernanotoole.ie/2012/10/12/routeros_using_host_names_in_firewall_rules.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-As a follow up to yesterday's post on [RouterOS Blocking Machine access to all but one IP][1] I tought i would show how to add extra IPs to that list, without having a shedload of firewall filters.
+ As a follow up to yesterday's post on [RouterOS Blocking Machine access to all but one IP][1] I tought i would show how to add extra IPs to that list, without having a shedload of firewall filters.
 
 * First things first, get your list of IPs you allow access to. In my case, i just did an NSLOOKUP on the name and got the IPs.
 * Create an "Address List" in RouterOS. This can be done on the Web Interface by going to IP / Firewall / Address List and clicking Add. I had none previously, so i created a new rule, naming it [ExpressVPN][2] (the lads i use for VPN access) and added the first address.

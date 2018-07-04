@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_B
 disqus_url: https://www.tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-The [Raspberry Pi][2] is a pretty amazing peice of kit for its price and size. And now, you can make it even more amazing by using it as a VoIP server for your house! 
+ The [Raspberry Pi][2] is a pretty amazing peice of kit for its price and size. And now, you can make it even more amazing by using it as a VoIP server for your house! 
 
 Check out [Raspberry Asterisk][1] for downloads, documentation, etc, on how to setup a Raspberry Pi and [Asterisk][3]. I have a couple Pi's in the house, and plan on setting this up in the next few days. Keep your eyes on the site... more posts coming!
 

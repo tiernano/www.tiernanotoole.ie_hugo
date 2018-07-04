@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/CrashPlan-Backups.htm
 disqus_url: https://www.tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have been running [CrashPlan][1] for a while now, and, other than some minor issues (backup speed to their central location is the big one), everything has been going grand. I use it to backup about 600GB of photos and videos, 500GB+ of VMs, documents, source code and a fair whack of other stuff... In total, about 2TB of data.
+ I have been running [CrashPlan][1] for a while now, and, other than some minor issues (backup speed to their central location is the big one), everything has been going grand. I use it to backup about 600GB of photos and videos, 500GB+ of VMs, documents, source code and a fair whack of other stuff... In total, about 2TB of data.
 
 Anyway, here are some tips i have figured out over the last while for making Crashplan work a little better...
 

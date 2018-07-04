@@ -18,15 +18,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/05/17/double-speed-internet
 disqus_url: https://www.tiernanotoole.ie/2016/05/17/double-speed-internet-part-6-hetzner-edition.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-[NOTE] This part 6 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
+ [NOTE] This part 6 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
 
 Its been a while, since I posted, and there are some, well, pretty major changes since the last time... Lets start are the beginning.
 

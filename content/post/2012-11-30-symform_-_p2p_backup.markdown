@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/11/30/symform_-_p2p_backup.
 disqus_url: https://www.tiernanotoole.ie/2012/11/30/symform_-_p2p_backup.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have previously [posted about CrashPlan][1] as my Backup System. I also, a long time ago, talked about [Backing up SQL, MySQL and other stuff][2] on my other blog. Well, CrashPlan is all good, but there are 2 "niggly" bits with it...
+ I have previously [posted about CrashPlan][1] as my Backup System. I also, a long time ago, talked about [Backing up SQL, MySQL and other stuff][2] on my other blog. Well, CrashPlan is all good, but there are 2 "niggly" bits with it...
 
 * Its not FREE (well, this year i got it Free on Black Friday...) but it is cheap ($120 a year to backup 10 machines to the cloud aint bad.)
 * Its NOT FAST! The CrashPlan Datacenters all live in the US, and my servers live in Europe (either Dublin or Germany). So, bandwidth is limited... Getting less than 1Mbit/s most times, but have seen it reach 3... I have 20Mbits/s upload... even half that would be nice...

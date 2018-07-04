@@ -13,15 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_f
 disqus_url: https://www.tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-After [yesterday's post on IPv6 Networking in the house][1], I realized that all machines internally had publically facing IPv6 addresses! I started to panic, then went looking online, and found the following script:
+ After [yesterday's post on IPv6 Networking in the house][1], I realized that all machines internally had publically facing IPv6 addresses! I started to panic, then went looking online, and found the following script:
 
 {{< gist tiernano 4344701 >}}
 

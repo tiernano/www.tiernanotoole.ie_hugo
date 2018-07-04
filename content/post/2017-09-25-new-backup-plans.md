@@ -16,14 +16,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2017/09/25/new-backup-plans.html
 disqus_url: https://www.tiernanotoole.ie/2017/09/25/new-backup-plans.html
 
 ---
- 
- 
- 
- 
- 
- 
-
-So, a few weeks back, [CrashPlan](http://www.crashplan.com), one of my chosen backup services, decided to [kill their consumer backup plans](https://www.crashplan.com/en-us/consumer/nextsteps/). Which made me have to rethink my backup plan for the house...
+ So, a few weeks back, [CrashPlan](http://www.crashplan.com), one of my chosen backup services, decided to [kill their consumer backup plans](https://www.crashplan.com/en-us/consumer/nextsteps/). Which made me have to rethink my backup plan for the house...
 
 **Note**: This is how I am backing up files, and may or may not work for you. Some of this is already in "production" as of today, but others are planned... Any questions, comments, etc, leave them in the comments.
 

@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/06/23/Network-and-HomeLab-v
 disqus_url: https://www.tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-So, in my last post i talked about the requirements for the home lab, and in this post, im going to talk about a few more updates i have made in the last few weeks.
+ So, in my last post i talked about the requirements for the home lab, and in this post, im going to talk about a few more updates i have made in the last few weeks.
 
 First, the processors: in the first post, i talked about Xeon D or Xeon E3... Well, i missed one... The Xeon E5. I have 2 of these in GodBox 2, and you can get them into a [microATX board](http://www.servethehome.com/asrock-rack-epc612d4i-review-mitx-xeon-e5-platform/). There does seem to be some limits with the microatx boards, but hopefully enough searching will find me what i am looking for. Ideally, i want it to take "normal" DDR3/4 memory (not SODIMMs like the ASRock one above) and also take enough of them to run 64 or 128Gb of ram (thinking 8 would do the job!). Also, i would like to have 4 GigE ports onboard and 1 management port. 4 onboard is not a hard requirement: If i can get one with 2 ports, i can always get a 4 port card for the PCI-Express slot... Finally, i would like it to have at least 6 SATA ports and possibly an MSATA port. Thinking Boot off MSATA ([Windows Server 2016 Nano Server](https://en.m.wikipedia.org/wiki/Windows_Server_2016) would be used), 2 SSDs and 4 HDDs. Using Storage Spaces, use the 2 SSDs as "Fast" storage for the pool.
 

@@ -14,14 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update
 disqus_url: https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
 
 ---
- 
- 
- 
- 
- 
- 
-
-in a [previous post][1], I talked about setting up a distributed S3 like data storage system using [Minio][6] and [ZeroTier][7]. Well, this week, the ZeroTier guys tweeted about this.
+ in a [previous post][1], I talked about setting up a distributed S3 like data storage system using [Minio][6] and [ZeroTier][7]. Well, this week, the ZeroTier guys tweeted about this.
 
 {{< tweet 859557214997970944 >}}
 

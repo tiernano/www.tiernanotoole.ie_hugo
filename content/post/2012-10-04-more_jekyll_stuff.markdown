@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/04/more_jekyll_stuff.htm
 disqus_url: https://www.tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Couple of bits and pieces on Jekyll stuff today... I am tweaking the outline of the site, so i am surfing around finding stuff... here is what i have found
+ Couple of bits and pieces on Jekyll stuff today... I am tweaking the outline of the site, so i am surfing around finding stuff... here is what i have found
 
 * [Host a static site on Amazon S3][1]: Interesting idea, and something i would look into eventually... And with the help of [CloudFront][2] you could host your whole blog on a CDN!
 * [Rake tasks for Jekyll][3]: Rake is the Ruby version of make... and a RakeFile can have tasks, which are in Ruby... They can do, from what i can gather, pretty much anything... So, some examples of what you can do with them are linked here... I especially like the New Post generator... very handy!

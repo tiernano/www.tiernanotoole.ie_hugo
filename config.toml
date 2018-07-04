@@ -13,7 +13,7 @@ Copyright = "2018 Tiernan OToole"
 uglyUrls = true
 
 [permalinks]
-post = "/:year/:month/:day/:slug/"
+post = "/:year/:month/:day/:slug"
 
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]

@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 disqus_url: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Well, if you can read this, this site is now hosted fully on [AWS][1] with both [S3][2] and [CloudFront][3]. More details eventually...
+ Well, if you can read this, this site is now hosted fully on [AWS][1] with both [S3][2] and [CloudFront][3]. More details eventually...
 
 [UPDATE] How did i host this on S3 and CloudFront? Check out [this article by Paul Stamatiou][4] for details...
 

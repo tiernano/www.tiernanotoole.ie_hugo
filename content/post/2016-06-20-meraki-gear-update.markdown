@@ -13,15 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/06/20/meraki-gear-update.ht
 disqus_url: https://www.tiernanotoole.ie/2016/06/20/meraki-gear-update.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-In [part 6][1] of my [Double Internet Series][2] I mentioned i was running a [Meraki][3] [MX64][4] in the network, and said i would write up about it. I am taking this oppertunity to also write up about the [Ubiquiti networks][6] gear in the house also.
+ In [part 6][1] of my [Double Internet Series][2] I mentioned i was running a [Meraki][3] [MX64][4] in the network, and said i would write up about it. I am taking this oppertunity to also write up about the [Ubiquiti networks][6] gear in the house also.
 
 * First on the list is my older [Ubiquiti Edgerouter POE][5]. It currently in the process of being decommissioned, or used for something else. It was the main edge router for the network: it had both internet connections connected, and did routing, firewalls, etc, but with the [Proliant][12] taking over as a router, it is not requried as much any more... Its still on, mainly because its still a DHCP server, but not much else.
 * There are 2 [Meraki MS220-8][7] switches next. [GodBox1][9] and [Godbox2][10] both connect in here, and are bonded, as is everything else on the network. The MS220-8 has 8 GigE ports, but also has 2 SFP ports. I bought 4 SFP Ethernet adapters and have a short calbe running between the switches. That uplink is also bonded. All going well so far!

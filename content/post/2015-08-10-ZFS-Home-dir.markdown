@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/08/10/ZFS-Home-dir.html
 disqus_url: https://www.tiernanotoole.ie/2015/08/10/ZFS-Home-dir.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Over the weekend, my [BTRFS][1] pool for my /home directory on Linux failed... Not sure what happened, but it made me
+ Over the weekend, my [BTRFS][1] pool for my /home directory on Linux failed... Not sure what happened, but it made me
 do something i wanted to do for a while: Build a [ZFS][2] pool for my home dir.
 
 First things first, the pool consists of 4 2Tb hard drives and 1 128Gb SSD. Its setup in RAIDZ1 (equivilent of RAID 5)

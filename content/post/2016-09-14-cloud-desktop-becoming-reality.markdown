@@ -14,15 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/09/14/cloud-desktop-becomin
 disqus_url: https://www.tiernanotoole.ie/2016/09/14/cloud-desktop-becoming-reality.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-I have talked about the theory of the "Cloud desktop" twice on my older blog ([Rackspace's Hosted Virtual Desktop][1] and [More on the desktop in the cloud][2]) way back since 2011. Since then, a few things have changed:
+ I have talked about the theory of the "Cloud desktop" twice on my older blog ([Rackspace's Hosted Virtual Desktop][1] and [More on the desktop in the cloud][2]) way back since 2011. Since then, a few things have changed:
 
 * Amazon have released [AWS Workspaces][3], which is a cloud based desktop using [Teradici's PCoIP technology][4]
 * Both [EC2][5] and [Azure][6] now have GPU enabled VMs to spin up and use

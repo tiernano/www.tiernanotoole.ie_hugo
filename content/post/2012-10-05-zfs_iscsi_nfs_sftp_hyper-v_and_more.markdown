@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hy
 disqus_url: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-As part of my new task to make my files safer and backups faster, and, well, cheap, I am looking into [ZFS][5] for my storage needs. My needs are as follows:
+ As part of my new task to make my files safer and backups faster, and, well, cheap, I am looking into [ZFS][5] for my storage needs. My needs are as follows:
 
 * Allow me to store lots of different types of data (Photos, Videos, Music, VMs) in different formats (RAW and JPG photos, MP4, AVI and DivX Videos, with DVD and BluRay rips also a posibility, MP3 music and VHD files from HyperV, inclduing ISOs and Snapshots). I also need to store different file systems using [iSCSI][6] (Mac and Windows clients will be mounting the storage). 
 * must be safe. DO NOT LOSE DATA!

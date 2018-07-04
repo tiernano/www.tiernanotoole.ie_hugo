@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/04/29/bulk-compressing-imag
 disqus_url: https://www.tiernanotoole.ie/2015/04/29/bulk-compressing-images-for-the-web.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Now that all my sites are running [Jekyll][1] I am trying to get them optimized for **SPEED** which meant
+ Now that all my sites are running [Jekyll][1] I am trying to get them optimized for **SPEED** which meant
 looking at all the stuff that takes time to download... There are more tweaks (and possibly posts) coming down
 the road, but to start, I needed to look at images.
 

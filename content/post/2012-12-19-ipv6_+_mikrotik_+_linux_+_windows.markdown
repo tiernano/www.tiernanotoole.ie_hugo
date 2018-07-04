@@ -15,15 +15,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/12/19/ipv6_+_mikrotik_+_lin
 disqus_url: https://www.tiernanotoole.ie/2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-I have been wanting to setup an [IPv6][1] network for a while now, but never had the hardware or network to support it. My broadband Modem, a Cisco EPC3925, was pretty useless... But with the advent of [Bridging on the Cisco EPC3925][2] it now works!
+ I have been wanting to setup an [IPv6][1] network for a while now, but never had the hardware or network to support it. My broadband Modem, a Cisco EPC3925, was pretty useless... But with the advent of [Bridging on the Cisco EPC3925][2] it now works!
 
 The first thing i needed to do was setup a [Tunnel Broker Account][5] with [Hurricane Electric][6]. I got a /64 block of IPv6 addresses, which should do me for a while... :) 
 

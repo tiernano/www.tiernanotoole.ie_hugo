@@ -15,16 +15,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/09/16/Network-and-HomeLab-v
 disqus_url: https://www.tiernanotoole.ie/2015/09/16/Network-and-HomeLab-vnext-part-4.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-So, after some messing, tweaking, and thinking, I have made some progress with the home lab... or at least broken some stuff... I mentioned previously that i had a [Ubiqititi networks EdgeRouter POE][1] in the home lab. Originally, the plan was to use a Virtual [PFSense][3] box for my core router... Given the power usage of the current PfSense Box (I have 2 [MPower Pro][2]'s watching power in the lab) I am now thinking of moving to just the EdgeRouter for, well, edge routing...  below is the usage of the ProLiant for the last 12 hours or so:
+ So, after some messing, tweaking, and thinking, I have made some progress with the home lab... or at least broken some stuff... I mentioned previously that i had a [Ubiqititi networks EdgeRouter POE][1] in the home lab. Originally, the plan was to use a Virtual [PFSense][3] box for my core router... Given the power usage of the current PfSense Box (I have 2 [MPower Pro][2]'s watching power in the lab) I am now thinking of moving to just the EdgeRouter for, well, edge routing...  below is the usage of the ProLiant for the last 12 hours or so:
 
 {{<cloudinary src="20150916-proliant-power-usage.PNG">}}
 

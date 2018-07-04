@@ -11,15 +11,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/08/31/SublimeText-With-Powe
 disqus_url: https://www.tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-My new Favorite cross platform text editor is [Sublime Text 2][1]. It works on Windows, Mac OS and Linux, and i am very happy with it. My only problem is the path to start it is not exactly easy to type... So, with the help of PowerShell, my new favorite command line tool on Windows, i added an alias:
+ My new Favorite cross platform text editor is [Sublime Text 2][1]. It works on Windows, Mac OS and Linux, and i am very happy with it. My only problem is the path to start it is not exactly easy to type... So, with the help of PowerShell, my new favorite command line tool on Windows, i added an alias:
 
     Set-Alias subl 'c:\program files\sublime text 2\sublime_text.exe'
 

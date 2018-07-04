@@ -14,13 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-P
 disqus_url: https://www.tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
 
 ---
- 
- 
- 
- 
- 
- 
-Today, my [Ubiquiti EdgeRouter POE][1] arrived in the house. I got it hooked up to both UPC connections (as secondary connections) and all seems to be working grand. Some notes i wanted to put up here:
+ Today, my [Ubiquiti EdgeRouter POE][1] arrived in the house. I got it hooked up to both UPC connections (as secondary connections) and all seems to be working grand. Some notes i wanted to put up here:
 
 * out of the box, the install was quite simple. set my Ethernet connection to a static ip in the 192.168.1.x/24 range,
 using 192.168.1.1 as gateway and dns, and then point at http://192.168.1.1 for admin. login (ubit for both username and

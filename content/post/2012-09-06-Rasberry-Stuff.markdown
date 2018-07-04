@@ -12,15 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-A couple months back, I got my hands on a [Raspberry Pi][1], a tiny development board that can run a full copy of Linux, has a HDMI port, a couple USB ports, Ethernet and a few other little bits and pieces. The full specs, from the [Wikipedia Article][2] are as follows:
+ A couple months back, I got my hands on a [Raspberry Pi][1], a tiny development board that can run a full copy of Linux, has a HDMI port, a couple USB ports, Ethernet and a few other little bits and pieces. The full specs, from the [Wikipedia Article][2] are as follows:
 
 * Operating system: Linux (Debian GNU/Linux, Fedora, and Arch Linux ARM)
 * Power: 2.5 W (model A), 3.5 W (model B)

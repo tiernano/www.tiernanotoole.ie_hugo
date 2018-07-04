@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/07/15/Network-and-HomeLab-v
 disqus_url: https://www.tiernanotoole.ie/2015/07/15/Network-and-HomeLab-vnext-part-3.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-So, this part of my article set will be talking specifically about the router and wireless network. At the moment, my router is way overkill:
+ So, this part of my article set will be talking specifically about the router and wireless network. At the moment, my router is way overkill:
 
 * Old HP Proliant ML110 G5
 * [Intel Core2Quad Q6600][1]

@@ -18,16 +18,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/04/21/2-cable-modems-double
 disqus_url: https://www.tiernanotoole.ie/2016/04/21/2-cable-modems-double-speed-part-5.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-[NOTE] This part 5 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
+ [NOTE] This part 5 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
 
 This post is going to be an update and theoretical post. probably very little "new" stuff going on here, mostly updates, and what I am planning on doing later on.
 

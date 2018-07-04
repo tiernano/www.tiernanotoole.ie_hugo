@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
 disqus_url: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-There are now a lot of services that have "git push" options available... you can build websites with
+ There are now a lot of services that have "git push" options available... you can build websites with
 [Azure][1] and [Github][2], books using [ShareLaTeX][3] and now, DNS using [LuaDNS][4]. I have one zone
 running at the moment ([tiernanotoole.net][5]) and you can see the DNS records on [github here][6]. I am
 tempted at moving other records over soon... but i am currently on [Amazon Route53][7] and 1: its works, so

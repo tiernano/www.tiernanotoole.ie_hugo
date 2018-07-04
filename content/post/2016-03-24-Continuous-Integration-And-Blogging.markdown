@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integratio
 disqus_url: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Back in August of 2012, I started this site using Git and Jekyll. I hosted most of it at home, pushing to a server in house. Then, a few years back, I moved to pushing the files to [Amazon S3][3] and had [Cloud Front][4] doing distribution. The last moved had me hosting the files in [NearlyFreeSpeech.NET][5] and [Cloud Flare][6] doing the content distribution... Well, that changed over the last few days... again...
+ Back in August of 2012, I started this site using Git and Jekyll. I hosted most of it at home, pushing to a server in house. Then, a few years back, I moved to pushing the files to [Amazon S3][3] and had [Cloud Front][4] doing distribution. The last moved had me hosting the files in [NearlyFreeSpeech.NET][5] and [Cloud Flare][6] doing the content distribution... Well, that changed over the last few days... again...
 
 Currently, you are still hitting Cloud Flare when you hit this site, but the backend is back to being hosted on Amazon S3. But the files getting to S3 is more interesting now. All the "code" for this site is up on a [GitHub repo][1] and any time something is checked in, [Travis CI][7] kicks off, builds the files using [Jekyll][8] and pushes to S3 using [s3_website][9]. All my "private" keys are hidden in Travis-CI, so no one can access them but me. This makes updating the site a lot easier. I can create a file in GitHub directly, preview it, make changes, etc., and then check in. Once checked in, Travis kicks off, builds and deploys. All Good! 
 

@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 disqus_url: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...
+ I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...
 
 First, i am using Ubuntu 14.04 (i think...). I use [Ubuntu][9] in house for a few things:
 

@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/08/29/NewSite.html
 disqus_url: https://www.tiernanotoole.ie/2012/08/29/NewSite.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-So, this site is brought to you by [GIT][1], [Jekyll][3] and Magic... here is how i did it...
+ So, this site is brought to you by [GIT][1], [Jekyll][3] and Magic... here is how i did it...
 
 * I have a Linux VM running the site. Its an [Ubuntu 12.04][4] server. On that i installed Jekyll.
 * I also have [gitolite][6] installed for personal git repos.

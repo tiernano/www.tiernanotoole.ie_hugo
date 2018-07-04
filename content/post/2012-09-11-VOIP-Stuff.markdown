@@ -11,15 +11,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-I have been very interested in VOIP stuff for the last while now, and finally started looking at implementing it in the house. Here are some links which may be useful. I will do a full post soon.
+ I have been very interested in VOIP stuff for the last while now, and finally started looking at implementing it in the house. Here are some links which may be useful. I will do a full post soon.
 
 * [Asterisk 1.8 with chan_mobile on Centos 6][1]: chan_mobile allows you to use a Bluetooth phone to make calls with Asterisk
 * [Use an old Mobile Phone as a GMS Gateway in asterisk][2]: again, similar to above, but with Ubuntu.

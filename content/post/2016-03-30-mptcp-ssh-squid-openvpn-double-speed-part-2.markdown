@@ -17,13 +17,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/03/30/mptcp-ssh-squid-openv
 disqus_url: https://www.tiernanotoole.ie/2016/03/30/mptcp-ssh-squid-openvpn-double-speed-part-2.html
 
 ---
- 
- 
- 
- 
- 
- 
-\[NOTE\] This part 2 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
+ \[NOTE\] This part 2 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
 
 In [my previous post](https://www.tiernanotoole.ie/2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html) I explained what i was trying to do... This post explains what i have been working on recently, and performance results...
 So, first, what have i tried... There are 3 different things i have tried, and here are some of their details. Some will need to be updated (other parts of this series), and others i will try get back to eventually.

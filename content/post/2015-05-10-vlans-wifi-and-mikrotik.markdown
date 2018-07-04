@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/05/10/vlans-wifi-and-mikrot
 disqus_url: https://www.tiernanotoole.ie/2015/05/10/vlans-wifi-and-mikrotik.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-About a month ago, while i was recovering from surgery, i attended a Webinar on
+ About a month ago, while i was recovering from surgery, i attended a Webinar on
 [Cisco Meraki][1] devices. After the webinar, i was contacted by Maraki and given a [MR18][2] with a 3 year license, to play with and evaluate. So, i set it up in the house and all was good.
 
 Thing is, the wifi in the house was grand previously. I have a [Routerboard RB951G][3] which does the job and has no issues. And because i am mostly offsite in the office i work, and because i need to remotely manage the network, the MR18 is going into the office from tomorrow morning. I may talk about the MR18 and the rest of the Meraki gear later on, but this is not that post. This post is about something the MR18 did, and i wanted to do on the RB951.

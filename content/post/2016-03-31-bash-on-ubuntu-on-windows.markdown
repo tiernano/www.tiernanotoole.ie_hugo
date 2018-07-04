@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/03/31/bash-on-ubuntu-on-win
 disqus_url: https://www.tiernanotoole.ie/2016/03/31/bash-on-ubuntu-on-windows.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Microsoft [Build 2016][1] is on this week, and there were a lot of interesting developments yesterday, but the one that interested me the most is [Bash on Ubuntu on Windows][2]. [Dustin from Ubuntu][3] has a more details, and Scott Hanselman has posted [a technical video][4] about this. This is very interesting, and I CANT WAIT TO GET MY HANDS ON IT! But, I do have some questions, which I thought I would put down in blog format:
+ Microsoft [Build 2016][1] is on this week, and there were a lot of interesting developments yesterday, but the one that interested me the most is [Bash on Ubuntu on Windows][2]. [Dustin from Ubuntu][3] has a more details, and Scott Hanselman has posted [a technical video][4] about this. This is very interesting, and I CANT WAIT TO GET MY HANDS ON IT! But, I do have some questions, which I thought I would put down in blog format:
 
 - Based on the post by Dustin, it seems that low level Linux calls are being handled and translated to Windows system calls. Which makes me think, could **any** Linux Distro work? Could [Arch Linux][5], [RedHat][6] or [Centos][7] work in the same way? 
 - Will this Work on Windows Server 2016 when it launches?

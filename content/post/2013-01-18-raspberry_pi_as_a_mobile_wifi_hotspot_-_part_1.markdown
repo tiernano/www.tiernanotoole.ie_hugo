@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2013/01/18/raspberry_pi_as_a_mob
 disqus_url: https://www.tiernanotoole.ie/2013/01/18/raspberry_pi_as_a_mobile_wifi_hotspot_-_part_1.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have been using an iPhone 4 as a wifi hotspot for a while now. It does not have a "phone" SIM in it, with calls and texts enabled, instead it has a 3G Data SIM from a dongle... It works OK, but there are a few issues i have with it...
+ I have been using an iPhone 4 as a wifi hotspot for a while now. It does not have a "phone" SIM in it, with calls and texts enabled, instead it has a 3G Data SIM from a dongle... It works OK, but there are a few issues i have with it...
 
 * No easy way to see how much data is being used, unless you Jail Break, and then battery life goes away...
 * not very hackable... other than Jail Break, and thats not hackable enough...

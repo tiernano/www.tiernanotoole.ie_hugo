@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/09/28/Powershell-HandBrake-
 disqus_url: https://www.tiernanotoole.ie/2012/09/28/Powershell-HandBrake-AppleTV-iTunes.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have an [AppleTV][1] in the house (3, actually) and i am very happy with its ease of use, size and cost... You cant really argue with the small price! 
+ I have an [AppleTV][1] in the house (3, actually) and i am very happy with its ease of use, size and cost... You cant really argue with the small price! 
 
 I also have a lot of content that works great with the AppleTV in iTunes, but i have content which does not work so great with the AppleTV... So, i needed to find a way to convert files quickly and easily... thats where PowerShell and [Handbrake][2] come in... 
 

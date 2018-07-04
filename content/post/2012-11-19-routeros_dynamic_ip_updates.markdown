@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/11/19/routeros_dynamic_ip_u
 disqus_url: https://www.tiernanotoole.ie/2012/11/19/routeros_dynamic_ip_updates.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have been using a [MikroTik][1] [RouterBoard RB750][2] for a while now, and i love it! Over the weekend, i upgraded it to a [RB1100][3]. Its the same software running the device, but the device is faster (800Mhz PowerPC chip VS MIPS-BE at 680Mhz), has more memory (512Mb upgradable to 1.5Gb vs 32Mb) and more storage (think its 512Mb on board, plus 4Gb MicroSD card vs 32mb...). It also has more ports (13 GigE VS 5) and 2 Switch Groups, which i have no idea what they do just yet...
+ I have been using a [MikroTik][1] [RouterBoard RB750][2] for a while now, and i love it! Over the weekend, i upgraded it to a [RB1100][3]. Its the same software running the device, but the device is faster (800Mhz PowerPC chip VS MIPS-BE at 680Mhz), has more memory (512Mb upgradable to 1.5Gb vs 32Mb) and more storage (think its 512Mb on board, plus 4Gb MicroSD card vs 32mb...). It also has more ports (13 GigE VS 5) and 2 Switch Groups, which i have no idea what they do just yet...
 
 Anyway, part of getting the RB1100 online and taking over from my existing router was getting Dynamic DNS updating. I use both [Dyndns][4] and [NoIP][5] for DNS, but I also like the look of [Amazon Route 53][6]. For updating NoIP, I am using the Alternitive script from [The Mikrotik Wiki][7]. To get this to work with DynDNS, it would just be a matter of chaning the URL you point to... I am going to write a web script which will sit internally on the network, use that instead of the No-IP url. When that script gets called, i can log the info, update DynDNS, NoIP and Router53 all in one go. I will be posting more about that soon...
 

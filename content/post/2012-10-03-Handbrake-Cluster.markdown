@@ -13,16 +13,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.htm
 disqus_url: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-[UPDATED] someone asked in the comments if there was an binary build for this file. there is now! [http://handbrakecluster.codeplex.com][8] now hosts the code and binaries, and will soon have help files and documentation.
+ [UPDATED] someone asked in the comments if there was an binary build for this file. there is now! [http://handbrakecluster.codeplex.com][8] now hosts the code and binaries, and will soon have help files and documentation.
 
 A few days back, i wrote a post titled [Powershell + Handbrake + AppleTV + iTunes = Automatic TV... ish][1]. In it i included a block of Powershell code to bulk convert TV shows from whatever format you had them in to a M4V format for the AppleTV. Well, as they say "If necessity is the mother of all invension, lazyness must be the father". I have a lot of shows i wanted converted to the AppleTV, so i built something... Its called [HandBrake Cluster][2] and is written in [.NET 4.5][3], uses [MSMQ][4] and [Handbrake][5] to do the processing... The workflow is as follows:
 

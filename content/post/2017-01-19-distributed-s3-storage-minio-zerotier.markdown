@@ -14,15 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2017/01/19/distributed-s3-storag
 disqus_url: https://www.tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-So, something i have been looking into in recient times has been [Distributed Storage][1], and, more specifically, how to use the storage in my [many, many machines][2] to protect data, and also increese my usable space... There are a few projects on the market that do this ([Ceph](https://ceph.com/), [NooBaa](http://www.noobaa.com/) and [Gluster](https://www.gluster.org/) all spring to mind) but some are more painful to setup than others... which brings me nicely to [Minio][3]. Minio is a 20ish MB executable you download from their site, mark it as executable (on Linux or Mac Boxes) and run... and you have yourself a S3 compatable storage server... Simples!
+ So, something i have been looking into in recient times has been [Distributed Storage][1], and, more specifically, how to use the storage in my [many, many machines][2] to protect data, and also increese my usable space... There are a few projects on the market that do this ([Ceph](https://ceph.com/), [NooBaa](http://www.noobaa.com/) and [Gluster](https://www.gluster.org/) all spring to mind) but some are more painful to setup than others... which brings me nicely to [Minio][3]. Minio is a 20ish MB executable you download from their site, mark it as executable (on Linux or Mac Boxes) and run... and you have yourself a S3 compatable storage server... Simples!
 
 "But Wait!" i here you screem! "thats not distributed!". Well, yes... but, it can be! Their [Distributed Quick Start Guide][4], which is where i started with this, allows you to run a distributed copy of your data. I will let their documentation explain more, but this is what i did:
 

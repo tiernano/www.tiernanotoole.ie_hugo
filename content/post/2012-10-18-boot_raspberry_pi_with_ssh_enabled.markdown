@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/18/boot_raspberry_pi_wit
 disqus_url: https://www.tiernanotoole.ie/2012/10/18/boot_raspberry_pi_with_ssh_enabled.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Some interesting links for the Raspberry Pi today:
+ Some interesting links for the Raspberry Pi today:
 
 * So, you just bought a new Raspberry Pi and need to enable SSH, but dont have a screen? [Prepare for SSH without a Screen][1] shows you what to do!
 * [How to Bring up WLAN0 on boot][2] shows you how to start your Wifi adapter when you boot your Pi

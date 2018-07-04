@@ -11,16 +11,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-As part of my ongoing plan to upgrade the house to VoIP, and as a follow up to my first [VoIP stuff][1] post, here are some more things i have found...
+ As part of my ongoing plan to upgrade the house to VoIP, and as a follow up to my first [VoIP stuff][1] post, here are some more things i have found...
 
 * I have added [SipDiscount][2] and [SipGate][3] for making and recieving calls.
 * SipDiscount allows me to set pretty much any number as my Caller ID, as long as i "own" that number (they either text or call you with a code, and you enter it on their site). They also allow me to make cheap calls to Irish Mobiles (check their [rates here][4])

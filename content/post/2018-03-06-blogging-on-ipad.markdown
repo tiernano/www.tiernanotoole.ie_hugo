@@ -15,14 +15,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2018/03/06/blogging-on-ipad.html
 disqus_url: https://www.tiernanotoole.ie/2018/03/06/blogging-on-ipad.html
 
 ---
- 
- 
- 
- 
- 
- 
-
-So, a few months back I bought myself an [iPad Pro][1]. I got a 10.5" with 64GB Storage and the [Smart Keyboard][2]. Since then, i have been mostly using it for playing around: watching YouTube, Netflix, surfing on the couch, etc. but i started to wonder how "Pro" this was...so i went and did some testing, and in the end nearly all of this post is being written on it... 
+ So, a few months back I bought myself an [iPad Pro][1]. I got a 10.5" with 64GB Storage and the [Smart Keyboard][2]. Since then, i have been mostly using it for playing around: watching YouTube, Netflix, surfing on the couch, etc. but i started to wonder how "Pro" this was...so i went and did some testing, and in the end nearly all of this post is being written on it... 
 
 first, the good stuff:
 

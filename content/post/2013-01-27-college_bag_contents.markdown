@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2013/01/27/college_bag_contents.
 disqus_url: https://www.tiernanotoole.ie/2013/01/27/college_bag_contents.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Tomorrow, Monday the 28th January, 2013, will be the start of my final real Semester in College. I have been studying part time for the last 3 and a bit years, and tomorrow marks the begining of the end... Its the final REAL semester, meaning at the end of this i will have exams, but i wont be "finished" as such... I have a final semester from September to December where i hand up my final year project, which i plan on documenting here soon. 
+ Tomorrow, Monday the 28th January, 2013, will be the start of my final real Semester in College. I have been studying part time for the last 3 and a bit years, and tomorrow marks the begining of the end... Its the final REAL semester, meaning at the end of this i will have exams, but i wont be "finished" as such... I have a final semester from September to December where i hand up my final year project, which i plan on documenting here soon. 
 
 Anyway, thats a long way of saying that today, i have been working on the contents of my college bag: What do i bring with me to college... 
 

@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/15/raspberry_pi_now_with
 disqus_url: https://www.tiernanotoole.ie/2012/10/15/raspberry_pi_now_with_512mb_ram.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Earlier on today, the Raspberry Pi Foundation announced that the Model B will now be [shipping with 512Mb RAM as standard][1], with no price change. I posted the link up on [Hacker News][2] and its caused quite a lot of happy people! 
+ Earlier on today, the Raspberry Pi Foundation announced that the Model B will now be [shipping with 512Mb RAM as standard][1], with no price change. I posted the link up on [Hacker News][2] and its caused quite a lot of happy people! 
 
 So, with the news of extra RAM, its started making me think of more things the Pi could be used for...
 

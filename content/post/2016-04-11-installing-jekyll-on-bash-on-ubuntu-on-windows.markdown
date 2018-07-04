@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/04/11/installing-jekyll-on-
 disqus_url: https://www.tiernanotoole.ie/2016/04/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-At the 2016 Build conference, Microsoft announced that [Bash on Ubuntu on Windows][1] was coming. Well, it [came out last week][2], and I installed it as soon as I could! My next challenge was to get [Jekyll][3] to run and install on it, so I can build and preview this site on my [Surface Book][4].
+ At the 2016 Build conference, Microsoft announced that [Bash on Ubuntu on Windows][1] was coming. Well, it [came out last week][2], and I installed it as soon as I could! My next challenge was to get [Jekyll][3] to run and install on it, so I can build and preview this site on my [Surface Book][4].
 
 So, first, I needed to install version 2.0 of Ruby. There is a bit of messing involved for this, but first
 

@@ -18,15 +18,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2016/05/31/double-speed-internet
 disqus_url: https://www.tiernanotoole.ie/2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
-
-[NOTE] This part 7 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
+ [NOTE] This part 7 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).
 
 In the [last post][1] I mentioned I am now using [Hetzner][2] for hosting a dedicated box. Thats still live, and going well. I have a /29 IP range (6 usable) and also 2 other IPs. So far, so good... But because i was using a Socks Server, I was not fully able to use the /29 ips... I use something like as follows:
 

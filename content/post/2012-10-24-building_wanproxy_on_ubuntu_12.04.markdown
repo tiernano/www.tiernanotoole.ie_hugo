@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_
 disqus_url: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-[Updated 2016/04/09] I had to use this today to build on Debian 8.3 for 2 different boxes. So, making minor changes (url to git proxy, and where you build from) to make sure this works now.
+ [Updated 2016/04/09] I had to use this today to build on Debian 8.3 for 2 different boxes. So, making minor changes (url to git proxy, and where you build from) to make sure this works now.
 
 I have been looking into [WANProxy][1] for a while now, but never successfully got it to build... I have been more successfull reciently, so here is what you need to do.
 

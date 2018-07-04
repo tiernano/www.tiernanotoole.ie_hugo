@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2015/04/28/all-blogs-moved-to-je
 disqus_url: https://www.tiernanotoole.ie/2015/04/28/all-blogs-moved-to-jekyll.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-Well, its finally happened. All my blogs, [Tiernan's Comms Closet][1], [GeekPhotographer][2] and the [Podcast][3] have been
+ Well, its finally happened. All my blogs, [Tiernan's Comms Closet][1], [GeekPhotographer][2] and the [Podcast][3] have been
 moved to [Jekyll][4]. I wrote up [a long and complicated][5] post explaining how I did it... Now, i dont have to worry
 about [Wordpress][6] security issues on my home sites! Happy Days!
 

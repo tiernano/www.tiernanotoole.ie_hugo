@@ -12,16 +12,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/12/05/git_tips_and_tricks.h
 disqus_url: https://www.tiernanotoole.ie/2012/12/05/git_tips_and_tricks.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I use [GIT][1] a lot for different things, including [this blog][2]. so, here are a few tips and tricks i have found useful over the while...
+ I use [GIT][1] a lot for different things, including [this blog][2]. so, here are a few tips and tricks i have found useful over the while...
 
 * [Using Dropbox as a local GIT/Mercurial Repository][3]: my own post from a while back.
 * [Twelve GIT curated Tips and Workflows from the Trenches][4]

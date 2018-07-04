@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/12/more_raspberry_pi_and
 disqus_url: https://www.tiernanotoole.ie/2012/10/12/more_raspberry_pi_and_camera_antics.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-A while back I [posted][2] about the [Raspberry Pi][3], and in the post was a link to a Photographer who was [embeding a Raspberry Pi into a Canon 5D MKII battery grip][4]. Well, its been a while, and i have been thinking about the Pi and Cameras, so I went looking around... Here is what i found.
+ A while back I [posted][2] about the [Raspberry Pi][3], and in the post was a link to a Photographer who was [embeding a Raspberry Pi into a Canon 5D MKII battery grip][4]. Well, its been a while, and i have been thinking about the Pi and Cameras, so I went looking around... Here is what i found.
 
 * [HDR Photography with a Raspberry Pi and GPhoto2][5]: It was linked at the end of David's post, and i missed it completely. David mentions he was using [GPhoto2][6] to take photos from the Pi, so its a good place to start.
 * [GPhoto2 and the Raspberry Pi][7]: starters guide on getting the Pi to talk to your Camera.

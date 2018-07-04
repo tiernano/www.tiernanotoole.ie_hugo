@@ -11,16 +11,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2012/10/31/custom_msdeploy_overw
 disqus_url: https://www.tiernanotoole.ie/2012/10/31/custom_msdeploy_overwrite_rules.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have a project which we are trying to automate the deployment system. The plan is to automatically deploy the project to a staging server anytime the build succeeds from SVN. 
+ I have a project which we are trying to automate the deployment system. The plan is to automatically deploy the project to a staging server anytime the build succeeds from SVN. 
 
 I have had a few problems with this, but here are some of the links which may come in handy for you.
 

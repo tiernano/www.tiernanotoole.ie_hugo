@@ -14,16 +14,7 @@ disqus_identifier: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearl
 disqus_url: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
-
-I have been running a Dedicated Server from [Hetzner][1] for a while now, but have started to look at what i am running on the site, and reailized i under utilize the machine a lot... For example, this site is generated using [Jekyll][2], which takes up very little power, and becomes static HTML files. My other blogs ([Tiernan's Comms Closet][3] and [GeekPhotographer][4]) are both low traffic [Wordpress][5] sites, and I run a couple of other static sites also for friends... All in all, not a lot of power...
+ I have been running a Dedicated Server from [Hetzner][1] for a while now, but have started to look at what i am running on the site, and reailized i under utilize the machine a lot... For example, this site is generated using [Jekyll][2], which takes up very little power, and becomes static HTML files. My other blogs ([Tiernan's Comms Closet][3] and [GeekPhotographer][4]) are both low traffic [Wordpress][5] sites, and I run a couple of other static sites also for friends... All in all, not a lot of power...
 
 Its not a fortune to run the server, the box i have has a Quad Core, Hyper threaded Intel i7, 32Gb RAM, 2 3TB Hdds (not raid...) and runs a copy of [VMWare ESXi][6], and it costs about EUR60 a month, including a couple of IP addresses... But, i dont use it all that often... So, i am in the process of getting rid of it...
 
