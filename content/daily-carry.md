@@ -12,7 +12,7 @@ A couple of years back, I did a post about my [Daily Carry for college](http://t
 
 So, the contents are as follows:
 
-![](/v1530624866/16317125424_a03f9ec346_m.jpg)
+![](https://res.cloudinary.com/tiernanotoole/image/upload//v1530624866/16317125424_a03f9ec346_m.jpg)
 
 * Microsoft [SurfaceBook](https://www.microsoft.com/surface/en-gb/devices/surface-book) with an i7 processor, 16GB RAM and 512GB Storage, along with the dGPU.
 * [Samsung Galaxy Note 3](http://www.samsung.com/uk/discover/mobile/samsung-galaxy-note-3-and-galaxy-gear-the-perfect-match/)
