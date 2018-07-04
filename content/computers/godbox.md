@@ -2,9 +2,10 @@
 layout: computers
 title: Godbox
 sitemap:
-    priority: 0.7
-    changefreq: 'weekly'
-    lastmod: 2017-03-09T21:00:00
+  priority: 0.7
+  changefreq: weekly
+  lastmod: 2017-03-09 21:00:00 +0000
+
 ---
 # GodBox V1
 
@@ -18,11 +19,10 @@ The GodBox is my main Hyper-V server and backup workstation. Its specs are as fo
 * Runs Windows Server 2016 Datacenter, Hyper-V and has a few VMs running all the time...
 
 Some old photos of the machine are seen here:
+
+{{<cloudiary src="/v1530620911/godboxv1-cpuinfo.png">}}
     
-[![GodBox V1 CPU Info](https://www.tiernanotoole.ie/post_images/2017/05/05/godboxv1-cpuinfo-rs.png)](https://www.tiernanotoole.ie/post_images/2017/05/05/godboxv1-cpuinfo-rs.png)
-
-[![Godbox Monitors](https://www.tiernanotoole.ie/post_images/2012/10/09/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg)](https://www.tiernanotoole.ie/post_images/2012/10/09/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg)
-
+{{<cloudiary src="/v1530620868/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg">}}
 
 [1]: http://ark.intel.com/products/40200/Intel-Xeon-Processor-E5520-8M-Cache-2_26-GHz-5_86-GTs-Intel-QPI
 [2]: https://en.wikipedia.org/wiki/Western_Digital_Raptor
