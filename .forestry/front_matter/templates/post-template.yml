@@ -39,3 +39,4 @@ fields:
   default: ''
 pages:
 - content/testing.md
+- content/post/moving-the-site-to-hugo.md
