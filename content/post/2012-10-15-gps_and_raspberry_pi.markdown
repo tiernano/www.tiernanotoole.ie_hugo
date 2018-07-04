@@ -13,6 +13,7 @@ aliases:
 ---
  
  
+ 
 
 Need to add GPS to your Raspberry Pi? [How do i attach a GPS to a Raspberry][1] answers your question!
 

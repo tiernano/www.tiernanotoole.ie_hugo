@@ -9,10 +9,11 @@ tags:
 title: Network and HomeLab V.Next (Part 4)
 slug: Network-and-HomeLab-vnext-part-4
 aliases:
-- 2015/9/16/Network-and-HomeLab-vnext-part-4.html
-- 2015/9/16/network-and-homelab-vnext-part-4.html
+- 2015/09/16/Network-and-HomeLab-vnext-part-4.html
+- 2015/09/16/network-and-homelab-vnext-part-4.html
 
 ---
+ 
  
  
 

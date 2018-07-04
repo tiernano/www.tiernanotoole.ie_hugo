@@ -6,9 +6,12 @@ tags:
 - Blogging
 title: VSCode and Markdown Monster with Powershell
 slug: vscode-with-powershell
-aliases: 
-    - "2017/05/06/vscode-with-powershell.html"
+aliases:
+- 2017/05/06/vscode-with-powershell.html
+- 2017/05/06/vscode-with-powershell.html
+
 ---
+ 
 
 A few years back, i created a post showing you how to add an Alias to PowerShell [to easily start Sublime Text from a PowerShell command line][1] . This worked well, but this is 2017 (that post is from 2012!) and my daily text editor has changed. I have moved to [Visual Studio Code][2] for most of my daily work. It works well 95% of the time. I still use [Visual Studio Pro][5] for C# Development, but for quick fixes and work on, say [Go][6] or smaller edits, Code is great. For blogging, on the other hand, I am trying out [MarkDown Monster][3] but code still has some nice features. We will see how tests go.
 

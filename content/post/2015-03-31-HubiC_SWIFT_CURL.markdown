@@ -6,10 +6,11 @@ tags:
 title: Hubic, OpenStack Swift and Curl
 slug: HubiC_SWIFT_CURL
 aliases:
-- 2015/3/31/HubiC_SWIFT_CURL.html
-- 2015/3/31/hubic_swift_curl.html
+- 2015/03/31/HubiC_SWIFT_CURL.html
+- 2015/03/31/hubic_swift_curl.html
 
 ---
+ 
  
  
 

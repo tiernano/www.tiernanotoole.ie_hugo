@@ -8,10 +8,11 @@ tags:
 title: Announcing B2 Uploader and Hubic Testing 2.0
 slug: Announcing-B2Uploader-HubicTesting20
 aliases:
-- 2016/1/15/Announcing-B2Uploader-HubicTesting20.html
-- 2016/1/15/announcing-b2uploader-hubictesting20.html
+- 2016/01/15/Announcing-B2Uploader-HubicTesting20.html
+- 2016/01/15/announcing-b2uploader-hubictesting20.html
 
 ---
+ 
  
  
 

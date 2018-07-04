@@ -12,10 +12,11 @@ tags:
 title: (Mad) Max Speed - The Road Warrior (Internet connection) (double speed internet Part 5)
 slug: 2-cable-modems-double-speed-part-5
 aliases:
-- 2016/4/21/2-cable-modems-double-speed-part-5.html
-- 2016/4/21/2-cable-modems-double-speed-part-5.html
+- 2016/04/21/2-cable-modems-double-speed-part-5.html
+- 2016/04/21/2-cable-modems-double-speed-part-5.html
 
 ---
+ 
  
  
 

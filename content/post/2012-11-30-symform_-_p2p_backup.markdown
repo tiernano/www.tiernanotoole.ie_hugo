@@ -14,6 +14,7 @@ aliases:
 ---
  
  
+ 
 
 I have previously [posted about CrashPlan][1] as my Backup System. I also, a long time ago, talked about [Backing up SQL, MySQL and other stuff][2] on my other blog. Well, CrashPlan is all good, but there are 2 "niggly" bits with it...
 

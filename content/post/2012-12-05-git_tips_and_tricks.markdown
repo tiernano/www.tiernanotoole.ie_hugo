@@ -6,10 +6,11 @@ tags:
 title: GIT tips and tricks
 slug: git_tips_and_tricks
 aliases:
-- 2012/12/5/git_tips_and_tricks.html
-- 2012/12/5/git_tips_and_tricks.html
+- 2012/12/05/git_tips_and_tricks.html
+- 2012/12/05/git_tips_and_tricks.html
 
 ---
+ 
  
  
 

@@ -6,10 +6,11 @@ tags:
 title: All blogs moved to Jekyll
 slug: all-blogs-moved-to-jekyll
 aliases:
-- 2015/4/28/all-blogs-moved-to-jekyll.html
-- 2015/4/28/all-blogs-moved-to-jekyll.html
+- 2015/04/28/all-blogs-moved-to-jekyll.html
+- 2015/04/28/all-blogs-moved-to-jekyll.html
 
 ---
+ 
  
  
 

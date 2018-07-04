@@ -7,10 +7,11 @@ tags:
 title: Continuous Integration and Blogging
 slug: Continuous-Integration-And-Blogging
 aliases:
-- 2016/3/24/Continuous-Integration-And-Blogging.html
-- 2016/3/24/continuous-integration-and-blogging.html
+- 2016/03/24/Continuous-Integration-And-Blogging.html
+- 2016/03/24/continuous-integration-and-blogging.html
 
 ---
+ 
  
  
 

@@ -5,10 +5,11 @@ tags:
 title: Daily Carry, March 2015 Edition
 slug: Daily_Carry
 aliases:
-- 2015/3/26/Daily_Carry.html
-- 2015/3/26/daily_carry.html
+- 2015/03/26/Daily_Carry.html
+- 2015/03/26/daily_carry.html
 
 ---
+ 
  
  
 

@@ -7,10 +7,11 @@ tags:
 title: Handbrake Cluster
 slug: Handbrake-Cluster
 aliases:
-- 2012/10/3/Handbrake-Cluster.html
-- 2012/10/3/handbrake-cluster.html
+- 2012/10/03/Handbrake-Cluster.html
+- 2012/10/03/handbrake-cluster.html
 
 ---
+ 
  
  
 

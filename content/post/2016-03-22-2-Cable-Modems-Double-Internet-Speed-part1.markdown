@@ -8,10 +8,11 @@ tags:
 title: 2 Cable modems = Double Internet Speed? Well... not really... Part 1
 slug: 2-Cable-Modems-Double-Internet-Speed-part1
 aliases:
-- 2016/3/22/2-Cable-Modems-Double-Internet-Speed-part1.html
-- 2016/3/22/2-cable-modems-double-internet-speed-part1.html
+- 2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
+- 2016/03/22/2-cable-modems-double-internet-speed-part1.html
 
 ---
+ 
  
  
 

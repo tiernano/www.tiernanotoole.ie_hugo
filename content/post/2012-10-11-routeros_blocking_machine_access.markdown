@@ -13,6 +13,7 @@ aliases:
 ---
  
  
+ 
 
 So, i have a machine on my network, which should be only connecting to the internet though a VPN. I needed to tell my RouterOS box to block all access, except to this said IP address... The following *should* do the trick... YMMV
 

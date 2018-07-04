@@ -8,10 +8,11 @@ tags:
 title: Using git and Route53 together
 slug: using-git-and-route53
 aliases:
-- 2015/5/7/using-git-and-route53.html
-- 2015/5/7/using-git-and-route53.html
+- 2015/05/07/using-git-and-route53.html
+- 2015/05/07/using-git-and-route53.html
 
 ---
+ 
  
  
 

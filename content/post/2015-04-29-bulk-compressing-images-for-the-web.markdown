@@ -6,10 +6,11 @@ tags:
 title: Bulk compressing images for the Web
 slug: bulk-compressing-images-for-the-web
 aliases:
-- 2015/4/29/bulk-compressing-images-for-the-web.html
-- 2015/4/29/bulk-compressing-images-for-the-web.html
+- 2015/04/29/bulk-compressing-images-for-the-web.html
+- 2015/04/29/bulk-compressing-images-for-the-web.html
 
 ---
+ 
  
  
 

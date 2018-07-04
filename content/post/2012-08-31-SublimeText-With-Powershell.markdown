@@ -5,10 +5,11 @@ tags:
 title: Sublime Text 2 with Powershell
 slug: SublimeText-With-Powershell
 aliases:
-- 2012/8/31/SublimeText-With-Powershell.html
-- 2012/8/31/sublimetext-with-powershell.html
+- 2012/08/31/SublimeText-With-Powershell.html
+- 2012/08/31/sublimetext-with-powershell.html
 
 ---
+ 
  
 
 My new Favorite cross platform text editor is [Sublime Text 2][1]. It works on Windows, Mac OS and Linux, and i am very happy with it. My only problem is the path to start it is not exactly easy to type... So, with the help of PowerShell, my new favorite command line tool on Windows, i added an alias:

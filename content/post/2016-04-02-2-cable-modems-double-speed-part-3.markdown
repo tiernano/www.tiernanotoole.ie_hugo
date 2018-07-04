@@ -11,10 +11,11 @@ tags:
 title: 2 Cable modems = Double speed? Part 3
 slug: 2-cable-modems-double-speed-part-3
 aliases:
-- 2016/4/2/2-cable-modems-double-speed-part-3.html
-- 2016/4/2/2-cable-modems-double-speed-part-3.html
+- 2016/04/02/2-cable-modems-double-speed-part-3.html
+- 2016/04/02/2-cable-modems-double-speed-part-3.html
 
 ---
+ 
  
  
 

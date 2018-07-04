@@ -12,6 +12,7 @@ aliases:
 
 ---
  
+ 
 
 After [yesterday's post on IPv6 Networking in the house][1], I realized that all machines internally had publically facing IPv6 addresses! I started to panic, then went looking online, and found the following script:
 

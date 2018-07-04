@@ -6,10 +6,11 @@ tags:
 title: Raspberry Pi as an Asterisk Box
 slug: RaspberryPi_Astrisk_Box
 aliases:
-- 2013/5/29/RaspberryPi_Astrisk_Box.html
-- 2013/5/29/raspberrypi_astrisk_box.html
+- 2013/05/29/RaspberryPi_Astrisk_Box.html
+- 2013/05/29/raspberrypi_astrisk_box.html
 
 ---
+ 
  
  
 

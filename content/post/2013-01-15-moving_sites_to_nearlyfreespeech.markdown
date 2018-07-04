@@ -8,10 +8,11 @@ tags:
 title: Moving sites to NearlyFreeSpeech
 slug: moving_sites_to_nearlyfreespeech
 aliases:
-- 2013/1/15/moving_sites_to_nearlyfreespeech.html
-- 2013/1/15/moving_sites_to_nearlyfreespeech.html
+- 2013/01/15/moving_sites_to_nearlyfreespeech.html
+- 2013/01/15/moving_sites_to_nearlyfreespeech.html
 
 ---
+ 
  
  
 

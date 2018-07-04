@@ -12,6 +12,7 @@ aliases:
 ---
  
  
+ 
 
 Earlier on today, the Raspberry Pi Foundation announced that the Model B will now be [shipping with 512Mb RAM as standard][1], with no price change. I posted the link up on [Hacker News][2] and its caused quite a lot of happy people! 
 

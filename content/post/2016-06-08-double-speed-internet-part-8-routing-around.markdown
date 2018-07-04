@@ -12,10 +12,11 @@ tags:
 title: double speed Internet Part 8 - Routing Around
 slug: double-speed-internet-part-8-routing-around
 aliases:
-- 2016/6/8/double-speed-internet-part-8-routing-around.html
-- 2016/6/8/double-speed-internet-part-8-routing-around.html
+- 2016/06/08/double-speed-internet-part-8-routing-around.html
+- 2016/06/08/double-speed-internet-part-8-routing-around.html
 
 ---
+ 
  
 
 [NOTE] This part 8 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).

@@ -13,6 +13,7 @@ aliases:
 ---
  
  
+ 
 
 As a follow up to yesterday's post on [RouterOS Blocking Machine access to all but one IP][1] I tought i would show how to add extra IPs to that list, without having a shedload of firewall filters.
 

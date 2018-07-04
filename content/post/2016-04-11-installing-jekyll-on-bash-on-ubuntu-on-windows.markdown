@@ -8,10 +8,11 @@ tags:
 title: Installing Jekyll on Bash On Ubuntu on Windows
 slug: installing-jekyll-on-bash-on-ubuntu-on-windows
 aliases:
-- 2016/4/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
-- 2016/4/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
+- 2016/04/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
+- 2016/04/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
 
 ---
+ 
  
  
 

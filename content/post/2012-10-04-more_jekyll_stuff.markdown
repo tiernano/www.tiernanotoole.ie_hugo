@@ -6,10 +6,11 @@ tags:
 title: More Jekyll Stuff
 slug: more_jekyll_stuff
 aliases:
-- 2012/10/4/more_jekyll_stuff.html
-- 2012/10/4/more_jekyll_stuff.html
+- 2012/10/04/more_jekyll_stuff.html
+- 2012/10/04/more_jekyll_stuff.html
 
 ---
+ 
  
  
 

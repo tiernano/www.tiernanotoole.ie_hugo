@@ -6,10 +6,11 @@ tags:
 title: College Bag Contents
 slug: college_bag_contents
 aliases:
-- 2013/1/27/college_bag_contents.html
-- 2013/1/27/college_bag_contents.html
+- 2013/01/27/college_bag_contents.html
+- 2013/01/27/college_bag_contents.html
 
 ---
+ 
  
  
 

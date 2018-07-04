@@ -8,10 +8,11 @@ tags:
 title: CDN Hosted Blog
 slug: CDNHostedBlog
 aliases:
-- 2014/1/23/CDNHostedBlog.html
-- 2014/1/23/cdnhostedblog.html
+- 2014/01/23/CDNHostedBlog.html
+- 2014/01/23/cdnhostedblog.html
 
 ---
+ 
  
  
 

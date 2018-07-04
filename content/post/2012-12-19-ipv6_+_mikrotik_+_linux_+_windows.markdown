@@ -14,6 +14,7 @@ aliases:
 
 ---
  
+ 
 
 I have been wanting to setup an [IPv6][1] network for a while now, but never had the hardware or network to support it. My broadband Modem, a Cisco EPC3925, was pretty useless... But with the advent of [Bridging on the Cisco EPC3925][2] it now works!
 

@@ -7,10 +7,11 @@ tags:
 title: MicroTik RouterOS VPN Setup
 slug: MicroTik-RouterOS-VPN-Setup
 aliases:
-- 2012/9/24/MicroTik-RouterOS-VPN-Setup.html
-- 2012/9/24/microtik-routeros-vpn-setup.html
+- 2012/09/24/MicroTik-RouterOS-VPN-Setup.html
+- 2012/09/24/microtik-routeros-vpn-setup.html
 
 ---
+ 
  
  
 

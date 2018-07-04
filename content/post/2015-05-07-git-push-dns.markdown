@@ -8,10 +8,11 @@ tags:
 title: Git Push DNS
 slug: git-push-dns
 aliases:
-- 2015/5/7/git-push-dns.html
-- 2015/5/7/git-push-dns.html
+- 2015/05/07/git-push-dns.html
+- 2015/05/07/git-push-dns.html
 
 ---
+ 
  
  
 

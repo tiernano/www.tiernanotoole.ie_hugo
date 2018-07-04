@@ -6,10 +6,11 @@ tags:
 title: ZFS Home storage pool
 slug: ZFS-Home-dir
 aliases:
-- 2015/8/10/ZFS-Home-dir.html
-- 2015/8/10/zfs-home-dir.html
+- 2015/08/10/ZFS-Home-dir.html
+- 2015/08/10/zfs-home-dir.html
 
 ---
+ 
  
  
 

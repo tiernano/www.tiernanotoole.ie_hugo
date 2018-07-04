@@ -7,10 +7,11 @@ tags:
 title: Bash on Ubuntu on Windows
 slug: bash-on-ubuntu-on-windows
 aliases:
-- 2016/3/31/bash-on-ubuntu-on-windows.html
-- 2016/3/31/bash-on-ubuntu-on-windows.html
+- 2016/03/31/bash-on-ubuntu-on-windows.html
+- 2016/03/31/bash-on-ubuntu-on-windows.html
 
 ---
+ 
  
  
 

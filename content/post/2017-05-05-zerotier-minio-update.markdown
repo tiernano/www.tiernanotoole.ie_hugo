@@ -8,13 +8,15 @@ tags:
 title: Zerotier and Minio Followup
 slug: zerotier-minio-update
 aliases:
-    - "2017/05/05/zerotier-minio-update.html"
+- 2017/05/05/zerotier-minio-update.html
+- 2017/05/05/zerotier-minio-update.html
+
 ---
+ 
 
 in a [previous post][1], I talked about setting up a distributed S3 like data storage system using [Minio][6] and [ZeroTier][7]. Well, this week, the ZeroTier guys tweeted about this.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Distributed S3 data storage using <a href="https://twitter.com/Minio">@minio</a> and <a href="https://twitter.com/hashtag/ZeroTier?src=hash">#ZeroTier</a> -- <a href="https://t.co/MAXTjo3muh">https://t.co/MAXTjo3muh</a></p>&mdash; ZeroTier, Inc. (@ZeroTier) <a href="https://twitter.com/ZeroTier/status/859557214997970944">May 2, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 859557214997970944 >}}
 
 A few people then started asking questions, and looking for a follow up, so here it is...
 

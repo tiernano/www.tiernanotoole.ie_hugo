@@ -7,10 +7,11 @@ tags:
 title: PowerShell + HandBrake + AppleTV + iTunes = Automatic TV... Ish...
 slug: Powershell-HandBrake-AppleTV-iTunes
 aliases:
-- 2012/9/28/Powershell-HandBrake-AppleTV-iTunes.html
-- 2012/9/28/powershell-handbrake-appletv-itunes.html
+- 2012/09/28/Powershell-HandBrake-AppleTV-iTunes.html
+- 2012/09/28/powershell-handbrake-appletv-itunes.html
 
 ---
+ 
  
  
 

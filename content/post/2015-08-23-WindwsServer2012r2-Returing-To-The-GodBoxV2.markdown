@@ -6,10 +6,11 @@ tags:
 title: Windows Server 2012 R2 returning to The GodBoxV2
 slug: WindwsServer2012r2-Returing-To-The-GodBoxV2
 aliases:
-- 2015/8/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
-- 2015/8/23/windwsserver2012r2-returing-to-the-godboxv2.html
+- 2015/08/23/WindwsServer2012r2-Returing-To-The-GodBoxV2.html
+- 2015/08/23/windwsserver2012r2-returing-to-the-godboxv2.html
 
 ---
+ 
  
  
 

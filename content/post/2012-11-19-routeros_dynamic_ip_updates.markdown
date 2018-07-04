@@ -13,6 +13,7 @@ aliases:
 ---
  
  
+ 
 
 I have been using a [MikroTik][1] [RouterBoard RB750][2] for a while now, and i love it! Over the weekend, i upgraded it to a [RB1100][3]. Its the same software running the device, but the device is faster (800Mhz PowerPC chip VS MIPS-BE at 680Mhz), has more memory (512Mb upgradable to 1.5Gb vs 32Mb) and more storage (think its 512Mb on board, plus 4Gb MicroSD card vs 32mb...). It also has more ports (13 GigE VS 5) and 2 Switch Groups, which i have no idea what they do just yet...
 

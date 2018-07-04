@@ -6,10 +6,11 @@ tags:
 title: Mobile Phone as a Service
 slug: mobile_phone_as_a_service
 aliases:
-- 2015/2/15/mobile_phone_as_a_service.html
-- 2015/2/15/mobile_phone_as_a_service.html
+- 2015/02/15/mobile_phone_as_a_service.html
+- 2015/02/15/mobile_phone_as_a_service.html
 
 ---
+ 
  
  
 
