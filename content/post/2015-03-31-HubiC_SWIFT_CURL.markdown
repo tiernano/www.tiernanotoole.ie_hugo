@@ -21,7 +21,8 @@ But first, i needed to figure out how... So, after a lot of arsing around in Lin
 
 First, i used the [Hubic sandbox][6] to get the keys... its quite simple to walk though... this gets you your Access Token (see step 3). next, we need to get the Endpoint from Hubic: [This GIST shows more][7]: 
 
-<script src="https://gist.github.com/tiernano/9c061ae8d1312190f152.js"></script>
+{{< gist tiernano 9c061ae8d1312190f152 >}}
+
 
 Quick walkthough:
 

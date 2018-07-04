@@ -23,7 +23,7 @@ As a follow up to yesterday's post on [RouterOS Blocking Machine access to all b
 
 to do this at the command prompt:
 
-{% gist 3877692 %}
+{{< gist tiernano 3877692 >}}
 
 this will block any traffic, other than the IPs in the expressVPN address list, for the machine 192.168.0.123.
 

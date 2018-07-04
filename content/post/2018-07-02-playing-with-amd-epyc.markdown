@@ -23,7 +23,7 @@ So, i spun a box up in New Jersey running Ubuntu 17.10 to play with it, and here
 
 First, i ran lscpu on the box to see what i was playing with:
 
-<script src="https://gist.github.com/tiernano/4877abe19c89f1e45e617da1b4d46447.js"></script>
+{{< gist tiernano 4877abe19c89f1e45e617da1b4d46447 >}}
 
 I then ran fdisk -l to see what disks i had to play with. on my machine sda and sdb where the 480gb SSDs, sdc was a 120gb that was empty and sdd was the boot drive... i installed the btrfs-progs and then formatted sda and sdb as a RAID0 array, which i then mounted to /mnt. this gave me just under 900gb to play with...
 

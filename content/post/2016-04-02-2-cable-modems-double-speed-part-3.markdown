@@ -54,7 +54,7 @@ I did not get a screen shot of this, but when I tried with iperf, thinking it mi
 
 I mentioned that I had made some minor tweaks to the configs from what John had written. Well, mostly it was config changes to how routing was done. In Johns case, he is bonding a DSL and a HSDPA connection, so he had setup to do for logging into his PPP modem and connecting. Also, when he setup the interfaces, he routing tables in there. I have mine setup in a single config file, like as follows:
 
-<script src="https://gist.github.com/tiernano/a9a642c4d029c0dcf8beb926b3588991.js"></script>
+{{< gist tiernano a9a642c4d029c0dcf8beb926b3588991 >}}
 
 I have changed the names from adsl1 and 2 to WAN1 and 2, and the IPs are changed from internal IPs to my public IPs. I manually run this when setting up my connection.
 

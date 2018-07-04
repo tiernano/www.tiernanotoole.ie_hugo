@@ -30,7 +30,8 @@ then, to add the cache drive
 the pool (in my case) got mounted to /home, and then i restored my backup to it. to do some tests, i can the
 following...
 
-{% gist 638891a7d9acac8e396f %}
+{{< gist tiernano 638891a7d9acac8e396f >}}
+
 
 
 614MB/s write and 5.3GB a second read is nothing to be sniffed at! :)

@@ -18,7 +18,8 @@ I have an [AppleTV][1] in the house (3, actually) and i am very happy with its e
 
 I also have a lot of content that works great with the AppleTV in iTunes, but i have content which does not work so great with the AppleTV... So, i needed to find a way to convert files quickly and easily... thats where PowerShell and [Handbrake][2] come in... 
 
-{% gist 3798509 %}
+{{< gist tiernano 3798509 >}}
+
 
 * in the code above, you need to set the path of where your files live. in my case they live on a NAS.
 * next, set the location of HandBrake... i have a 64 bit copy of Windows, and a 64 bit copy of HandBrake. 

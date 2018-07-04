@@ -29,7 +29,7 @@ Any question, leave a comment.
 
 [update] forgot to add the [gist][11] which shows how i do the rsync call...
 
-{% gist 4545178 %}
+{{< gist tiernano 4545178 >}}
 
 [update2] you in my case, the folder that Jekyll is being built in needed to be chmoded and chowned... I chowned the the folder to the gitolite user and i chmodded the folder to 777... before i did this, some files where unreadable on NFSN... with this, all works grand...  
 

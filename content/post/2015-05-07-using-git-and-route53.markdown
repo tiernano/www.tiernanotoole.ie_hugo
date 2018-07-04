@@ -21,13 +21,13 @@ there is a tool called [cli53][3] which will allow you to manage route53 objects
 
 I tweaked their block of ruby code (first time playing with ruby, be gentle with me) and got the following:
 
-{% gist f11fbec2075b8bf19d57 %}
+{{< gist tiernano f11fbec2075b8bf19d57 >}}
 
 essentially, it runs cli53 (you may need to change your path) and then creates .bind files for each zone.
 
 then, using their code below, you can re-import them to Route53:
 
-{% gist 7249547 %}
+{{< gist tiernano 7249547 >}}
 
 i have exported all mine, added them to git and done some testing... All seems to be in order... once i do some tweaks, i can get that CI piece working and it should be all magic...
 

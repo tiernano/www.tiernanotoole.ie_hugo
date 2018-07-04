@@ -19,7 +19,7 @@ In my [previous post on WANProxy][1], i did not really go into detail about what
 * on my laptop i have Squid running also. It connects to a WANProxy server at home and proxies the Squid server. The local squid box is using the home Squid box as an upstream connection.
 * for upstream connections i used the following lines in the squid.conf:
 
-{% gist 3958472 %}
+{{< gist tiernano 3958472 >}}
 
 I have set it to never use a direct connection, which is probably silly, since if i loose the WANProxy connection, i loose connectivity... Also, port 3300 is the WANProxy port its listening on. 
 
