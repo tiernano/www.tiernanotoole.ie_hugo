@@ -1,23 +1,28 @@
-PygmentsCodeFences = true
-PygmentsUseClasses = true
+PygmentsUseClasses = false
+PygmentsStyle = "colorful"
 baseurl = "https://tiernano.github.io/www.tiernanotoole.ie_hugo_static/"
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 10
-theme = "zen"
+theme = "BluestNight"
 title = "Tiernan's Comms Closet"
+enableGitInfo = true
 cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
+
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]
 section = ["HTML", "RSS"]
 taxonomy = ["HTML", "RSS"]
+
 [params]
 description = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
-post_navigation = true
 tagline = "morning..."
+feedlinks = true
+
 [params.iubenda]
 fit = "auto"
 id = "21904595"
+
 [params.sidebar]
 order = ["search", "recent", "categories", "taglist"]
 
