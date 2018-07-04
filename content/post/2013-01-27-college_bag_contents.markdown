@@ -8,8 +8,11 @@ slug: college_bag_contents
 aliases:
 - 2013/01/27/college_bag_contents.html
 - 2013/01/27/college_bag_contents.html
+disqus_identifier: https://tiernanotoole.ie/2013/01/27/college_bag_contents.html
+disqus_url: https://tiernanotoole.ie/2013/01/27/college_bag_contents.html
 
 ---
+ 
  
  
  

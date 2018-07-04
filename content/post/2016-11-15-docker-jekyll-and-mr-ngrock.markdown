@@ -9,8 +9,11 @@ slug: docker-jekyll-and-mr-ngrock
 aliases:
 - 2016/11/15/docker-jekyll-and-mr-ngrock.html
 - 2016/11/15/docker-jekyll-and-mr-ngrock.html
+disqus_identifier: https://tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
+disqus_url: https://tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
 
 ---
+ 
  
  
 

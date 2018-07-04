@@ -8,8 +8,11 @@ slug: building_wanproxy_on_ubuntu_12.04
 aliases:
 - 2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 - 2012/10/24/building_wanproxy_on_ubuntu_12.04.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
+disqus_url: https://tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 
 ---
+ 
  
  
  

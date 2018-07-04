@@ -8,8 +8,11 @@ slug: more_jekyll_stuff
 aliases:
 - 2012/10/04/more_jekyll_stuff.html
 - 2012/10/04/more_jekyll_stuff.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
+disqus_url: https://tiernanotoole.ie/2012/10/04/more_jekyll_stuff.html
 
 ---
+ 
  
  
  

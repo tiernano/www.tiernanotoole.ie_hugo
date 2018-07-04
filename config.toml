@@ -4,9 +4,12 @@ baseurl = "https://tiernano.github.io"
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 10
-theme = "hugo-xmin"
+theme = "theme-hugo-foundation6"
 title = "Tiernan's Comms Closet"
 enableGitInfo = true
+#googleAnalytics = "UA-123-45"
+disqusShortname = "tiernanotooleie"
+Copyright = "2018 Tiernan OToole"
 
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON"]
@@ -14,13 +17,31 @@ section = ["HTML", "RSS"]
 taxonomy = ["HTML", "RSS"]
 
 [params]
-description = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
+description = "Geek, Programmer, Photographer..."
 tagline = "morning..."
 feedlinks = true
 cloudinary_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
 leftsidebar = true
+custom_navbar = true
+
+[[menu.sidebar]]
+  name = "Link 1"
+  url = "https://example.com"
+
+[[menu.sidebar]]
+  name = "Link 2"
+  url = "https://example.org"
+
+[[menu.navbar]]
+  name = "Link 1"
+  url = "https://example.org"
 
 [params.sidebar]
+# Optional about block for sidebar (can be Markdown)
+about = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
+
+# How many posts to show on the sidebar (Default: 5)
+#num_recent_posts = 5
 order = ["search", "recent", "categories", "taglist"]
 
 [params.widgets]

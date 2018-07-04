@@ -9,8 +9,11 @@ slug: vlans-wifi-and-mikrotik
 aliases:
 - 2015/05/10/vlans-wifi-and-mikrotik.html
 - 2015/05/10/vlans-wifi-and-mikrotik.html
+disqus_identifier: https://tiernanotoole.ie/2015/05/10/vlans-wifi-and-mikrotik.html
+disqus_url: https://tiernanotoole.ie/2015/05/10/vlans-wifi-and-mikrotik.html
 
 ---
+ 
  
  
  

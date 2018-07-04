@@ -14,8 +14,11 @@ slug: double-speed-internet-part-6-hetzner-edition
 aliases:
 - 2016/05/17/double-speed-internet-part-6-hetzner-edition.html
 - 2016/05/17/double-speed-internet-part-6-hetzner-edition.html
+disqus_identifier: https://tiernanotoole.ie/2016/05/17/double-speed-internet-part-6-hetzner-edition.html
+disqus_url: https://tiernanotoole.ie/2016/05/17/double-speed-internet-part-6-hetzner-edition.html
 
 ---
+ 
  
  
 

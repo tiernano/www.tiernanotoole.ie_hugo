@@ -10,8 +10,11 @@ slug: Network-and-homelab-vnext-part-1
 aliases:
 - 2015/06/14/Network-and-homelab-vnext-part-1.html
 - 2015/06/14/network-and-homelab-vnext-part-1.html
+disqus_identifier: https://tiernanotoole.ie/2015/06/14/Network-and-homelab-vnext-part-1.html
+disqus_url: https://tiernanotoole.ie/2015/06/14/Network-and-homelab-vnext-part-1.html
 
 ---
+ 
  
  
  

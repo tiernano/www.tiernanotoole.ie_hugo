@@ -7,8 +7,11 @@ slug: VOIP-Stuff
 aliases:
 - 2012/09/11/VOIP-Stuff.html
 - 2012/09/11/voip-stuff.html
+disqus_identifier: https://tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
+disqus_url: https://tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
 
 ---
+ 
  
  
 

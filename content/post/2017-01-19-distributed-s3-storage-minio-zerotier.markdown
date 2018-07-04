@@ -10,8 +10,11 @@ slug: distributed-s3-storage-minio-zerotier
 aliases:
 - 2017/01/19/distributed-s3-storage-minio-zerotier.html
 - 2017/01/19/distributed-s3-storage-minio-zerotier.html
+disqus_identifier: https://tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
+disqus_url: https://tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
 
 ---
+ 
  
  
 

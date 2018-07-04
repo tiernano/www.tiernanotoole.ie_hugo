@@ -10,8 +10,11 @@ slug: symform_-_p2p_backup
 aliases:
 - 2012/11/30/symform_-_p2p_backup.html
 - 2012/11/30/symform_-_p2p_backup.html
+disqus_identifier: https://tiernanotoole.ie/2012/11/30/symform_-_p2p_backup.html
+disqus_url: https://tiernanotoole.ie/2012/11/30/symform_-_p2p_backup.html
 
 ---
+ 
  
  
  

@@ -7,8 +7,11 @@ slug: SublimeText-With-Powershell
 aliases:
 - 2012/08/31/SublimeText-With-Powershell.html
 - 2012/08/31/sublimetext-with-powershell.html
+disqus_identifier: https://tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
+disqus_url: https://tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
 
 ---
+ 
  
  
 

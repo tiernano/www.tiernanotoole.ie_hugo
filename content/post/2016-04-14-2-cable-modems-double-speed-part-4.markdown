@@ -14,8 +14,11 @@ slug: 2-cable-modems-double-speed-part-4
 aliases:
 - 2016/04/14/2-cable-modems-double-speed-part-4.html
 - 2016/04/14/2-cable-modems-double-speed-part-4.html
+disqus_identifier: https://tiernanotoole.ie/2016/04/14/2-cable-modems-double-speed-part-4.html
+disqus_url: https://tiernanotoole.ie/2016/04/14/2-cable-modems-double-speed-part-4.html
 
 ---
+ 
  
  
  

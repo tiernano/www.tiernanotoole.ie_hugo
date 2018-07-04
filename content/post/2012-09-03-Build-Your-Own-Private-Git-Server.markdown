@@ -8,8 +8,11 @@ slug: Build-Your-Own-Private-Git-Server
 aliases:
 - 2012/09/03/Build-Your-Own-Private-Git-Server.html
 - 2012/09/03/build-your-own-private-git-server.html
+disqus_identifier: https://tiernanotoole.ie/2012/09/03/Build-Your-Own-Private-Git-Server.html
+disqus_url: https://tiernanotoole.ie/2012/09/03/Build-Your-Own-Private-Git-Server.html
 
 ---
+ 
  
  
 

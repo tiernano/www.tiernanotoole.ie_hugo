@@ -7,8 +7,11 @@ slug: custom_msdeploy_overwrite_rules
 aliases:
 - 2012/10/31/custom_msdeploy_overwrite_rules.html
 - 2012/10/31/custom_msdeploy_overwrite_rules.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/31/custom_msdeploy_overwrite_rules.html
+disqus_url: https://tiernanotoole.ie/2012/10/31/custom_msdeploy_overwrite_rules.html
 
 ---
+ 
  
  
  

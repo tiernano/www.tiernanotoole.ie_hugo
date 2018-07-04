@@ -9,8 +9,11 @@ slug: gps_and_raspberry_pi
 aliases:
 - 2012/10/15/gps_and_raspberry_pi.html
 - 2012/10/15/gps_and_raspberry_pi.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
+disqus_url: https://tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
 
 ---
+ 
  
  
  

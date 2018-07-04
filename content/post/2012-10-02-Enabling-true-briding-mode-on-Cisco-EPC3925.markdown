@@ -7,8 +7,11 @@ slug: Enabling-true-briding-mode-on-Cisco-EPC3925
 aliases:
 - 2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 - 2012/10/02/enabling-true-briding-mode-on-cisco-epc3925.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
+disqus_url: https://tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 
 ---
+ 
  
  
  

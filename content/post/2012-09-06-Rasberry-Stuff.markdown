@@ -8,8 +8,11 @@ slug: Rasberry-Stuff
 aliases:
 - 2012/09/06/Rasberry-Stuff.html
 - 2012/09/06/rasberry-stuff.html
+disqus_identifier: https://tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
+disqus_url: https://tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
 
 ---
+ 
  
  
 

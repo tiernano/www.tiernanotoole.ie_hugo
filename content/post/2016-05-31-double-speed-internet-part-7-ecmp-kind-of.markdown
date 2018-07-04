@@ -14,8 +14,11 @@ slug: double-speed-internet-part-7-ecmp-kind-of
 aliases:
 - 2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
 - 2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
+disqus_identifier: https://tiernanotoole.ie/2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
+disqus_url: https://tiernanotoole.ie/2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
 
 ---
+ 
  
  
 

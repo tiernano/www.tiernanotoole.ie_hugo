@@ -8,8 +8,11 @@ slug: Raspberry-Pi-Cross-Compiling
 aliases:
 - 2012/09/25/Raspberry-Pi-Cross-Compiling.html
 - 2012/09/25/raspberry-pi-cross-compiling.html
+disqus_identifier: https://tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
+disqus_url: https://tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
 
 ---
+ 
  
  
  

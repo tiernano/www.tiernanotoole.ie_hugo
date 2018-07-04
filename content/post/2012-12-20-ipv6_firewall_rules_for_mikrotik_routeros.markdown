@@ -9,8 +9,11 @@ slug: ipv6_firewall_rules_for_mikrotik_routeros
 aliases:
 - 2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 - 2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
+disqus_identifier: https://tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
+disqus_url: https://tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 
 ---
+ 
  
  
 

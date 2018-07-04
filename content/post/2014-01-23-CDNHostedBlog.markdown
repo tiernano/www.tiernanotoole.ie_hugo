@@ -10,8 +10,11 @@ slug: CDNHostedBlog
 aliases:
 - 2014/01/23/CDNHostedBlog.html
 - 2014/01/23/cdnhostedblog.html
+disqus_identifier: https://tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
+disqus_url: https://tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 
 ---
+ 
  
  
  

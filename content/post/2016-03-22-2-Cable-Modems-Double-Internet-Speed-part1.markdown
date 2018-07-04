@@ -10,8 +10,11 @@ slug: 2-Cable-Modems-Double-Internet-Speed-part1
 aliases:
 - 2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
 - 2016/03/22/2-cable-modems-double-internet-speed-part1.html
+disqus_identifier: https://tiernanotoole.ie/2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
+disqus_url: https://tiernanotoole.ie/2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
 
 ---
+ 
  
  
  

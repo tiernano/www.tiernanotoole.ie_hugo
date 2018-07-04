@@ -7,8 +7,11 @@ slug: Daily_Carry
 aliases:
 - 2015/03/26/Daily_Carry.html
 - 2015/03/26/daily_carry.html
+disqus_identifier: https://tiernanotoole.ie/2015/03/26/Daily_Carry.html
+disqus_url: https://tiernanotoole.ie/2015/03/26/Daily_Carry.html
 
 ---
+ 
  
  
  

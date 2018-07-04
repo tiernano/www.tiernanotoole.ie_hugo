@@ -10,8 +10,11 @@ slug: zfs_iscsi_nfs_sftp_hyper-v_and_more
 aliases:
 - 2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 - 2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
+disqus_url: https://tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 
 ---
+ 
  
  
  

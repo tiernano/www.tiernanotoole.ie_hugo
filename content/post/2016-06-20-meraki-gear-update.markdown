@@ -9,8 +9,11 @@ slug: meraki-gear-update
 aliases:
 - 2016/06/20/meraki-gear-update.html
 - 2016/06/20/meraki-gear-update.html
+disqus_identifier: https://tiernanotoole.ie/2016/06/20/meraki-gear-update.html
+disqus_url: https://tiernanotoole.ie/2016/06/20/meraki-gear-update.html
 
 ---
+ 
  
  
 

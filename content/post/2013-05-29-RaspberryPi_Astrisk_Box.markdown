@@ -8,8 +8,11 @@ slug: RaspberryPi_Astrisk_Box
 aliases:
 - 2013/05/29/RaspberryPi_Astrisk_Box.html
 - 2013/05/29/raspberrypi_astrisk_box.html
+disqus_identifier: https://tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
+disqus_url: https://tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
 
 ---
+ 
  
  
  

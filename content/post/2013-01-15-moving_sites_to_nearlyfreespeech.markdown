@@ -10,8 +10,11 @@ slug: moving_sites_to_nearlyfreespeech
 aliases:
 - 2013/01/15/moving_sites_to_nearlyfreespeech.html
 - 2013/01/15/moving_sites_to_nearlyfreespeech.html
+disqus_identifier: https://tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
+disqus_url: https://tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
 
 ---
+ 
  
  
  

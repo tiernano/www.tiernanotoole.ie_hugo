@@ -9,8 +9,11 @@ slug: Continuous-Integration-And-Blogging
 aliases:
 - 2016/03/24/Continuous-Integration-And-Blogging.html
 - 2016/03/24/continuous-integration-and-blogging.html
+disqus_identifier: https://tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
+disqus_url: https://tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
 
 ---
+ 
  
  
  

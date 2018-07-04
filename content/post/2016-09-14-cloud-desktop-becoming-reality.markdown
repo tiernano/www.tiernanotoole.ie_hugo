@@ -10,8 +10,11 @@ slug: cloud-desktop-becoming-reality.
 aliases:
 - 2016/09/14/cloud-desktop-becoming-reality.html
 - 2016/09/14/cloud-desktop-becoming-reality.html
+disqus_identifier: https://tiernanotoole.ie/2016/09/14/cloud-desktop-becoming-reality.html
+disqus_url: https://tiernanotoole.ie/2016/09/14/cloud-desktop-becoming-reality.html
 
 ---
+ 
  
  
 

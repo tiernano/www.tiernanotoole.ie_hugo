@@ -14,8 +14,11 @@ slug: double-speed-internet-part-8-routing-around
 aliases:
 - 2016/06/08/double-speed-internet-part-8-routing-around.html
 - 2016/06/08/double-speed-internet-part-8-routing-around.html
+disqus_identifier: https://tiernanotoole.ie/2016/06/08/double-speed-internet-part-8-routing-around.html
+disqus_url: https://tiernanotoole.ie/2016/06/08/double-speed-internet-part-8-routing-around.html
 
 ---
+ 
  
  
 

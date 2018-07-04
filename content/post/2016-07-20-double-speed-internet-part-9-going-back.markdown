@@ -14,8 +14,11 @@ slug: double-speed-internet-part-9-going-back
 aliases:
 - 2016/07/20/double-speed-internet-part-9-going-back.html
 - 2016/07/20/double-speed-internet-part-9-going-back.html
+disqus_identifier: https://tiernanotoole.ie/2016/07/20/double-speed-internet-part-9-going-back.html
+disqus_url: https://tiernanotoole.ie/2016/07/20/double-speed-internet-part-9-going-back.html
 
 ---
+ 
  
  
 

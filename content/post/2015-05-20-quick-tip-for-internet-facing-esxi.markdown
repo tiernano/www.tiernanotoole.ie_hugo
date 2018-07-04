@@ -8,8 +8,11 @@ slug: quick-tip-for-internet-facing-esxi
 aliases:
 - 2015/05/20/quick-tip-for-internet-facing-esxi.html
 - 2015/05/20/quick-tip-for-internet-facing-esxi.html
+disqus_identifier: https://tiernanotoole.ie/2015/05/20/quick-tip-for-internet-facing-esxi.html
+disqus_url: https://tiernanotoole.ie/2015/05/20/quick-tip-for-internet-facing-esxi.html
 
 ---
+ 
  
 Quick tip for all you with internet facing [VMWare ESXi][1] Hosts. I
 have just got my hands on a box on the [Hetzner][2] network (more on

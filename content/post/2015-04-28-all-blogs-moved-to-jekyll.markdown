@@ -8,8 +8,11 @@ slug: all-blogs-moved-to-jekyll
 aliases:
 - 2015/04/28/all-blogs-moved-to-jekyll.html
 - 2015/04/28/all-blogs-moved-to-jekyll.html
+disqus_identifier: https://tiernanotoole.ie/2015/04/28/all-blogs-moved-to-jekyll.html
+disqus_url: https://tiernanotoole.ie/2015/04/28/all-blogs-moved-to-jekyll.html
 
 ---
+ 
  
  
  

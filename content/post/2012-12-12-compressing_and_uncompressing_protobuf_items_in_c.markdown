@@ -11,8 +11,11 @@ slug: compressing_and_uncompressing_protobuf_items_in_c
 aliases:
 - 2012/12/12/compressing_and_uncompressing_protobuf_items_in_c.html
 - 2012/12/12/compressing_and_uncompressing_protobuf_items_in_c.html
+disqus_identifier: https://tiernanotoole.ie/2012/12/12/compressing_and_uncompressing_protobuf_items_in_c.html
+disqus_url: https://tiernanotoole.ie/2012/12/12/compressing_and_uncompressing_protobuf_items_in_c.html
 
 ---
+ 
  
  
  

@@ -9,8 +9,11 @@ slug: Understanding-Windows8-Storage-Spaces
 aliases:
 - 2012/08/31/Understanding-Windows8-Storage-Spaces.html
 - 2012/08/31/understanding-windows8-storage-spaces.html
+disqus_identifier: https://tiernanotoole.ie/2012/08/31/Understanding-Windows8-Storage-Spaces.html
+disqus_url: https://tiernanotoole.ie/2012/08/31/Understanding-Windows8-Storage-Spaces.html
 
 ---
+ 
  
  
 

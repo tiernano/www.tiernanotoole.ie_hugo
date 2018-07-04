@@ -8,8 +8,11 @@ slug: raspberry_pi_now_with_512mb_ram
 aliases:
 - 2012/10/15/raspberry_pi_now_with_512mb_ram.html
 - 2012/10/15/raspberry_pi_now_with_512mb_ram.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/15/raspberry_pi_now_with_512mb_ram.html
+disqus_url: https://tiernanotoole.ie/2012/10/15/raspberry_pi_now_with_512mb_ram.html
 
 ---
+ 
  
  
  

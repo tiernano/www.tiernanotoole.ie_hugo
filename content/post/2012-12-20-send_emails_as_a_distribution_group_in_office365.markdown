@@ -8,8 +8,11 @@ slug: send_emails_as_a_distribution_group_in_office365
 aliases:
 - 2012/12/20/send_emails_as_a_distribution_group_in_office365.html
 - 2012/12/20/send_emails_as_a_distribution_group_in_office365.html
+disqus_identifier: https://tiernanotoole.ie/2012/12/20/send_emails_as_a_distribution_group_in_office365.html
+disqus_url: https://tiernanotoole.ie/2012/12/20/send_emails_as_a_distribution_group_in_office365.html
 
 ---
+ 
  
  
  

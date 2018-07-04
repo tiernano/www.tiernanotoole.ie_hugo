@@ -9,8 +9,11 @@ slug: Duplicity_Hubic
 aliases:
 - 2015/04/01/Duplicity_Hubic.html
 - 2015/04/01/duplicity_hubic.html
+disqus_identifier: https://tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
+disqus_url: https://tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 
 ---
+ 
  
  
  

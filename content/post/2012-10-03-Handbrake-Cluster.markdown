@@ -9,8 +9,11 @@ slug: Handbrake-Cluster
 aliases:
 - 2012/10/03/Handbrake-Cluster.html
 - 2012/10/03/handbrake-cluster.html
+disqus_identifier: https://tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
+disqus_url: https://tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
 
 ---
+ 
  
  
  

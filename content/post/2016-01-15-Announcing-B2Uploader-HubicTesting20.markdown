@@ -10,8 +10,11 @@ slug: Announcing-B2Uploader-HubicTesting20
 aliases:
 - 2016/01/15/Announcing-B2Uploader-HubicTesting20.html
 - 2016/01/15/announcing-b2uploader-hubictesting20.html
+disqus_identifier: https://tiernanotoole.ie/2016/01/15/Announcing-B2Uploader-HubicTesting20.html
+disqus_url: https://tiernanotoole.ie/2016/01/15/Announcing-B2Uploader-HubicTesting20.html
 
 ---
+ 
  
  
  
