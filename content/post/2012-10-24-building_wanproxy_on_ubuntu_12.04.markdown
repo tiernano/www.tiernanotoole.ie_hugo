@@ -5,11 +5,8 @@ tags:
 - Networking
 title: Building WANProxy on Ubuntu 12.04
 slug: building_wanproxy_on_ubuntu_12.04
-aliases:
-- 2012/10/24/building_wanproxy_on_ubuntu_12.04.html
-- 2012/10/24/building_wanproxy_on_ubuntu_12.04.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 
 ---
  [Updated 2016/04/09] I had to use this today to build on Debian 8.3 for 2 different boxes. So, making minor changes (url to git proxy, and where you build from) to make sure this works now.

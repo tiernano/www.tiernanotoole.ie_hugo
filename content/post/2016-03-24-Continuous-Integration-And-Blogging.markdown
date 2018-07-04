@@ -6,11 +6,8 @@ tags:
 - Jekyll
 title: Continuous Integration and Blogging
 slug: Continuous-Integration-And-Blogging
-aliases:
-- 2016/03/24/Continuous-Integration-And-Blogging.html
-- 2016/03/24/continuous-integration-and-blogging.html
-disqus_identifier: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
 disqus_url: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
+disqus_identifier: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
 
 ---
  Back in August of 2012, I started this site using Git and Jekyll. I hosted most of it at home, pushing to a server in house. Then, a few years back, I moved to pushing the files to [Amazon S3][3] and had [Cloud Front][4] doing distribution. The last moved had me hosting the files in [NearlyFreeSpeech.NET][5] and [Cloud Flare][6] doing the content distribution... Well, that changed over the last few days... again...

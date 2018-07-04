@@ -4,11 +4,8 @@ tags:
 - Networking
 title: Enabling True Bridging modem on a Cisco ECP3925 Cable Modem (UPC Ireland)
 slug: Enabling-true-briding-mode-on-Cisco-EPC3925
-aliases:
-- 2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
-- 2012/10/02/enabling-true-briding-mode-on-cisco-epc3925.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 
 ---
  I am a [UPC Ireland][1] customer, and have 2 cable modems into the house, both Cisco EPC3925s. These are not exactly great modems for power users, but are grand for normal use... Me, however, being a poweruser wanted something a little more, how should I put it, powerful. 

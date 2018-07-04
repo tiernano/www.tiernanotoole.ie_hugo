@@ -6,11 +6,8 @@ tags:
 - Development
 title: Docker Jekyll and Mr ngrok
 slug: docker-jekyll-and-mr-ngrock
-aliases:
-- 2016/11/15/docker-jekyll-and-mr-ngrock.html
-- 2016/11/15/docker-jekyll-and-mr-ngrock.html
-disqus_identifier: https://www.tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
 disqus_url: https://www.tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
+disqus_identifier: https://www.tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
 
 ---
  See what i did with the title?! Anyway, in [my last post][1], i explained how i was building this site with Docker running on Windows 10 with the Anniversary update. Today, i am going to show you how to host it using [Nginx][2] and [ngrok][3].

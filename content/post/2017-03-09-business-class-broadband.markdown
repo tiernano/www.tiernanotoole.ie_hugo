@@ -7,11 +7,8 @@ tags:
 - HomeLab
 title: Business Class Broadband... finally here....
 slug: business-class-broadband
-aliases:
-- 2017/03/09/business-class-broadband.html
-- 2017/03/09/business-class-broadband.html
-disqus_identifier: https://www.tiernanotoole.ie/2017/03/09/business-class-broadband.html
 disqus_url: https://www.tiernanotoole.ie/2017/03/09/business-class-broadband.html
+disqus_identifier: https://www.tiernanotoole.ie/2017/03/09/business-class-broadband.html
 
 ---
  So, after many (MANY) years messing with dual cable modems, struggling to get them working together, to get websites to even allow me in, having to use hacks and kluges to get it to work at all... I have given up. It has been a struggle getting two modems working properly. Load blanching *kind* of works... but it's messy at best. Some sites kick you out every now and again because your IP changes. Some sites wont let you login at all... Mind you, some sites work grand and don't ask questions...

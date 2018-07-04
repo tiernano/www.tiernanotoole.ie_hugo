@@ -4,11 +4,8 @@ tags:
 - VoIP
 title: More VoIP Stuff
 slug: More-VoIP-Stuff
-aliases:
-- 2012/09/27/More-VoIP-Stuff.html
-- 2012/09/27/more-voip-stuff.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 
 ---
  As part of my ongoing plan to upgrade the house to VoIP, and as a follow up to my first [VoIP stuff][1] post, here are some more things i have found...

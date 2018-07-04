@@ -5,11 +5,8 @@ tags:
 - Programming
 title: Building a Cross Compiler for your Raspberry Pi
 slug: Raspberry-Pi-Cross-Compiling
-aliases:
-- 2012/09/25/Raspberry-Pi-Cross-Compiling.html
-- 2012/09/25/raspberry-pi-cross-compiling.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
 
 ---
  My main machine at home, known as "The GodBox" is a Dual Processor, [Quad Core Xeon 5520][3] with 60Gb RAM, 2 [300Gb 10,000 RPM Western Digital Velociraptor][4] in RAID 0 for boot, 4X1Tb 7200RPM drives for storage, 2 more 300Gb 10,000 RPM drives for "scratch disk" and a couple high(ish) end graphics cards with 3 monitors plugged in... Hence the name, GodBox!

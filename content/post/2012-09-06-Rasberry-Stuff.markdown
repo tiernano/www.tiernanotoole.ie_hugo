@@ -5,11 +5,8 @@ tags:
 - Raspberry_Pi
 title: Raspberry Pi Stuff
 slug: Rasberry-Stuff
-aliases:
-- 2012/09/06/Rasberry-Stuff.html
-- 2012/09/06/rasberry-stuff.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/06/Rasberry-Stuff.html
 
 ---
  A couple months back, I got my hands on a [Raspberry Pi][1], a tiny development board that can run a full copy of Linux, has a HDMI port, a couple USB ports, Ethernet and a few other little bits and pieces. The full specs, from the [Wikipedia Article][2] are as follows:

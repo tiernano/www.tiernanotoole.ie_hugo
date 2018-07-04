@@ -9,11 +9,8 @@ tags:
 layout: post
 published: true
 slug: playing-with-amd-epyc
-aliases:
-- 2018/07/02/playing-with-amd-epyc.html
-- 2018/07/02/playing-with-amd-epyc.html
-disqus_identifier: https://www.tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
 disqus_url: https://www.tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
+disqus_identifier: https://www.tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
 
 ---
  So, a few days back I got an email from [Packet.net](http://www.packet.net) about a promotion they and AMD where running. Essentially, they gave me some credit for their service (i am an existing customer) to play with one of their c2.medium machines. A c2.medium comes with an [AMD EPYC 7401P](https://www.amd.com/en/products/cpu/amd-epyc-7401p) which consists of 24 physical cores clocked at 2Gz with an all core boost at 2.8Gb and a max clock of 3Gz, 48 threads, 64GB ECC Memory, 2x120GB SSDs for boot and 2x480GB SSDs for main stoage. It also has a 20Gb network link (2x10gb bonded) and can run pretty much any OS you can think of (Windows is not on the list officially, but you can boot off your own ISO, so you could probably get it on there... might not be supported, but it might be possible). all this for $1 per hour! And did i mention they are bare metal machines?
@@ -30,11 +27,11 @@ First, i ran lscpu on the box to see what i was playing with:
 
 I then ran fdisk -l to see what disks i had to play with. on my machine sda and sdb where the 480gb SSDs, sdc was a 120gb that was empty and sdd was the boot drive... i installed the btrfs-progs and then formatted sda and sdb as a RAID0 array, which i then mounted to /mnt. this gave me just under 900gb to play with...
 
-So, my first test is the usual test: building the Linux Kernel. I know that this is something that the lads at [ServeTheHome](http://www.servethehome.com) do a lot but its something i wanted to try my self... So, first i installed git and build essential, then bison, flex and ncurses-dev, then i cloned Linus' git repo at git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git. First things first: this machine has a twin 10gb link, a shead load of cores and some very fast storage. How long did it take to clone? it download 1.02 GiB at 35.32MiB/s (about 30 seconds and aboiut 280Mbit/s) and all in, took 2 min 55 seconds to clone. I then ran 'time make -j 49' to see how long it would take... hmmm... no config file... make menuconfig and just hit save... defaults are grand... time make -j 49 again... and more errors... after a bit of googling, i find the page from Ubutnu [showing what i need to do to build the kernel](https://wiki.ubuntu.com/KernelTeam/GitKernelBuild). i follow that... download a LOT more stuff using their instrustions, and finally, we get to build... Time: 6 min 12 seconds... this is a FULL default build of the kernel...
+So, my first test is the usual test: building the Linux Kernel. I know that this is something that the lads at [ServeTheHome](http://www.servethehome.com) do a lot but its something i wanted to try my self... So, first i installed `git` and `build essential`, then `bison`, `flex` and `ncurses-dev`, then i cloned Linus' git repo at `git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git`. First things first: this machine has a twin 10gb link, a shead load of cores and some very fast storage. How long did it take to clone? it download 1.02 GiB at 35.32MiB/s (about 30 seconds and aboiut 280Mbit/s) and all in, took 2 min 55 seconds to clone. I then ran `time make -j 49` to see how long it would take... hmmm... no config file... `make menuconfig` and just hit save... defaults are grand... time `make -j 49` again... and more errors... after a bit of googling, i find the page from Ubutnu [showing what i need to do to build the kernel](https://wiki.ubuntu.com/KernelTeam/GitKernelBuild). i follow that... download a LOT more stuff using their instrustions, and finally, we get to build... Time: 6 min 12 seconds... this is a FULL default build of the kernel...
 
 {{< cloudinary src="/v1530618253/top_kernel_build_epy_hdb0R.jpg">}}
 
-Same build on a VM on GodboxV2 (which was given 32GB RAM and 16 thread, so a full Xeon E5-4620) took 8min 27s to clone (8.18MiB/s. or about 64Mbit/s) and 36 min... yea, that is 3x less cores, 2x less memory, slower storage (This is on Spinny Disk, not SSD), slower network and it is also a VM VS bare metal, still, to be essentially 6 times slower? interesting... I might, at some stage, boot the machine off a live Linux USB and run some more tests, but not tonight...
+Same build on a VM on GodboxV2 (which was given 32GB RAM and 16 thread, so a full [Xeon E5-4620](https://ark.intel.com/products/64607/Intel-Xeon-Processor-E5-4620-16M-Cache-2_20-GHz-7_20-GTs-Intel-QPI)) took 8min 27s to clone (8.18MiB/s. or about 64Mbit/s) and 36 min to build... yea, that is 3x less cores, 2x less memory, slower storage (This is on Spinny Disk, not SSD), slower network and it is also a VM VS bare metal, still, to be essentially 6 times slower? interesting... I might, at some stage, boot the machine off a live Linux USB and run some more tests, but not tonight...
 
 {{< cloudinary src="/v1530618253/top-kernel-build-godboxv2.png">}}
 
@@ -47,7 +44,7 @@ In total, there was 1546 photos exported, and the total file size was 15Gb. Firs
 
 {{< cloudinary src="v1530618252/image-resizer-epyc.png">}}
 
-Running the same code on GodBoxV2 on the bare metal (no VM this time), i got XX min of a run... Now, GodBoxV2 has other things running in the back ground, but not that much... I also noticed that, on average, photos were being processed in 3-5 seconds on Epyc, but nearly 13-15, and sometimes 20 and 25 seconds on GodBoxV2. I also noticed that on Epyc, the dotnet process took nearly 45GB of RAM... to run... On GodBoxV2, it took over 70!
+Running the same code on GodBoxV2 on the bare metal (no VM this time), i got over 20 min of a run... Now, GodBoxV2 has other things running in the back ground, but not that much... I also noticed that, on average, photos were being processed in 3-5 seconds on Epyc, but nearly 13-15, and sometimes 20 and 25 seconds on GodBoxV2. I also noticed that on Epyc, the dotnet process took nearly 45GB of RAM... to run... On GodBoxV2, it took over 70!
 
 {{< cloudinary src="v1530618252/image_resizer_godbox_f5de0.jpg">}}
 

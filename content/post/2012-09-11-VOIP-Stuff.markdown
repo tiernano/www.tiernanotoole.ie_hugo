@@ -4,11 +4,8 @@ tags:
 - VoIP
 title: VOIP Stuff
 slug: VOIP-Stuff
-aliases:
-- 2012/09/11/VOIP-Stuff.html
-- 2012/09/11/voip-stuff.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/11/VOIP-Stuff.html
 
 ---
  I have been very interested in VOIP stuff for the last while now, and finally started looking at implementing it in the house. Here are some links which may be useful. I will do a full post soon.

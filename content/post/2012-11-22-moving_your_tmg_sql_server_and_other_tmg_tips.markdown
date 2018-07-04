@@ -5,11 +5,8 @@ tags:
 - Networking
 title: moving your TMG SQL server Logs DB and other TMG tips
 slug: moving_your_tmg_sql_server_and_other_tmg_tips
-aliases:
-- 2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
-- 2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
-disqus_identifier: https://www.tiernanotoole.ie/2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
 disqus_url: https://www.tiernanotoole.ie/2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
 
 ---
  In house, I have been using [Microsoft TMG 2010 Server][1] for a while now. I use it as a firewall for some of the machines on the network, and also as a proxy for most, if not all, machines. When acting as a Firewall, all traffic flows though the machine, be it HTTP/HTTPS, SMTP/POP3/IMAP, or anything for that matter. You can also lock down ports on the box, which is a feature of most firewalls, but i like TMG due to its relitive ease of use...

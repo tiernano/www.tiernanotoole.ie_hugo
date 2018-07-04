@@ -7,11 +7,8 @@ tags:
 - Git
 title: Git Push DNS
 slug: git-push-dns
-aliases:
-- 2015/05/07/git-push-dns.html
-- 2015/05/07/git-push-dns.html
-disqus_identifier: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
 disqus_url: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
+disqus_identifier: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
 
 ---
  There are now a lot of services that have "git push" options available... you can build websites with
