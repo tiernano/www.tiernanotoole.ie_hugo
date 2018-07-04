@@ -7,13 +7,14 @@ tags:
 - S3
 title: Distributed S3 data storage using Minio (and Zerotier)
 slug: distributed-s3-storage-minio-zerotier
-disqus_url: https://tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
-disqus_identifier: https://tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
 aliases:
 - 2017/01/19/distributed-s3-storage-minio-zerotier.html
 - 2017/01/19/distributed-s3-storage-minio-zerotier.html
+disqus_identifier: https://www.tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
+disqus_url: https://www.tiernanotoole.ie/2017/01/19/distributed-s3-storage-minio-zerotier.html
 
 ---
+ 
  
  
  

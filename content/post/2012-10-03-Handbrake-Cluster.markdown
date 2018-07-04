@@ -6,13 +6,14 @@ tags:
 - Media Center
 title: Handbrake Cluster
 slug: Handbrake-Cluster
-disqus_url: https://tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
-disqus_identifier: https://tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
 aliases:
 - 2012/10/03/Handbrake-Cluster.html
 - 2012/10/03/handbrake-cluster.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
 
 ---
+ 
  
  
  

@@ -11,13 +11,14 @@ tags:
 - Double_Internet
 title: double speed Internet Part 8 - Routing Around
 slug: double-speed-internet-part-8-routing-around
-disqus_url: https://tiernanotoole.ie/2016/06/08/double-speed-internet-part-8-routing-around.html
-disqus_identifier: https://tiernanotoole.ie/2016/06/08/double-speed-internet-part-8-routing-around.html
 aliases:
 - 2016/06/08/double-speed-internet-part-8-routing-around.html
 - 2016/06/08/double-speed-internet-part-8-routing-around.html
+disqus_identifier: https://www.tiernanotoole.ie/2016/06/08/double-speed-internet-part-8-routing-around.html
+disqus_url: https://www.tiernanotoole.ie/2016/06/08/double-speed-internet-part-8-routing-around.html
 
 ---
+ 
  
  
  

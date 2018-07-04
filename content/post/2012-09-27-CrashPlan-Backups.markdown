@@ -6,13 +6,14 @@ tags:
 - Storage
 title: Crashplan Backups
 slug: CrashPlan-Backups
-disqus_url: https://tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
-disqus_identifier: https://tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
 aliases:
 - 2012/09/27/CrashPlan-Backups.html
 - 2012/09/27/crashplan-backups.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
+disqus_url: https://www.tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
 
 ---
+ 
  
  
  

@@ -6,13 +6,14 @@ tags:
 - Networking
 title: SSH Tunneling made simple
 slug: SSH-Tunneling-Made-Simple
-disqus_url: https://tiernanotoole.ie/2012/09/17/SSH-Tunneling-Made-Simple.html
-disqus_identifier: https://tiernanotoole.ie/2012/09/17/SSH-Tunneling-Made-Simple.html
 aliases:
 - 2012/09/17/SSH-Tunneling-Made-Simple.html
 - 2012/09/17/ssh-tunneling-made-simple.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/17/SSH-Tunneling-Made-Simple.html
+disqus_url: https://www.tiernanotoole.ie/2012/09/17/SSH-Tunneling-Made-Simple.html
 
 ---
+ 
  
  
  

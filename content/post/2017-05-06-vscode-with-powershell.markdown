@@ -6,13 +6,14 @@ tags:
 - Blogging
 title: VSCode and Markdown Monster with Powershell
 slug: vscode-with-powershell
-disqus_url: https://tiernanotoole.ie/2017/05/06/vscode-with-powershell.html
-disqus_identifier: https://tiernanotoole.ie/2017/05/06/vscode-with-powershell.html
 aliases:
 - 2017/05/06/vscode-with-powershell.html
 - 2017/05/06/vscode-with-powershell.html
+disqus_identifier: https://www.tiernanotoole.ie/2017/05/06/vscode-with-powershell.html
+disqus_url: https://www.tiernanotoole.ie/2017/05/06/vscode-with-powershell.html
 
 ---
+ 
  
  
  

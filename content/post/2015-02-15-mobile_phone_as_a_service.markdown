@@ -5,13 +5,14 @@ tags:
 - VoIP
 title: Mobile Phone as a Service
 slug: mobile_phone_as_a_service
-disqus_url: https://tiernanotoole.ie/2015/02/15/mobile_phone_as_a_service.html
-disqus_identifier: https://tiernanotoole.ie/2015/02/15/mobile_phone_as_a_service.html
 aliases:
 - 2015/02/15/mobile_phone_as_a_service.html
 - 2015/02/15/mobile_phone_as_a_service.html
+disqus_identifier: https://www.tiernanotoole.ie/2015/02/15/mobile_phone_as_a_service.html
+disqus_url: https://www.tiernanotoole.ie/2015/02/15/mobile_phone_as_a_service.html
 
 ---
+ 
  
  
  

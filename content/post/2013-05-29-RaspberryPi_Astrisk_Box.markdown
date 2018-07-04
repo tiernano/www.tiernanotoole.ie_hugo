@@ -5,13 +5,14 @@ tags:
 - Raspberry_Pi
 title: Raspberry Pi as an Asterisk Box
 slug: RaspberryPi_Astrisk_Box
-disqus_url: https://tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
-disqus_identifier: https://tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
 aliases:
 - 2013/05/29/RaspberryPi_Astrisk_Box.html
 - 2013/05/29/raspberrypi_astrisk_box.html
+disqus_identifier: https://www.tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
+disqus_url: https://www.tiernanotoole.ie/2013/05/29/RaspberryPi_Astrisk_Box.html
 
 ---
+ 
  
  
  

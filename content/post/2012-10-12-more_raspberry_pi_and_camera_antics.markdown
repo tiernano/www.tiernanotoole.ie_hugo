@@ -7,13 +7,14 @@ tags:
 - Raspberry_Pi
 title: more raspberry pi and camera antics
 slug: more_raspberry_pi_and_camera_antics
-disqus_url: https://tiernanotoole.ie/2012/10/12/more_raspberry_pi_and_camera_antics.html
-disqus_identifier: https://tiernanotoole.ie/2012/10/12/more_raspberry_pi_and_camera_antics.html
 aliases:
 - 2012/10/12/more_raspberry_pi_and_camera_antics.html
 - 2012/10/12/more_raspberry_pi_and_camera_antics.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/10/12/more_raspberry_pi_and_camera_antics.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/12/more_raspberry_pi_and_camera_antics.html
 
 ---
+ 
  
  
  

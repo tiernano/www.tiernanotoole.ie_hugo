@@ -7,13 +7,14 @@ tags:
 - IPv6
 title: AS204994, Own IP Space and Anycast
 slug: as204994-own-ip-space-and-anycast
-disqus_url: https://tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
-disqus_identifier: https://tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
 aliases:
 - 2018/04/01/as204994-own-ip-space-and-anycast.html
 - 2018/04/01/as204994-own-ip-space-and-anycast.html
+disqus_identifier: https://www.tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
+disqus_url: https://www.tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
 
 ---
+ 
  
  
  

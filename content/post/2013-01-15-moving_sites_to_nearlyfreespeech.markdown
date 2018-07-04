@@ -7,13 +7,14 @@ tags:
 - Jekyll
 title: Moving sites to NearlyFreeSpeech
 slug: moving_sites_to_nearlyfreespeech
-disqus_url: https://tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
-disqus_identifier: https://tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
 aliases:
 - 2013/01/15/moving_sites_to_nearlyfreespeech.html
 - 2013/01/15/moving_sites_to_nearlyfreespeech.html
+disqus_identifier: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
+disqus_url: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
 
 ---
+ 
  
  
  

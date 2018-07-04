@@ -6,13 +6,14 @@ tags:
 - Blogging
 title: My new Git Powered Site
 slug: newsite
-disqus_url: https://tiernanotoole.ie/2012/08/29/NewSite.html
-disqus_identifier: https://tiernanotoole.ie/2012/08/29/NewSite.html
 aliases:
 - 2012/08/29/NewSite.html
 - 2012/08/29/newsite.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/08/29/NewSite.html
+disqus_url: https://www.tiernanotoole.ie/2012/08/29/NewSite.html
 
 ---
+ 
  
  
  

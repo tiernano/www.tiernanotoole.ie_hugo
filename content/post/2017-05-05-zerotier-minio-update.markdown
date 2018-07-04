@@ -7,13 +7,14 @@ tags:
 - HomeLab
 title: Zerotier and Minio Followup
 slug: zerotier-minio-update
-disqus_url: https://tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
-disqus_identifier: https://tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
 aliases:
 - 2017/05/05/zerotier-minio-update.html
 - 2017/05/05/zerotier-minio-update.html
+disqus_identifier: https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
+disqus_url: https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
 
 ---
+ 
  
  
  

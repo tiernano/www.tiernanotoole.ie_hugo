@@ -9,13 +9,14 @@ tags:
 layout: post
 published: true
 slug: playing-with-amd-epyc
-disqus_url: https://tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
-disqus_identifier: https://tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
 aliases:
 - 2018/07/02/playing-with-amd-epyc.html
 - 2018/07/02/playing-with-amd-epyc.html
+disqus_identifier: https://www.tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
+disqus_url: https://www.tiernanotoole.ie/2018/07/02/playing-with-amd-epyc.html
 
 ---
+ 
  
  
  

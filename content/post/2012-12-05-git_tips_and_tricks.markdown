@@ -5,13 +5,14 @@ tags:
 - Tips
 title: GIT tips and tricks
 slug: git_tips_and_tricks
-disqus_url: https://tiernanotoole.ie/2012/12/05/git_tips_and_tricks.html
-disqus_identifier: https://tiernanotoole.ie/2012/12/05/git_tips_and_tricks.html
 aliases:
 - 2012/12/05/git_tips_and_tricks.html
 - 2012/12/05/git_tips_and_tricks.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/12/05/git_tips_and_tricks.html
+disqus_url: https://www.tiernanotoole.ie/2012/12/05/git_tips_and_tricks.html
 
 ---
+ 
  
  
  

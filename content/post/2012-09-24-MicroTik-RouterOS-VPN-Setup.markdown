@@ -6,13 +6,14 @@ tags:
 - Mikrotik
 title: MicroTik RouterOS VPN Setup
 slug: MicroTik-RouterOS-VPN-Setup
-disqus_url: https://tiernanotoole.ie/2012/09/24/MicroTik-RouterOS-VPN-Setup.html
-disqus_identifier: https://tiernanotoole.ie/2012/09/24/MicroTik-RouterOS-VPN-Setup.html
 aliases:
 - 2012/09/24/MicroTik-RouterOS-VPN-Setup.html
 - 2012/09/24/microtik-routeros-vpn-setup.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/24/MicroTik-RouterOS-VPN-Setup.html
+disqus_url: https://www.tiernanotoole.ie/2012/09/24/MicroTik-RouterOS-VPN-Setup.html
 
 ---
+ 
  
  
  

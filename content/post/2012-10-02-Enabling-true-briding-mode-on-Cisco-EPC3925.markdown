@@ -4,13 +4,14 @@ tags:
 - Networking
 title: Enabling True Bridging modem on a Cisco ECP3925 Cable Modem (UPC Ireland)
 slug: Enabling-true-briding-mode-on-Cisco-EPC3925
-disqus_url: https://tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
-disqus_identifier: https://tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 aliases:
 - 2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 - 2012/10/02/enabling-true-briding-mode-on-cisco-epc3925.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/02/Enabling-true-briding-mode-on-Cisco-EPC3925.html
 
 ---
+ 
  
  
  

@@ -7,13 +7,14 @@ tags:
 - Cloud
 title: CDN Hosted Blog
 slug: CDNHostedBlog
-disqus_url: https://tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
-disqus_identifier: https://tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 aliases:
 - 2014/01/23/CDNHostedBlog.html
 - 2014/01/23/cdnhostedblog.html
+disqus_identifier: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
+disqus_url: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 
 ---
+ 
  
  
  

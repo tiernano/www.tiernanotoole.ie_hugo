@@ -5,13 +5,14 @@ tags:
 - Linux
 title: Build your own Private GIT server
 slug: Build-Your-Own-Private-Git-Server
-disqus_url: https://tiernanotoole.ie/2012/09/03/Build-Your-Own-Private-Git-Server.html
-disqus_identifier: https://tiernanotoole.ie/2012/09/03/Build-Your-Own-Private-Git-Server.html
 aliases:
 - 2012/09/03/Build-Your-Own-Private-Git-Server.html
 - 2012/09/03/build-your-own-private-git-server.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/03/Build-Your-Own-Private-Git-Server.html
+disqus_url: https://www.tiernanotoole.ie/2012/09/03/Build-Your-Own-Private-Git-Server.html
 
 ---
+ 
  
  
  

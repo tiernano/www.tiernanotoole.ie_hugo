@@ -5,13 +5,14 @@ tags:
 - Programming
 title: Building a Cross Compiler for your Raspberry Pi
 slug: Raspberry-Pi-Cross-Compiling
-disqus_url: https://tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
-disqus_identifier: https://tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
 aliases:
 - 2012/09/25/Raspberry-Pi-Cross-Compiling.html
 - 2012/09/25/raspberry-pi-cross-compiling.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
+disqus_url: https://www.tiernanotoole.ie/2012/09/25/Raspberry-Pi-Cross-Compiling.html
 
 ---
+ 
  
  
  

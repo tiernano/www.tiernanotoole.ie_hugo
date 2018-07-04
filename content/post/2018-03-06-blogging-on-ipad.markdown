@@ -8,13 +8,14 @@ tags:
 - Tools
 title: Blogging on an iPad Pro
 slug: blogging-on-ipad
-disqus_url: https://tiernanotoole.ie/2018/03/06/blogging-on-ipad.html
-disqus_identifier: https://tiernanotoole.ie/2018/03/06/blogging-on-ipad.html
 aliases:
 - 2018/03/06/blogging-on-ipad.html
 - 2018/03/06/blogging-on-ipad.html
+disqus_identifier: https://www.tiernanotoole.ie/2018/03/06/blogging-on-ipad.html
+disqus_url: https://www.tiernanotoole.ie/2018/03/06/blogging-on-ipad.html
 
 ---
+ 
  
  
  

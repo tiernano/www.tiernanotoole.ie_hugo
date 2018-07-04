@@ -7,13 +7,14 @@ tags:
 - Git
 title: Git Push DNS
 slug: git-push-dns
-disqus_url: https://tiernanotoole.ie/2015/05/07/git-push-dns.html
-disqus_identifier: https://tiernanotoole.ie/2015/05/07/git-push-dns.html
 aliases:
 - 2015/05/07/git-push-dns.html
 - 2015/05/07/git-push-dns.html
+disqus_identifier: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
+disqus_url: https://www.tiernanotoole.ie/2015/05/07/git-push-dns.html
 
 ---
+ 
  
  
  

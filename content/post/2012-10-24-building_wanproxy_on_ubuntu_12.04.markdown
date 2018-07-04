@@ -5,13 +5,14 @@ tags:
 - Networking
 title: Building WANProxy on Ubuntu 12.04
 slug: building_wanproxy_on_ubuntu_12.04
-disqus_url: https://tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
-disqus_identifier: https://tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 aliases:
 - 2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 - 2012/10/24/building_wanproxy_on_ubuntu_12.04.html
+disqus_identifier: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/24/building_wanproxy_on_ubuntu_12.04.html
 
 ---
+ 
  
  
  
