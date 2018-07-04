@@ -7,7 +7,7 @@ tags:
 - Networking
 - IPv6
 title: IPv6 + MikroTik + Linux + Windows
-slug: ipv6_%2B_mikrotik_%2B_linux_%2B_windows
+slug: ipv6_+_mikrotik_+_linux_+_windows
 aliases:
 - 2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html
 - 2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html

@@ -1,10 +1,10 @@
 PygmentsUseClasses = false
 PygmentsStyle = "colorful"
-baseurl = "https://tiernano.github.io/www.tiernanotoole.ie_hugo_static/"
+baseurl = "https://tiernano.github.io"
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 10
-theme = "BluestNight"
+theme = "hugo-xmin"
 title = "Tiernan's Comms Closet"
 enableGitInfo = true
 
