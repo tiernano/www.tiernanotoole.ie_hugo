@@ -37,3 +37,5 @@ So, finally, some links i have found useful while building this site.
 * [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/odc5hvptjxifri3jusn9): Since moving so static sites, i have found images to be a pain in the ass... Found these guys the other day, and they integrate well with Forestry. and their free version works grand for smaller sites... 
 
 so, any comments, questions, etc, just leave a message below. and dont forget to [subscrbe to the RSS](http://feeds.feedburner.com/tiernanotoole) for updates as they come out! 
+
+[UPDATE 2]. So, with the help of [Github Webhooks](https://developer.github.com/webhooks/) and the [webhook project](https://github.com/adnanh/webhook), this site auto deploys to 5 different servers and is currently being served on 4... Dub is not fully live yet... happy days!
