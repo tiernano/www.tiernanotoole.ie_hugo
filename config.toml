@@ -32,16 +32,16 @@ ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo/"
 
 
 [[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+  name = "Daily Carry"
+  url = "/dailycarry/"
 
 [[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
+  name = "Geek Photographer"
+  url = "https://geekphotographer.com"
 
 [[menu.navbar]]
-  name = "Link 1"
-  url = "https://example.org"
+  name = "Daily Carry"
+  url = "/dailycarry/"
 
 [params.sidebar]
 # Optional about block for sidebar (can be Markdown)
