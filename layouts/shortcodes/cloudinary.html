@@ -1,5 +1,5 @@
 {{ if .IsNamedParams }}
-<a href="https://res.cloudinary.com/tiernanotoole/image/upload/q_auto,f_auto/{{.Get "src" }}"><img src="https://res.cloudinary.com/tiernanotoole/image/upload/w_500,q_auto,f_auto/{{.Get "src" }}" alt=""></a>
+<a href="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get "src" }}"><img src="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get "src" }}" alt=""></a>
 {{ else }}
-<a href="https://res.cloudinary.com/tiernanotoole/image/upload/w_500,q_auto,f_auto/{{.Get 0}}"><img src="https://res.cloudinary.com/tiernanotoole/image/upload/w_500,q_auto,f_auto/{{.Get 0}}" alt=""></a>
+<a href="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get 0}}"><img src="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get 0}}" alt=""></a>
 {{ end }}
