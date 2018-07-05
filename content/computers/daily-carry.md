@@ -29,5 +29,4 @@ Some more photos below:
 
 {{< cloudinary src="/v1530624919/16752079580_ddd568fd5e_m.jpg">}}
 
-
 {{< cloudinary src="/v1530624931/16938202692_3eeeab8e05_m.jpg">}}
