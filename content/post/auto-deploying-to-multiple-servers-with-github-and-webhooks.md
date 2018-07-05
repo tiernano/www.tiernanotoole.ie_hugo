@@ -22,7 +22,7 @@ next, the script to pull from Github was simple enough:
 
 {{< gist tiernano 005f0211787de9ec73a683d84a7d81ce >}}
 
-Then, its just a matter of running the file:
+The repo should already be cloned into the folder, `/var/www/localfolder` and your web server should be pointing at that also. Then, its just a matter of running the command:
 
 `./webhook --hooks github.json --verbose`
 
@@ -46,4 +46,4 @@ Github will go out and have a chat with the webhook and verify it can send and r
 
 Clicking on these will show you the headers that were sent, along with the payload, and you can also see the response from your server. Finally, you have the option of resending the payload, just in case anything goes wrong.
 
-So, there you have it. A complete automated deploy across multiple servers! Any questions, leave a comment below! 
+So, there you have it. A complete automated deploy across multiple servers! Any questions, leave a comment below!
