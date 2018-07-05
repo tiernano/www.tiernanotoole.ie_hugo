@@ -1,12 +1,11 @@
 +++
-aliases = []
 date = "2018-07-03T13:10:31+00:00"
 publishdate = ""
 published = true
 slug = ""
 tags = []
 title = "Daily Carry"
-
+aliases = ["/DailyCarry/", "/dailycarry/"]
 +++
 A couple of years back, I did a post about my [Daily Carry for college](http://tiernanotoole.ie/2013/01/27/college_bag_contents.html)... Well, I have finished (ish) college, but i still cary a lot of weird and wonderful stuff... So, this is the update...
 
