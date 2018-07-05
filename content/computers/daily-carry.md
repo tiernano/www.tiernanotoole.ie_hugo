@@ -15,7 +15,7 @@ So, the contents are as follows:
 
 * Microsoft [SurfaceBook](https://www.microsoft.com/surface/en-gb/devices/surface-book) with an i7 processor, 16GB RAM and 512GB Storage, along with the dGPU.
 * [Samsung Galaxy Note 3](http://www.samsung.com/uk/discover/mobile/samsung-galaxy-note-3-and-galaxy-gear-the-perfect-match/)
-* [Beats by Dr. Dre Wireless on ear headphones](http://www.amazon.co.uk/gp/product/B008EQ1YWA/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B008EQ1YWA&linkCode=as2&tag=tiescomclo-21&linkId=7ZYQH6ZH25FE3CBQ). Bluetooth and wired
+* [Beats by Dr. Dre Wireless on ear headphones](http://www.amazon.co.uk/gp/product/B008EQ1YWA/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B008EQ1YWA&linkCode=as2&tag=tiescomclo-21&linkId=7ZYQH6ZH25FE3CBQ). Bluetooth and wired.
 * [TP-Link TL-WR703N](http://www.amazon.co.uk/gp/product/B00UMJ3HDQ/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00UMJ3HDQ&linkCode=as2&tag=tiescomclo-21&linkId=7BMHED4CKFRG5MRB) modified with extra RAM and ROM. I will explain this later...
 * [TP-Link MR3040](http://www.amazon.co.uk/gp/product/B0088PPFP4/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0088PPFP4&linkCode=as2&tag=tiescomclo-21&linkId=GYC4WLBAWOUFXLDX) currently used with the modem (see below) but to be replaced with the WR703N eventually...
 * [Huawei E3272 LTE Modem](http://www.amazon.co.uk/gp/product/B00HT2HP6E/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00HT2HP6E&linkCode=as2&tag=tiescomclo-21&linkId=KFGQNRYDGTIMJPHO) for broadband. Connected into either of the routers (above) or directly to the laptop.
