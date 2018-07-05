@@ -39,3 +39,4 @@ fields:
   default: ''
 pages:
 - content/post/moving-the-site-to-hugo.md
+- content/post/auto-deploying-to-multiple-servers-with-github-and-webhooks.md
