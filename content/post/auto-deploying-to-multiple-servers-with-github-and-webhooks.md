@@ -47,3 +47,5 @@ Github will go out and have a chat with the webhook and verify it can send and r
 Clicking on these will show you the headers that were sent, along with the payload, and you can also see the response from your server. Finally, you have the option of resending the payload, just in case anything goes wrong.
 
 So, there you have it. A complete automated deploy across multiple servers! Any questions, leave a comment below!
+
+\[UPDATE\] yesterday i mentioned i had to modify the [sample that was included](https://github.com/adnanh/webhook/blob/master/docs/Hook-Examples.md) on the webhook site. Well, i noticed something this morning. The reason i needed it modified was the trigger rule was checking the header and the reference for the branch, but any time i ran it, it would not trigger... The reason was simple: the webhook app is expecting `application/json` but i had it set to `application/x-www-form-urlencoded` which is the default... the webhook app then couldent parse it correctly... changing that fixes the problem! happy days!
