@@ -8,7 +8,8 @@ title: Hubic and Duplicity
 slug: Duplicity_Hubic
 disqus_url: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
-
+aliases:
+- /2015/04/01/Duplicity_Hubic.html
 ---
  I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...
 
@@ -37,20 +38,22 @@ So, how do we get it working? Well, givin that i am on Ubuntu, these are the ste
 * When i ran that, there where a few extra Python packages to be installed, so i was asked did i want to install them... Say, yes.
 * Now, to run a backup we run the following command:
 
-<pre>duplicity ~/ cf+hubic://location</pre>
+`duplicity ~/ cf+hubic://location`
 
 * cf+hubic is the backend to use, ~/ is the url to backup (my home directory in this case) and location is where on Hubic we want it stored. If this doesent exist, not a problem... it will create it.
 * after we run this we... ahhh... i get an error:
-<pre>BackendException: This backend requires the pyrax library available from Rackspace.</pre>
+
+`BackendException: This backend requires the pyrax library available from Rackspace.`
+
 * right... [pyrax library][11] is from Rackspace and is available to download though pip...
 * I seem to have python and a few other bits installed on this machine, so running 'sudo pip install pyrax' works... Your millage may vary... [eg, this is out of scope for this tutorial! your on your own!]
 * Other problem... I got a load of weird and wondering errors like this:
 
-<pre>AttributeError: 'Module_six_moves_urllib_parse' object has no attribute 'SplitResult'</pre>
+`AttributeError: 'Module_six_moves_urllib_parse' object has no attribute 'SplitResult'`
 
 * I fixed these by running:
 
-<pre> sudo pip install furl --upgrade</pre>
+`sudo pip install furl --upgrade`
 
 * FINALLY! ITS ALIVE!!! by default, it asks you for a key for the GnuPG encryption... and its all good! the first backup creates the directories, required files, etc. the next time you run the command, it will only upload changes. it will also ask for your GnuPG code you entered, so remember it!
 
