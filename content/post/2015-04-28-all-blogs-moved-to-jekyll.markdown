@@ -5,8 +5,10 @@ tags:
 - Blogging
 title: All blogs moved to Jekyll
 slug: all-blogs-moved-to-jekyll
-disqus_url: https://www.tiernanotoole.ie/2015/04/28/all-blogs-moved-to-jekyll.html
+aliases:
+- 2015/04/28/all-blogs-moved-to-jekyll.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/04/28/all-blogs-moved-to-jekyll.html
+disqus_url: https://www.tiernanotoole.ie/2015/04/28/all-blogs-moved-to-jekyll.html
 
 ---
  Well, its finally happened. All my blogs, [Tiernan's Comms Closet][1], [GeekPhotographer][2] and the [Podcast][3] have been

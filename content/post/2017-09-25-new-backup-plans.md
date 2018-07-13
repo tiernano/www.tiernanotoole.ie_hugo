@@ -9,8 +9,10 @@ tags:
 - BackBlaze
 title: New Backup Plans
 slug: new-backup-plans
-disqus_url: https://www.tiernanotoole.ie/2017/09/25/new-backup-plans.html
+aliases:
+- 2017/09/25/new-backup-plans.html
 disqus_identifier: https://www.tiernanotoole.ie/2017/09/25/new-backup-plans.html
+disqus_url: https://www.tiernanotoole.ie/2017/09/25/new-backup-plans.html
 
 ---
  So, a few weeks back, [CrashPlan](http://www.crashplan.com), one of my chosen backup services, decided to [kill their consumer backup plans](https://www.crashplan.com/en-us/consumer/nextsteps/). Which made me have to rethink my backup plan for the house...

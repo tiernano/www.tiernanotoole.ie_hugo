@@ -7,8 +7,10 @@ tags:
 - Hyper-V
 title: ZFS iSCSI NFS SFTP Hyper-V and more
 slug: zfs_iscsi_nfs_sftp_hyper-v_and_more
-disqus_url: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
+aliases:
+- 2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 
 ---
  As part of my new task to make my files safer and backups faster, and, well, cheap, I am looking into [ZFS][5] for my storage needs. My needs are as follows:

@@ -6,10 +6,11 @@ tags:
 - PFSense
 title: PFSense with Multiple Public IPs
 slug: PFSense-with-multiple-public-ips
-disqus_url: https://www.tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
+aliases:
+- 2015/05/30/PFSense-with-multiple-public-ips.html
+- 2015/05/30/pfsense-with-multiple-public-ips.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
-aliases: 
- - /2015/05/30/PFSense-with-multiple-public-ips.html
+disqus_url: https://www.tiernanotoole.ie/2015/05/30/PFSense-with-multiple-public-ips.html
 
 ---
  So, a few weeks back, i got my hands on a [Hetzner][1] Dedicated box. It has a quad core Xeon, 32Gb ram, 3x3Tb hdds, RAID controller and KVMoIP. one of the first thing i did was get myself a /29 IP pool (8 total, 6 usable IPs). There where already 3 IPs given to me: 1 for the KVM, one for the box itself, and 1 as the router for the IP block.

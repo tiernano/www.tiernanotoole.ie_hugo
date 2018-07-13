@@ -7,8 +7,11 @@ tags:
 - Double_Internet
 title: 2 Cable modems = Double Internet Speed? Well... not really... Part 1
 slug: 2-Cable-Modems-Double-Internet-Speed-part1
-disqus_url: https://www.tiernanotoole.ie/2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
+aliases:
+- 2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
+- 2016/03/22/2-cable-modems-double-internet-speed-part1.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
+disqus_url: https://www.tiernanotoole.ie/2016/03/22/2-Cable-Modems-Double-Internet-Speed-part1.html
 
 ---
  [NOTE] This part 1 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).

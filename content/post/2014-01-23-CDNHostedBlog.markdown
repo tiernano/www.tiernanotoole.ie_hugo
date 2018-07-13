@@ -7,8 +7,11 @@ tags:
 - Cloud
 title: CDN Hosted Blog
 slug: CDNHostedBlog
-disqus_url: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
+aliases:
+- 2014/01/23/CDNHostedBlog.html
+- 2014/01/23/cdnhostedblog.html
 disqus_identifier: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
+disqus_url: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 
 ---
  Well, if you can read this, this site is now hosted fully on [AWS][1] with both [S3][2] and [CloudFront][3]. More details eventually...
