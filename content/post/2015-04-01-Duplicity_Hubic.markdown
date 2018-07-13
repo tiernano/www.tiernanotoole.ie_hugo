@@ -10,13 +10,8 @@ aliases:
 - 2015/04/01/Duplicity_Hubic.html
 - 2015/04/01/duplicity_hubic.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
-<<<<<<< HEAD
-aliases:
-- /2015/04/01/Duplicity_Hubic.html
-=======
 disqus_url: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 
->>>>>>> c8b9f0df3f01f8a0f0f761335f0d3c75153d94ef
 ---
  I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...
 

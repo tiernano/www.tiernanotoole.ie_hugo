@@ -9,13 +9,9 @@ slug: newsite
 disqus_url: https://www.tiernanotoole.ie/2012/08/29/NewSite.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/08/29/NewSite.html
 aliases:
-<<<<<<< HEAD
-- /2012/08/29/NewSite.html
-=======
 - 2012/08/29/NewSite.html
 - 2012/08/29/newsite.html
 
->>>>>>> c8b9f0df3f01f8a0f0f761335f0d3c75153d94ef
 ---
  So, this site is brought to you by [GIT][1], [Jekyll][3] and Magic... here is how i did it...
 
