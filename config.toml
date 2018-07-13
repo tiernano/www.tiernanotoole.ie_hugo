@@ -1,80 +1,56 @@
-PygmentsUseClasses = false
+Copyright = "2018 Tiernan OToole"
 PygmentsStyle = "colorful"
+PygmentsUseClasses = false
+author = "Tiernan OToole"
 baseurl = "https://www.tiernanotoole.ie/"
+disqusShortname = "tiernanotooleie"
+enableGitInfo = true
 enableRobotsTXT = true
+googleAnalytics = "UA-220614-15"
 languageCode = "en-us"
 paginate = 10
 theme = "theme-hugo-foundation6"
 title = "Tiernan's Comms Closet"
-enableGitInfo = true
-googleAnalytics = "UA-220614-15"
-disqusShortname = "tiernanotooleie"
-Copyright = "2018 Tiernan OToole"
 uglyUrls = true
-author = "Tiernan OToole"
-
-[permalinks]
-post = "/:year/:month/:day/:slug"
-
-[outputs]
-home = ["HTML", "CSS", "RSS", "JSON", "Algolia"]
-section = ["HTML", "RSS"]
-taxonomy = ["HTML", "RSS"]
-
-[params]
-description = "Geek, Programmer, Photographer..."
-tagline = "morning..."
-feedlinks = true
-cloudinary_base_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
-leftsidebar = true
-custom_navbar = true
-ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo/"
-
-
 [[menu.sidebar]]
-  name = "Daily Carry"
-  url = "/dailycarry/"
-
-[[menu.sidebar]]
-  name = "Geek Photographer"
-  url = "https://geekphotographer.com"
-
-[[menu.navbar]]
-  name = "Daily Carry"
-  url = "/dailycarry/"
-
-[params.sidebar]
-# Optional about block for sidebar (can be Markdown)
-about = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
-
-# How many posts to show on the sidebar (Default: 5)
-num_recent_posts = 10
-order = ["search", "recent", "categories", "taglist"]
-
-[params.widgets]
-tags = true
-search = false
-recent_articles = true
-
-[params.iubenda]
-fit = "auto"
-id = "21904595"
-
-[params.social]
-    github = "tiernano"
-    reddit = "tiernanotoole"
-    spotify = "tiernano"
-    twitter = "tiernano"
-
+name = "Geek Photographer"
+url = "https://geekphotographer.com"
+weight = 1
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
 mediaType = "application/json"
 notAlternative = true
-
+[outputs]
+home = ["HTML", "CSS", "RSS", "JSON", "Algolia"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+[params]
+cloudinary_base_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
+custom_navbar = true
+description = "Geek, Programmer, Photographer..."
+feedlinks = true
+ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo/"
+leftsidebar = true
+tagline = "morning..."
 [params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
-
-
-
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+[params.iubenda]
+fit = "auto"
+id = "21904595"
+[params.sidebar]
+about = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
+num_recent_posts = 10
+order = ["search", "recent", "categories", "taglist"]
+[params.social]
+github = "tiernano"
+reddit = "tiernanotoole"
+spotify = "tiernano"
+twitter = "tiernano"
+[params.widgets]
+recent_articles = true
+search = false
+tags = true
+[permalinks]
+post = "/:year/:month/:day/:slug"
