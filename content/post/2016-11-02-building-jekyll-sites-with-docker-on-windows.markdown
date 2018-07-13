@@ -6,8 +6,10 @@ tags:
 - Development
 title: Building Jekyll sites with Docker on Windows
 slug: building-jekyll-sites-with-docker-on-windows
-disqus_url: https://www.tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
+aliases:
+- 2016/11/02/building-jekyll-sites-with-docker-on-windows.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
+disqus_url: https://www.tiernanotoole.ie/2016/11/02/building-jekyll-sites-with-docker-on-windows.html
 
 ---
  As some of you probably know (or based on the footer of the site) this site is built with [Jekyll][1]. Jekyll is a static web site builder, written in Ruby, and is a bit of a pain to build on Windows. Earlier on this year, I [wrote up a post][2] explaining how to use Jekyll on Windows using Bash on Ubuntu on Windows... It was a bit complicated, and, well, worked a few times, but was not too successfull... So, were do we go next? Well, [Docker][3] to the rescue!

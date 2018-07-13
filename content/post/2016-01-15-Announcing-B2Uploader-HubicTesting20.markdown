@@ -7,8 +7,11 @@ tags:
 - B2
 title: Announcing B2 Uploader and Hubic Testing 2.0
 slug: Announcing-B2Uploader-HubicTesting20
-disqus_url: https://www.tiernanotoole.ie/2016/01/15/Announcing-B2Uploader-HubicTesting20.html
+aliases:
+- 2016/01/15/Announcing-B2Uploader-HubicTesting20.html
+- 2016/01/15/announcing-b2uploader-hubictesting20.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/01/15/Announcing-B2Uploader-HubicTesting20.html
+disqus_url: https://www.tiernanotoole.ie/2016/01/15/Announcing-B2Uploader-HubicTesting20.html
 
 ---
  I have 2 new side projects to announce on the site today. First has been running for a while (first check-in was December 28th) and it’s called [B2Uploader][1]. Its a fairly simple Windows application to upload files to [BackBlaze B2][5]. If you are not familiar with [BackBlaze][6], they provide unlimited backup storage for the low price of a fiver a month. They are the guys who design the [BackBlaze storage pods][7] (I want one, by the way!) that allow them to provide unlimited storage for the fiver a month (I currently backup over 4Tb to them!), and late last year, they started offing [B2][5] which is a storage platform on their pods, and it has a (somewhat) easy to use API. AND ITS CHEAP! half a cent, up 0.5c, per gig stored per month! That’s crazy cheap! 

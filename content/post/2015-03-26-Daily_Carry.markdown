@@ -4,8 +4,11 @@ tags:
 - Gadgets
 title: Daily Carry, March 2015 Edition
 slug: Daily_Carry
-disqus_url: https://www.tiernanotoole.ie/2015/03/26/Daily_Carry.html
+aliases:
+- 2015/03/26/Daily_Carry.html
+- 2015/03/26/daily_carry.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/03/26/Daily_Carry.html
+disqus_url: https://www.tiernanotoole.ie/2015/03/26/Daily_Carry.html
 
 ---
  A couple of years back, i did a post about my [Daily Carry for college][1]... Well, I have finished (ish) college, but i still cary a lot of weird and wonderful stuff... So, this is the update... 

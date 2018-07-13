@@ -7,8 +7,10 @@ tags:
 - Jekyll
 title: Moving sites to NearlyFreeSpeech
 slug: moving_sites_to_nearlyfreespeech
-disqus_url: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
+aliases:
+- 2013/01/15/moving_sites_to_nearlyfreespeech.html
 disqus_identifier: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
+disqus_url: https://www.tiernanotoole.ie/2013/01/15/moving_sites_to_nearlyfreespeech.html
 
 ---
  I have been running a Dedicated Server from [Hetzner][1] for a while now, but have started to look at what i am running on the site, and reailized i under utilize the machine a lot... For example, this site is generated using [Jekyll][2], which takes up very little power, and becomes static HTML files. My other blogs ([Tiernan's Comms Closet][3] and [GeekPhotographer][4]) are both low traffic [Wordpress][5] sites, and I run a couple of other static sites also for friends... All in all, not a lot of power...

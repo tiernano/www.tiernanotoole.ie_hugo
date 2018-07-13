@@ -6,8 +6,11 @@ tags:
 - Code
 title: Hubic and Duplicity
 slug: Duplicity_Hubic
-disqus_url: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
+aliases:
+- 2015/04/01/Duplicity_Hubic.html
+- 2015/04/01/duplicity_hubic.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
+disqus_url: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 
 ---
  I mentioned [HubiC][1] in my [last post][3], and in it i said that you could use [Duplicity][4] for backups. Well, this is how you get it to work...

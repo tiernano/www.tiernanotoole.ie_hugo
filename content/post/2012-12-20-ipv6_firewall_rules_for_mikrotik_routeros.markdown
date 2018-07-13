@@ -6,8 +6,10 @@ tags:
 - IPv6
 title: IPv6 Firewall rules for MikroTik RouterOS
 slug: ipv6_firewall_rules_for_mikrotik_routeros
-disqus_url: https://www.tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
+aliases:
+- 2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
+disqus_url: https://www.tiernanotoole.ie/2012/12/20/ipv6_firewall_rules_for_mikrotik_routeros.html
 
 ---
  After [yesterday's post on IPv6 Networking in the house][1], I realized that all machines internally had publically facing IPv6 addresses! I started to panic, then went looking online, and found the following script:

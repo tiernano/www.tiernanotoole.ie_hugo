@@ -6,8 +6,10 @@ tags:
 - GPS
 title: GPS and Raspberry Pi
 slug: gps_and_raspberry_pi
-disqus_url: https://www.tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
+aliases:
+- 2012/10/15/gps_and_raspberry_pi.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/15/gps_and_raspberry_pi.html
 
 ---
  Need to add GPS to your Raspberry Pi? [How do i attach a GPS to a Raspberry][1] answers your question!

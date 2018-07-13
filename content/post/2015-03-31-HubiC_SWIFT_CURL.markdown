@@ -5,10 +5,12 @@ tags:
 - Code
 title: Hubic, OpenStack Swift and Curl
 slug: HubiC_SWIFT_CURL
-disqus_url: https://www.tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
-disqus_identifier: https://www.tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
 aliases:
-- /2015/03/31/HubiC_SWIFT_CURL.html
+- 2015/03/31/HubiC_SWIFT_CURL.html
+- 2015/03/31/hubic_swift_curl.html
+disqus_identifier: https://www.tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
+disqus_url: https://www.tiernanotoole.ie/2015/03/31/HubiC_SWIFT_CURL.html
+
 ---
  [HubiC][1] is an online storage site, built by the guys at [OVH][2]. They are currently offering 30Gb free (if you use the link above) or if you pay, you get 110Gb (insted of the usual 100Gb) for EUR1 a month, or 10.5TB (yup... TERABYTES!) for EUR5 a month... Thats a crazy amount of storage for a not crazy amount of money! 
 

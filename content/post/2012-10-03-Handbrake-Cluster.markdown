@@ -6,8 +6,11 @@ tags:
 - Media Center
 title: Handbrake Cluster
 slug: Handbrake-Cluster
-disqus_url: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
+aliases:
+- 2012/10/03/Handbrake-Cluster.html
+- 2012/10/03/handbrake-cluster.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
+disqus_url: https://www.tiernanotoole.ie/2012/10/03/Handbrake-Cluster.html
 
 ---
  [UPDATED] someone asked in the comments if there was an binary build for this file. there is now! [http://handbrakecluster.codeplex.com][8] now hosts the code and binaries, and will soon have help files and documentation.

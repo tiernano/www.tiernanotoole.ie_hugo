@@ -11,8 +11,10 @@ tags:
 - Double_Internet
 title: double speed Internet Part 7 - ECMP (kind of)
 slug: double-speed-internet-part-7-ecmp-kind-of
-disqus_url: https://www.tiernanotoole.ie/2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
+aliases:
+- 2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
+disqus_url: https://www.tiernanotoole.ie/2016/05/31/double-speed-internet-part-7-ecmp-kind-of.html
 
 ---
  [NOTE] This part 7 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).

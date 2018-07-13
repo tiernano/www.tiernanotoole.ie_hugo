@@ -7,8 +7,11 @@ tags:
 - HomeLab
 title: Network and HomeLab V.Next (Part 2)
 slug: Network-and-HomeLab-vnext-part2
-disqus_url: https://www.tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
+aliases:
+- 2015/06/23/Network-and-HomeLab-vnext-part2.html
+- 2015/06/23/network-and-homelab-vnext-part2.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
+disqus_url: https://www.tiernanotoole.ie/2015/06/23/Network-and-HomeLab-vnext-part2.html
 
 ---
  So, in my last post i talked about the requirements for the home lab, and in this post, im going to talk about a few more updates i have made in the last few weeks.

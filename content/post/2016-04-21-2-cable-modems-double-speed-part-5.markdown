@@ -11,8 +11,10 @@ tags:
 - Double_Internet
 title: (Mad) Max Speed - The Road Warrior (Internet connection) (double speed internet Part 5)
 slug: 2-cable-modems-double-speed-part-5
-disqus_url: https://www.tiernanotoole.ie/2016/04/21/2-cable-modems-double-speed-part-5.html
+aliases:
+- 2016/04/21/2-cable-modems-double-speed-part-5.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/04/21/2-cable-modems-double-speed-part-5.html
+disqus_url: https://www.tiernanotoole.ie/2016/04/21/2-cable-modems-double-speed-part-5.html
 
 ---
  [NOTE] This part 5 in a series of posts. The rest can be found [here](https://www.tiernanotoole.ie/tag/Double_Internet/).

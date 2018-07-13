@@ -7,8 +7,11 @@ tags:
 - HomeLab
 title: Network and Homelab V.Next (Part 1)
 slug: Network-and-homelab-vnext-part-1
-disqus_url: https://www.tiernanotoole.ie/2015/06/14/Network-and-homelab-vnext-part-1.html
+aliases:
+- 2015/06/14/Network-and-homelab-vnext-part-1.html
+- 2015/06/14/network-and-homelab-vnext-part-1.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/06/14/Network-and-homelab-vnext-part-1.html
+disqus_url: https://www.tiernanotoole.ie/2015/06/14/Network-and-homelab-vnext-part-1.html
 
 ---
  So, its that time again... [HomeLab][2] upgrade time... Or at least the planning for it. I am in the process of rebuilding my home lab, which involves pull all old servers out of the rack and replacing them with new ones... It also means rewriting the network, possibly upgrading some existing gear and hopefully getting the whole lot done on a budget of some sort...
