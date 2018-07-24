@@ -1,7 +1,6 @@
 +++
 aliases = []
 date = "2018-07-24T17:25:19+01:00"
-draft = true
 publishdate = "2018-07-24T17:30:00+01:00"
 published = false
 slug = ""
