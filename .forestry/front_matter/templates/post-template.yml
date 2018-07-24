@@ -41,3 +41,4 @@ fields:
 pages:
 - content/post/auto-deploying-to-multiple-servers-with-github-and-webhooks.md
 - content/post/moving-the-site-to-hugo.md
+- content/post/finally-going-all-in-on-voip.md
