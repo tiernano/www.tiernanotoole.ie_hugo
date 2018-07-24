@@ -2,7 +2,7 @@
 aliases = []
 date = "2018-07-24T17:25:19+01:00"
 publishdate = "2018-07-24T17:30:00+01:00"
-published = false
+published = true
 slug = ""
 tags = ["VoIP"]
 title = "Finally going all in on VoIP"
