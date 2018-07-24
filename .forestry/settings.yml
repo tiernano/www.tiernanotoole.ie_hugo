@@ -18,4 +18,4 @@ public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
-version: '0.43'
+version: '0.45'
