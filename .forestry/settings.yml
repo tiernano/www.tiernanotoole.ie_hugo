@@ -4,15 +4,21 @@ auto_deploy: true
 admin_path: 
 webhook_url: ''
 sections:
-- path: content/computers
+- type: directory
+  path: content/computers
   label: Computers
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/post
+  match: "*"
+- type: directory
+  path: content/post
   label: Post
   create: all
+  match: "**/*"
 upload_dir: ''
 public_path: ''
 front_matter_path: ''
