@@ -24,6 +24,11 @@
     {{ template "_internal/google_analytics_async.html" . }}
     {{ partial "head-custom.html" . }}
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.0/dist/instantsearch.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.0"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.0/dist/instantsearch-theme-algolia.min.css">
+
   </head>
   <body>
 
@@ -122,6 +127,33 @@
       }(document, 'script'));
   </script>
   
+  <script type="text/javascript">
+    const search = instantsearch({
+    appId: '1T1XKYZNL5',
+    apiKey: '7bbbf8cd1d237b7ef691bdf6d39d44e3',
+    indexName: 'staticsite',
+    routing: true
+    });
+
+    search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#hits',
+      templates: {
+          empty: 'No results',
+          item: '<div><a href="{{ safeHTML "{{{permalink}}}" }}">{{ safeHTML "{{{ _highlightResult.title.value }}}" }}</a></div>'
+        }
+      })
+    );
+
+     search.addWidget(
+    instantsearch.widgets.searchBox({
+      container: '#search-box',
+      placeholder: 'Search for posts'
+    })
+    );
+
+    search.start();
+  </script>
 
   </foot>
   </body>
