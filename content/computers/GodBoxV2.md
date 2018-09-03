@@ -21,7 +21,7 @@ Dell [Precision T7600 Workstation](http://www.dell.com/ie/business/p/precision-t
 * Currently running [Windows Server 2016 Datacenter](https://www.microsoft.com/en-us/cloud-platform/windows-server)
 * [CPU-Z Validation details](https://valid.x86.fr/ckxj45)
 
-{{< cloudinary src="/v1530800604/ckxj45.png">}}
+{{< cloudinary src="v1530800604/ckxj45.png">}}
 
 {{< cloudinary src="v1530620916/20160329-godboxv2-cpu.png">}}
 

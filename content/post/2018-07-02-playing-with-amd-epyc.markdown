@@ -31,11 +31,11 @@ I then ran 'fdisk -l' to see what disks i had to play with. on my machine sda an
 
 So, my first test is the usual test: building the Linux Kernel. I know that this is something that the lads at [ServeTheHome](http://www.servethehome.com) do a lot but its something i wanted to try my self... So, first i installed `git` and `build essential`, then `bison`, `flex` and `ncurses-dev`, then i cloned Linus' git repo at `git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git`. First things first: this machine has a twin 10gb link, a shead load of cores and some very fast storage. How long did it take to clone? it download 1.02 GiB at 35.32MiB/s (about 30 seconds and about 280Mbit/s) and all in, took **2 min 55 seconds** to clone. I then ran `time make -j 49` to see how long it would take... hmmm... no config file... `make menuconfig` and just hit save... defaults are grand... time `make -j 49` again... and more errors... after a bit of googling, i find the page from Ubuntu [showing what i need to do to build the kernel](https://wiki.ubuntu.com/KernelTeam/GitKernelBuild). i follow that... download a LOT more stuff using their instructions, and finally, we get to build... Time: **6 min 12 seconds**... this is a FULL default build of the kernel...
 
-{{< cloudinary src="/v1530618253/top_kernel_build_epy_hdb0R.jpg">}}
+{{< cloudinary src="v1530618253/top_kernel_build_epy_hdb0R.jpg">}}
 
 Same build on a VM on GodboxV2 (which was given 32GB RAM and 16 thread, so a full [Xeon E5-4620](https://ark.intel.com/products/64607/Intel-Xeon-Processor-E5-4620-16M-Cache-2_20-GHz-7_20-GTs-Intel-QPI)) took **8min 27s** to clone (8.18MiB/s. or about 64Mbit/s) and **36 min to build**... yea, that is 3x less cores, 2x less memory, slower storage (This is on Spinny Disk, not SSD), slower network and it is also a VM VS bare metal, still, to be essentially 6 times slower? interesting... I might, at some stage, boot the machine off a live Linux USB and run some more tests, but not tonight...
 
-{{< cloudinary src="/v1530618253/top-kernel-build-godboxv2.png">}}
+{{< cloudinary src="v1530618253/top-kernel-build-godboxv2.png">}}
 
 
 So, all this is because i was holding out for the main event... Photo processing... I wanted to do something "real life", which for me would be development and photo processing... the kernel build gives an idea of a large project build built, the image processing gives an idea of multimedia work...

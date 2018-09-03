@@ -1,5 +1,5 @@
 {{ if .IsNamedParams }}
-<a href="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get "src" }}"><img src="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get "src" }}" alt=""></a>
+<a href="https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}"><img src="https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}" alt=""></a>
 {{ else }}
-<a href="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get 0}}"><img src="{{ $.Site.Params.cloudinary_base_url }}w_auto,c_scale/{{.Get 0}}" alt=""></a>
+<a href="https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}"><img src="https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}" alt=""></a>
 {{ end }}

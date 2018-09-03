@@ -22,11 +22,11 @@ The GodBox is my main Hyper-V server and backup workstation. Its specs are as fo
 
 Some old photos of the machine are seen here:
 
-{{<cloudinary src="/v1530799664/krg7cf.png">}}
+{{<cloudinary src="v1530799664/krg7cf.png">}}
 
-{{<cloudinary src="/v1530620911/godboxv1-cpuinfo.png">}}
+{{<cloudinary src="v1530620911/godboxv1-cpuinfo.png">}}
     
-{{<cloudinary src="/v1530620868/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg">}}
+{{<cloudinary src="v1530620868/tumblr_n15uoaNSnY1s6snd0o1_1280.jpg">}}
 
 
 

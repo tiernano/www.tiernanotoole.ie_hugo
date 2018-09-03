@@ -26,7 +26,7 @@ you can manually download the tar and upload it, which i did.
 
 Finally, speed test result below:
 
-{{<cloudinary src="/v1530620885/20150805.ubiquiti.speedtest.compressed-resized.jpg">}}
+{{<cloudinary src="v1530620885/20150805.ubiquiti.speedtest.compressed-resized.jpg">}}
 
 More [Ubiquiti][2] stuff arriving tomorrow... will post more stuff then.
 

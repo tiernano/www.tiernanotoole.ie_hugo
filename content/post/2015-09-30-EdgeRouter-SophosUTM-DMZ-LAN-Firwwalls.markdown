@@ -19,14 +19,14 @@ disqus_url: https://www.tiernanotoole.ie/2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN
 
 What i wanted to do was setup a proper firewall between both networks, without the use of NAT... Do do this, i first had to disable th masquerading rules in Sophos:
 
-{{<cloudinary src="/v1530620916/20150930-masquerading-off.png">}}
+{{<cloudinary src="v1530620916/20150930-masquerading-off.png">}}
 
 next, on the EdgeRouter, i added a static route to point at the new network:
 
-{{<cloudinary src="/v1530620916/20150930-static-route.png">}}
+{{<cloudinary src="v1530620916/20150930-static-route.png">}}
 
 And finally, under firewall rules, i allowed what i wanted to allow (in this case, SSH from any DMZ client (not advised) to my Mac Mini).
 
-{{<cloudinary src="/v1530620916/20150930-firewall-rules.png">}}
+{{<cloudinary src="v1530620916/20150930-firewall-rules.png">}}
 
 And that, as they say, is that! So far, so good!

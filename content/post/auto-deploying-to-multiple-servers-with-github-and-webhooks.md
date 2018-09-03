@@ -10,7 +10,7 @@ title = "Auto deploying to multiple servers with GitHub and Webhooks"
 +++
 In yesterdays post, i mentioned that i wanted to try get an auto deploy working for this site. It already builds automagically using Forestry and puts the static HTML into a Github repo, but i needed to manually update the servers hosting the site... Well, not any more!
 
-{{< cloudinary src="/v1530809017/github-webhook.png">}}
+{{< cloudinary src="v1530809017/github-webhook.png">}}
 
 using the magic of [Github's Web hooks](https://developer.github.com/webhooks/), the [Webhook project](https://github.com/adnanh/webhook) and a small piece of bash shell script, i have managed to get this auto deploying...
 
@@ -30,19 +30,19 @@ The `--verbose` tag gives you lots of info, so its handy for testing. and then y
 
 next, head over to your project on Github and go to settings:
 
-{{< cloudinary src="/v1530810063/github-settings.png">}}
+{{< cloudinary src="v1530810063/github-settings.png">}}
 
 select webhooks and add new web hook
 
-{{< cloudinary src="/v1530810063/github-webhook-list.png">}}
+{{< cloudinary src="v1530810063/github-webhook-list.png">}}
 
 Fill in the required details on the page, and click save.
 
-{{< cloudinary src="/v1530810063/github-create-webhook.png">}}
+{{< cloudinary src="v1530810063/github-create-webhook.png">}}
 
 Github will go out and have a chat with the webhook and verify it can send and recieve stuff from the hook. You can see this in the deliveries section:
 
-{{< cloudinary src="/v1530810063/github-webhook-deliveries.png">}}
+{{< cloudinary src="v1530810063/github-webhook-deliveries.png">}}
 
 Clicking on these will show you the headers that were sent, along with the payload, and you can also see the response from your server. Finally, you have the option of resending the payload, just in case anything goes wrong.
 

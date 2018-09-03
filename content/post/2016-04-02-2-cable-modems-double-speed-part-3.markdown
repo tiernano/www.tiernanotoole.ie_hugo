@@ -38,7 +38,7 @@ on the local box. And, well, the results where not as expected. Pretty poor actu
 
 First, using Squid installed on the DO box, i tried using WGET to download a file using it. If I did this on the DO box itself, i was getting 100MBytes/s... When I ran it over the MLPPP box, well, under 7 was achieved.
 
-{{< cloudinary src="/v1530620915/20160402-sftp-over-mlppp-orig.png">}}
+{{< cloudinary src="v1530620915/20160402-sftp-over-mlppp-orig.png">}}
 
 
 {{< cloudinary src="20160402-downloading-over-mlppp-orig.PNG">}}
