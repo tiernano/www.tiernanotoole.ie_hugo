@@ -1,5 +1,19 @@
 {{ if .IsNamedParams }}
-<a href="https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}"><img src="https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}" alt=""></a>
+<img 
+srcset="
+https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}&width=500 500w,
+https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}&width=710 710w,
+https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}&width=1000 1000w,
+https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}&width=1420 1420w"
+src="https://images.tiernanotoole.net/Image/?inputImage={{.Get "src" }}&width=500" alt="">
 {{ else }}
-<a href="https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}"><img src="https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}" alt=""></a>
+<img 
+srcset="
+https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}&width=500 500w,
+https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}&width=710 710w,
+https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}&width=1000 1000w,
+https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}&width=1420 1420w"
+src="https://images.tiernanotoole.net/Image/?inputImage={{.Get 0}}&width=500" alt="">
 {{ end }}
+
+
