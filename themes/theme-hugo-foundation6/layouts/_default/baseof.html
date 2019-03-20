@@ -24,11 +24,10 @@
     {{ template "_internal/google_analytics_async.html" . }}
     {{ partial "head-custom.html" . }}
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.0/dist/instantsearch.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.32.1/dist/algoliasearchLite.js" integrity="sha256-pMaJf0I78weeXGkRMBDO6jSulxC/q3sb0aPdtV2N8n0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.2.0" integrity="sha256-/8usMtTwZ01jujD7KAZctG0UMk2S2NDNirGFVBbBZCM=" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.0/dist/instantsearch-theme-algolia.min.css">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.1.1/themes/reset-min.css" integrity="sha256-JQ2nnTmybhOWSjfV3sa8mG0ZVhTCcORER4cyXc5HL10=" crossorigin="anonymous">
   </head>
   <body>
 
@@ -128,12 +127,25 @@
   </script>
   
   <script type="text/javascript">
+
+    const searchClient = algoliasearch('1T1XKYZNL5', '7bbbf8cd1d237b7ef691bdf6d39d44e3');
+
     const search = instantsearch({
-    appId: '1T1XKYZNL5',
-    apiKey: '7bbbf8cd1d237b7ef691bdf6d39d44e3',
     indexName: 'staticsite',
-    routing: true
+    routing: true,
+    searchClient
     });
+
+
+  // initialize pagination
+  search.addWidget(
+    instantsearch.widgets.pagination({
+      container: '#pagination',
+      maxPages: 20,
+      // default is to scroll to 'body', here we disable this behavior
+      scrollTo: false
+    })
+  );
 
     search.addWidget(
     instantsearch.widgets.hits({
@@ -148,7 +160,8 @@
      search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#search-box',
-      placeholder: 'Search for posts'
+      placeholder: 'Search for posts',
+      autoFocus: false
     })
     );
 

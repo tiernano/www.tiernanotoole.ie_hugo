@@ -4,7 +4,6 @@ title: HP Storageworks P4300 (i think) G2
 sitemap:
     priority: 0.7
     changefreq: 'weekly'
-    lastmod: 2017-03-09T21:00:00
 ---
 # HP StorageWorks P4300 G2 servers
 

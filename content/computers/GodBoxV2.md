@@ -4,7 +4,6 @@ title: GodBox v2
 sitemap:
   priority: 0.7
   changefreq: weekly
-  lastmod: 2017-03-09 21:00:00 +0000
 aliases:
   - /Computers/GodBoxV2.html
 ---
