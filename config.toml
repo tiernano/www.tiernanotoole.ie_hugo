@@ -12,19 +12,23 @@ paginate = 10
 theme = "theme-hugo-foundation6"
 title = "Tiernan's Comms Closet"
 uglyUrls = true
+
 [[menu.sidebar]]
 name = "Geek Photographer"
 url = "https://geekphotographer.com"
 weight = 1
+
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
 mediaType = "application/json"
 notAlternative = true
+
 [outputs]
 home = ["HTML", "CSS", "RSS", "JSON", "Algolia"]
 section = ["HTML", "RSS"]
 taxonomy = ["HTML", "RSS"]
+
 [params]
 cloudinary_base_url = "https://res.cloudinary.com/tiernanotoole/image/upload/"
 custom_navbar = true
@@ -33,24 +37,30 @@ feedlinks = true
 ghrepo = "https://github.com/tiernano/www.tiernanotoole.ie_hugo/"
 leftsidebar = true
 tagline = "morning..."
+
 [params.algolia]
 params = ["categories", "tags"]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+vars = ["title", "RawContent", "date", "publishdate", "expirydate", "permalink"]
+
 [params.iubenda]
 fit = "auto"
 id = "21904595"
+
 [params.sidebar]
 about = "homepage of Tiernan OToole, Geek, photographer, GeekPhotographer, and lazy git."
 num_recent_posts = 10
 order = ["search", "recent", "categories", "taglist"]
+
 [params.social]
 github = "tiernano"
 reddit = "tiernanotoole"
 spotify = "tiernano"
 twitter = "tiernano"
+
 [params.widgets]
 recent_articles = true
 search = false
 tags = true
+
 [permalinks]
 post = "/:year/:month/:day/:slug"

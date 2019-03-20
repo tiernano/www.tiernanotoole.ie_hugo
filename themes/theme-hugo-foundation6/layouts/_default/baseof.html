@@ -136,17 +136,6 @@
     searchClient
     });
 
-
-  // initialize pagination
-  search.addWidget(
-    instantsearch.widgets.pagination({
-      container: '#pagination',
-      maxPages: 20,
-      // default is to scroll to 'body', here we disable this behavior
-      scrollTo: false
-    })
-  );
-
     search.addWidget(
     instantsearch.widgets.hits({
       container: '#hits',
@@ -157,7 +146,7 @@
       })
     );
 
-     search.addWidget(
+    search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#search-box',
       placeholder: 'Search for posts',
