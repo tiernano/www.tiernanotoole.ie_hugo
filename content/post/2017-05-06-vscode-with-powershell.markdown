@@ -33,7 +33,7 @@ When these are set (and you have restarted your PowerShell windows), you can now
 
 VSCode will open either files or folders, but it seems Markdown Monster only opens files.
 
-[1]:https://www.tiernanotoole.ie/2012/08/30/SublimeText-With-Powershell.html
+[1]:https://www.tiernanotoole.ie/2012/08/31/SublimeText-With-Powershell.html
 [2]:https://code.visualstudio.com/
 [3]:https://markdownmonster.west-wind.com/
 [4]:https://code.visualstudio.com/insiders
