@@ -4,10 +4,10 @@ date = "2019-04-18T18:00:00+00:00"
 publishdate = "2019-04-18T18:00:00+00:00"
 published = true
 slug = "network-update-info-april-2019"
-tags = ["Networking", "HomeLab"]
+tags = ["Networking", "HomeLab", "Hardware"]
 title = "Network Update Info April 2019"
-+++
 
++++
 So, this post has been a long time coming! A load of different things to talk about, so lets get started!
 
 ## GodBox V3
