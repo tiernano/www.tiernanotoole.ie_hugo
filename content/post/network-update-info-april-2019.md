@@ -17,8 +17,8 @@ So, for a long time, I have been thinking about GodBoxV3, the replacement to God
 * Minimum of 2x16 cores (double godboxv2)
 * About the same RAM, if not more
 * FAST STORAGE!
-* able to run my twin 30" 4K monitors
-* would like 10Gb/s NICs
+* Is able to run my twin 30" 4K monitors
+* Would like 10Gb/s NICs
 
 Well, It finally happened! I got the machine, built it and, well, its impressive! How did i do with specs? Well...
 
