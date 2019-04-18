@@ -1,6 +1,6 @@
 +++
 aliases = []
-date = "2019-04-18T18:00:00+01:00"
+date = "2019-04-18T18:00:00+00:00"
 publishdate = "2019-04-18T18:00:00+00:00"
 published = true
 slug = "network-update-info-april-2019"
