@@ -13,4 +13,4 @@ In a [previous post](https://www.tiernanotoole.ie/2018/07/24/finally-going-all-i
 
 {{< cloudinary src="v1562248733/cid-reformatting.png">}}
 
-All calls that come in starting with 0 are "fixed" and changed to +353 without the 0. When the call comes in though the Sip2Sim card, it does no longer show as a call from the UK, but now shows as a call in Ireland, so all the contact details show correctly! Happy days!
+All calls that come in starting with 0 are "fixed" and changed to +353 without the 0. When the call comes in though the SIP2SIM card, it does no longer show as a call from the UK, but now shows as a call in Ireland, or where it is coming from, so all the contact details show correctly! Happy days!
