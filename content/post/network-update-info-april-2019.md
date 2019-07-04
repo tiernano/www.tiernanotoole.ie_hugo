@@ -9,10 +9,10 @@ title = "Network Update Info April 2019"
 
 +++
 So, this post has been a long time coming! A load of different things to talk about, so lets get started!
- 
+
 ## GodBox V3
 
-So, for a long time, I have been thinking about GodBoxV3, the replacement to GodBoxV2. And when planning this, i had some ideas of what it should be: 
+So, for a long time, I have been thinking about GodBoxV3, the replacement to GodBoxV2. And when planning this, i had some ideas of what it should be:
 
 * Minimum of 2x16 cores (double godboxv2)
 * About the same RAM, if not more
@@ -42,11 +42,11 @@ Since i was going all Ubiquiti gear (Wifi is Unifi gear) i got rid of the old Mi
 
 ## Updates to BGP Stuff, including IPv6
 
-I lost one VPS in London, but replaced it with a new one from [HostUS](https://my.hostus.us/aff.php?aff=2152). I still use [Vultr](https://www.vultr.com/?ref=6925432), [Packet](https://geni.us/fEXzBRp) and [VServer.Site](https://geni.us/Z8JgBxn) as providers too. I am also adding more and more IPv6 stuff too... There is a [post on AS204994 explaining a lot of this](https://as204994.net/post/quick-overview/). 
+I lost one VPS in London, but replaced it with a new one from [HostUS](https://my.hostus.us/aff.php?aff=2152). I still use [Vultr](https://www.vultr.com/?ref=6925432), [Packet](https://geni.us/fEXzBRp) and [VServer.Site](https://geni.us/Z8JgBxn) as providers too. I am also adding more and more IPv6 stuff too... There is a [post on AS204994 explaining a lot of this](https://as204994.net/post/quick-overview/).
 
 ## New NAS and more storage!
 
-New NAS got purchased: [QNAP TS-932X](https://geni.us/1BdBXv). I have 5X8TB spinny disks (shucked from 5 [WD My Book 8TBs](https://geni.us/joHV)) + 4 X [500GB WD Blue SSDs](https://geni.us/QuaR6t0). 
+New NAS got purchased: [QNAP TS-932X](https://geni.us/1BdBXv). I have 5X8TB spinny disks (shucked from 5 [WD My Book 8TBs](https://geni.us/joHV)) + 4 X [500GB WD Blue SSDs](https://geni.us/QuaR6t0).
 
 ## New Servers and cooling updates
 
@@ -54,7 +54,6 @@ Moved lots of stuff around the room... Servers run cooler, and less noisy! happy
 
 ## VMWare in the house
 
-Up till reciently, I ran [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V) all round. Its still on GodBox V2 and V3 (v1 has a HDD issue, so its off...), but the main VM hosts (the C6100's) are being migrated to [VMWare ESXi](https://geni.us/tDBSw8z)... Why? Its a learning excersize... We see how it goes...
-
+Up till recently, I ran [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V) all round. Its still on GodBox V2 and V3 (v1 has a HDD issue, so its off...), but the main VM hosts (the C6100's) are being migrated to [VMWare ESXi](https://geni.us/tDBSw8z)... Why? Its a learning exercise... We see how it goes...
 
 So, long update... Any questions, comments, etc... shout!
