@@ -1,5 +1,5 @@
 +++
-date = 2017-05-06T00:00:00.000Z
+date = "2017-05-06T00:00:00.000Z"
 published = true
 tags = ["PowerShell", "Blogging"]
 title = "VSCode and Markdown Monster with Powershell"
