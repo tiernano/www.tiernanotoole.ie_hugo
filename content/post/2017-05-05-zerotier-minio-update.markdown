@@ -1,18 +1,17 @@
----
-date: 2017-05-05T00:00:00Z
-published: true
-tags:
-- Networking
-- IPv6
-- HomeLab
-title: Zerotier and Minio Followup
-slug: zerotier-minio-update
-aliases:
-- 2017/05/05/zerotier-minio-update.html
-disqus_identifier: https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
-disqus_url: https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html
++++ 
+date = 2017-05-05T00:00:00.000Z
+published = true
+tags = [
+  "Networking",
+  "IPv6",
+  "HomeLab"
+]
+title = "Zerotier and Minio Followup"
+slug = "zerotier-minio-update"
 
----
+disqus_identifier = "https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html"
+disqus_url = "https://www.tiernanotoole.ie/2017/05/05/zerotier-minio-update.html"
++++ 
  in a [previous post][1], I talked about setting up a distributed S3 like data storage system using [Minio][6] and [ZeroTier][7]. Well, this week, the ZeroTier guys tweeted about this.
 
 {{< tweet 859557214997970944 >}}

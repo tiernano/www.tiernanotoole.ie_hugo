@@ -6,7 +6,7 @@ tags:
 title: Raspberry Pi now with 512MB RAM, other random links...
 slug: raspberry_pi_now_with_512mb_ram
 aliases:
-- 2012/10/15/raspberry_pi_now_with_512mb_ram.html
+- /2012/10/15/raspberry_pi_now_with_512mb_ram.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/15/raspberry_pi_now_with_512mb_ram.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/15/raspberry_pi_now_with_512mb_ram.html
 

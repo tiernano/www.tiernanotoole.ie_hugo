@@ -5,8 +5,6 @@ tags:
 - Linux
 title: Bulk compressing images for the Web
 slug: bulk-compressing-images-for-the-web
-aliases:
-- 2015/04/29/bulk-compressing-images-for-the-web.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/04/29/bulk-compressing-images-for-the-web.html
 disqus_url: https://www.tiernanotoole.ie/2015/04/29/bulk-compressing-images-for-the-web.html
 

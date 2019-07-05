@@ -5,8 +5,6 @@ tags:
 - Email
 title: Send Emails as a Distribution Group in Office365
 slug: send_emails_as_a_distribution_group_in_office365
-aliases:
-- 2012/12/20/send_emails_as_a_distribution_group_in_office365.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/12/20/send_emails_as_a_distribution_group_in_office365.html
 disqus_url: https://www.tiernanotoole.ie/2012/12/20/send_emails_as_a_distribution_group_in_office365.html
 

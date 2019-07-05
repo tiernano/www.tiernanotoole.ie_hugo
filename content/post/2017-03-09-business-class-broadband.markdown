@@ -7,8 +7,6 @@ tags:
 - HomeLab
 title: Business Class Broadband... finally here....
 slug: business-class-broadband
-aliases:
-- 2017/03/09/business-class-broadband.html
 disqus_identifier: https://www.tiernanotoole.ie/2017/03/09/business-class-broadband.html
 disqus_url: https://www.tiernanotoole.ie/2017/03/09/business-class-broadband.html
 

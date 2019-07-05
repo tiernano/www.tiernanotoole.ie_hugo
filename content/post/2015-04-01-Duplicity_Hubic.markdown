@@ -7,8 +7,8 @@ tags:
 title: Hubic and Duplicity
 slug: Duplicity_Hubic
 aliases:
-- 2015/04/01/Duplicity_Hubic.html
-- 2015/04/01/duplicity_hubic.html
+- /2015/04/01/Duplicity_Hubic.html
+- /2015/04/01/duplicity_hubic.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 disqus_url: https://www.tiernanotoole.ie/2015/04/01/Duplicity_Hubic.html
 

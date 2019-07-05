@@ -5,8 +5,8 @@ tags:
 title: More VoIP Stuff
 slug: More-VoIP-Stuff
 aliases:
-- 2012/09/27/More-VoIP-Stuff.html
-- 2012/09/27/more-voip-stuff.html
+- /2012/09/27/More-VoIP-Stuff.html
+- /2012/09/27/more-voip-stuff.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/27/More-VoIP-Stuff.html
 

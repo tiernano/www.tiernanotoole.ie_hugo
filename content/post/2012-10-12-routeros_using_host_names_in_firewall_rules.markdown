@@ -7,7 +7,7 @@ tags:
 title: RouterOS Using Host names in Firewall Rules
 slug: routeros_using_host_names_in_firewall_rules
 aliases:
-- 2012/10/12/routeros_using_host_names_in_firewall_rules.html
+- /2012/10/12/routeros_using_host_names_in_firewall_rules.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/12/routeros_using_host_names_in_firewall_rules.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/12/routeros_using_host_names_in_firewall_rules.html
 

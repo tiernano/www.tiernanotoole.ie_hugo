@@ -6,7 +6,7 @@ tags:
 title: WANProxy and Squid with Upstream Servers
 slug: wanproxy_and_squid_with_upstream_servers
 aliases:
-- 2012/10/26/wanproxy_and_squid_with_upstream_servers.html
+- /2012/10/26/wanproxy_and_squid_with_upstream_servers.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/26/wanproxy_and_squid_with_upstream_servers.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/26/wanproxy_and_squid_with_upstream_servers.html
 

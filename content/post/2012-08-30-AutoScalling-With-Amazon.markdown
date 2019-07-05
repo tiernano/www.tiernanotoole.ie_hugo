@@ -6,8 +6,8 @@ tags:
 title: AutoScaling with Amazon
 slug: AutoScalling-With-Amazon
 aliases:
-- 2012/08/30/AutoScalling-With-Amazon.html
-- 2012/08/30/autoscalling-with-amazon.html
+- /2012/08/30/AutoScalling-With-Amazon.html
+- /2012/08/30/autoscalling-with-amazon.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/08/30/AutoScalling-With-Amazon.html
 disqus_url: https://www.tiernanotoole.ie/2012/08/30/AutoScalling-With-Amazon.html
 

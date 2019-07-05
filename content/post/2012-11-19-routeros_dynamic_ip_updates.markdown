@@ -7,7 +7,7 @@ tags:
 title: RouterOS Dynamic IP Updates
 slug: routeros_dynamic_ip_updates
 aliases:
-- 2012/11/19/routeros_dynamic_ip_updates.html
+- /2012/11/19/routeros_dynamic_ip_updates.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/11/19/routeros_dynamic_ip_updates.html
 disqus_url: https://www.tiernanotoole.ie/2012/11/19/routeros_dynamic_ip_updates.html
 

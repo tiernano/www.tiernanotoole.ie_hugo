@@ -7,8 +7,8 @@ tags:
 title: Continuous Integration and Blogging
 slug: Continuous-Integration-And-Blogging
 aliases:
-- 2016/03/24/Continuous-Integration-And-Blogging.html
-- 2016/03/24/continuous-integration-and-blogging.html
+- /2016/03/24/Continuous-Integration-And-Blogging.html
+- /2016/03/24/continuous-integration-and-blogging.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
 disqus_url: https://www.tiernanotoole.ie/2016/03/24/Continuous-Integration-And-Blogging.html
 

@@ -7,8 +7,8 @@ tags:
 title: SSH Tunneling made simple
 slug: SSH-Tunneling-Made-Simple
 aliases:
-- 2012/09/17/SSH-Tunneling-Made-Simple.html
-- 2012/09/17/ssh-tunneling-made-simple.html
+- /2012/09/17/SSH-Tunneling-Made-Simple.html
+- /2012/09/17/ssh-tunneling-made-simple.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/09/17/SSH-Tunneling-Made-Simple.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/17/SSH-Tunneling-Made-Simple.html
 

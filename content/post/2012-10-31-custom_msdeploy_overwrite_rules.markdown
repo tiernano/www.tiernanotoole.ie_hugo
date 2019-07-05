@@ -5,7 +5,7 @@ tags:
 title: Custom MSDeploy OverWrite Rules
 slug: custom_msdeploy_overwrite_rules
 aliases:
-- 2012/10/31/custom_msdeploy_overwrite_rules.html
+- /2012/10/31/custom_msdeploy_overwrite_rules.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/31/custom_msdeploy_overwrite_rules.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/31/custom_msdeploy_overwrite_rules.html
 

@@ -3,7 +3,7 @@ aliases = []
 date = "2018-07-05T16:40:23+00:00"
 publishdate = "2018-07-05T16:00:00+00:00"
 published = true
-slug = ""
+slug = "auto-deploying-to-multiple-servers-with-github-and-webhooks"
 tags = ["Tutorial", "Blogging"]
 title = "Auto deploying to multiple servers with GitHub and Webhooks"
 

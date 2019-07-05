@@ -9,8 +9,6 @@ tags:
 - Windows
 title: Useful Web and Desktop Apps 2016 edition
 slug: useful-web-and-desktop-apps-2016-edition
-aliases:
-- 2016/04/23/useful-web-and-desktop-apps-2016-edition.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/04/23/useful-web-and-desktop-apps-2016-edition.html
 disqus_url: https://www.tiernanotoole.ie/2016/04/23/useful-web-and-desktop-apps-2016-edition.html
 

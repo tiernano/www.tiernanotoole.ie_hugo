@@ -8,8 +8,8 @@ tags:
 title: Ubiquiti EdgeRouter PoE in the lab
 slug: Ubiquiti-EdgeRouter-POE-In-the-lab
 aliases:
-- 2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
-- 2015/08/05/ubiquiti-edgerouter-poe-in-the-lab.html
+- /2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
+- /2015/08/05/ubiquiti-edgerouter-poe-in-the-lab.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
 disqus_url: https://www.tiernanotoole.ie/2015/08/05/Ubiquiti-EdgeRouter-POE-In-the-lab.html
 

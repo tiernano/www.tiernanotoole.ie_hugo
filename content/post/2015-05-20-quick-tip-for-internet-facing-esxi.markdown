@@ -5,8 +5,6 @@ tags:
 - VMWare
 title: Quick tip for internet facing ESXi servers
 slug: quick-tip-for-internet-facing-esxi
-aliases:
-- 2015/05/20/quick-tip-for-internet-facing-esxi.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/05/20/quick-tip-for-internet-facing-esxi.html
 disqus_url: https://www.tiernanotoole.ie/2015/05/20/quick-tip-for-internet-facing-esxi.html
 

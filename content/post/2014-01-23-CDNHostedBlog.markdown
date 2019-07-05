@@ -8,8 +8,8 @@ tags:
 title: CDN Hosted Blog
 slug: CDNHostedBlog
 aliases:
-- 2014/01/23/CDNHostedBlog.html
-- 2014/01/23/cdnhostedblog.html
+- /2014/01/23/CDNHostedBlog.html
+- /2014/01/23/cdnhostedblog.html
 disqus_identifier: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 disqus_url: https://www.tiernanotoole.ie/2014/01/23/CDNHostedBlog.html
 

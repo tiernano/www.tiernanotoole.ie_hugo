@@ -6,8 +6,6 @@ tags:
 - HomeLab
 title: Meraki and Ubiquiti networks gear Update
 slug: meraki-gear-update
-aliases:
-- 2016/06/20/meraki-gear-update.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/06/20/meraki-gear-update.html
 disqus_url: https://www.tiernanotoole.ie/2016/06/20/meraki-gear-update.html
 

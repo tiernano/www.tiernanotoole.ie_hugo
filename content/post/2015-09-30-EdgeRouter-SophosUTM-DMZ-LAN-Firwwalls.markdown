@@ -9,8 +9,8 @@ tags:
 title: Edge Router, Sophos UTM, DMZ and LAN Networks
 slug: EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls
 aliases:
-- 2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls.html
-- 2015/09/30/edgerouter-sophosutm-dmz-lan-firwwalls.html
+- /2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls.html
+- /2015/09/30/edgerouter-sophosutm-dmz-lan-firwwalls.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls.html
 disqus_url: https://www.tiernanotoole.ie/2015/09/30/EdgeRouter-SophosUTM-DMZ-LAN-Firwwalls.html
 

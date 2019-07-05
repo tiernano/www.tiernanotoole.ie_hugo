@@ -6,8 +6,6 @@ tags:
 - Development
 title: Docker Jekyll and Mr ngrok
 slug: docker-jekyll-and-mr-ngrock
-aliases:
-- 2016/11/15/docker-jekyll-and-mr-ngrock.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
 disqus_url: https://www.tiernanotoole.ie/2016/11/15/docker-jekyll-and-mr-ngrock.html
 

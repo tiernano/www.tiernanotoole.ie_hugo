@@ -7,7 +7,7 @@ tags:
 title: RouterOS Blocking Machine access to all but one IP
 slug: routeros_blocking_machine_access
 aliases:
-- 2012/10/11/routeros_blocking_machine_access.html
+- /2012/10/11/routeros_blocking_machine_access.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/11/routeros_blocking_machine_access.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/11/routeros_blocking_machine_access.html
 

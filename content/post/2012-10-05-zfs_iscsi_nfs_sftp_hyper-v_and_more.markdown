@@ -8,7 +8,7 @@ tags:
 title: ZFS iSCSI NFS SFTP Hyper-V and more
 slug: zfs_iscsi_nfs_sftp_hyper-v_and_more
 aliases:
-- 2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
+- /2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 disqus_url: https://www.tiernanotoole.ie/2012/10/05/zfs_iscsi_nfs_sftp_hyper-v_and_more.html
 

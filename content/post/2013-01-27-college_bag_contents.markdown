@@ -5,8 +5,6 @@ tags:
 - Gadgets
 title: College Bag Contents
 slug: college_bag_contents
-aliases:
-- 2013/01/27/college_bag_contents.html
 disqus_identifier: https://www.tiernanotoole.ie/2013/01/27/college_bag_contents.html
 disqus_url: https://www.tiernanotoole.ie/2013/01/27/college_bag_contents.html
 

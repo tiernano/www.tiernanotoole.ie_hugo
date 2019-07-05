@@ -9,7 +9,7 @@ tags:
 title: IPv6 + MikroTik + Linux + Windows
 slug: ipv6_+_mikrotik_+_linux_+_windows
 aliases:
-- 2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html
+- /2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html
 disqus_url: https://www.tiernanotoole.ie/2012/12/19/ipv6_+_mikrotik_+_linux_+_windows.html
 

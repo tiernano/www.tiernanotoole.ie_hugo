@@ -6,7 +6,7 @@ tags:
 title: moving your TMG SQL server Logs DB and other TMG tips
 slug: moving_your_tmg_sql_server_and_other_tmg_tips
 aliases:
-- 2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
+- /2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
 disqus_url: https://www.tiernanotoole.ie/2012/11/22/moving_your_tmg_sql_server_and_other_tmg_tips.html
 

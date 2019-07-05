@@ -1,18 +1,16 @@
----
-date: 2018-04-01 22:55:06 +0000
-publishdate: 2018-04-01 23:00:00 +0000
-published: true
-tags:
-- Networking
-- IPv6
-title: AS204994, Own IP Space and Anycast
-slug: as204994-own-ip-space-and-anycast
-aliases:
-- 2018/04/01/as204994-own-ip-space-and-anycast.html
-disqus_identifier: https://www.tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
-disqus_url: https://www.tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html
++++
+aliases = []
+date = "2018-04-01 22:55:06 +0000"
+publishdate = "2018-04-01 22:55:06 +0000"
+published = true
+slug = "as204994-own-ip-space-and-anycast"
+tags = ["Networking", "IPv6"]
+title = "AS204994, Own IP Space and Anycast"
+disqus_identifier = "https://www.tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html"
 
----
+disqus_url = "https://www.tiernanotoole.ie/2018/04/01/as204994-own-ip-space-and-anycast.html"
++++
+
  So, if you are reading this page, it is being delivered with the magic of Anycast... Well, technically, it was before, since i used [Cloudflare](http://cloudflare.com), and it still is because of Cloudflare, but also because of my own ASN ([As204994](http://as204994.net)), some servers in different locations, and some magic, which i will explain a bit of in this post.
 
 This all started late last year when i got my hands on an ASN and a /48 block of IPv6 addresses. I had been reading stuff about BGP, routing, etc, and decided to go all in. it was quite cheap with the help of [HostUS](https://my.hostus.us/aff.php?aff=2152). All in, it was about $50 for the year. As part of the process, i needed 2 upstream providers to say they would accept my announcement. They were [Hurricane Electric](https://www.he.net) though their [Tunnel Broker](http://www.tunnelbroker.com) service, and [Vultr ](https://www.vultr.com/?ref=6925432)using a few of their VPSs.

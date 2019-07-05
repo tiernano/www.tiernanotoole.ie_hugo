@@ -7,8 +7,8 @@ tags:
 title: Crashplan Backups
 slug: CrashPlan-Backups
 aliases:
-- 2012/09/27/CrashPlan-Backups.html
-- 2012/09/27/crashplan-backups.html
+- /2012/09/27/CrashPlan-Backups.html
+- /2012/09/27/crashplan-backups.html
 disqus_identifier: https://www.tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
 disqus_url: https://www.tiernanotoole.ie/2012/09/27/CrashPlan-Backups.html
 

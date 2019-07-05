@@ -7,8 +7,6 @@ tags:
 - Blogging
 title: Installing Jekyll on Bash On Ubuntu on Windows
 slug: installing-jekyll-on-bash-on-ubuntu-on-windows
-aliases:
-- 2016/04/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/04/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
 disqus_url: https://www.tiernanotoole.ie/2016/04/11/installing-jekyll-on-bash-on-ubuntu-on-windows.html
 

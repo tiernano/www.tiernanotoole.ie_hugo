@@ -7,8 +7,6 @@ tags:
 - Development
 title: Using git and Route53 together
 slug: using-git-and-route53
-aliases:
-- 2015/05/07/using-git-and-route53.html
 disqus_identifier: https://www.tiernanotoole.ie/2015/05/07/using-git-and-route53.html
 disqus_url: https://www.tiernanotoole.ie/2015/05/07/using-git-and-route53.html
 

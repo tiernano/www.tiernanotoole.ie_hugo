@@ -6,8 +6,6 @@ tags:
 - Development
 title: Bash on Ubuntu on Windows
 slug: bash-on-ubuntu-on-windows
-aliases:
-- 2016/03/31/bash-on-ubuntu-on-windows.html
 disqus_identifier: https://www.tiernanotoole.ie/2016/03/31/bash-on-ubuntu-on-windows.html
 disqus_url: https://www.tiernanotoole.ie/2016/03/31/bash-on-ubuntu-on-windows.html
 
