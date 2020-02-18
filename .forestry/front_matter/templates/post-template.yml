@@ -38,7 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/post/auto-deploying-to-multiple-servers-with-github-and-webhooks.md
 - content/post/adding-a-netgear-lb2120-to-the-homelab.md
+- content/post/auto-deploying-to-multiple-servers-with-github-and-webhooks.md
 - content/post/finally-going-all-in-on-voip.md
 - content/post/moving-the-site-to-hugo.md
